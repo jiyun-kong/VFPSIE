@@ -1,0 +1,15 @@
+datasets:
+  bs_ergb:
+    paths:
+      - /scratch2/jiyun.kong/bs_ergb/1_TEST
+  #     - /scratch2/jiyun.kong/bs_ergb/2_VALIDATION
+  #     - /scratch2/jiyun.kong/bs_ergb/3_TRAINING
+    skip_interval: 8  # 7개 예측 후 1개 스킵
+    predict_frames: 7  # 한 번에 예측할 프레임 수
+
+  # hs_ergb:
+  #   paths:
+  #     - /scratch2/jiyun.kong/hs_ergb/close
+  #     - /scratch2/jiyun.kong/hs_ergb/far
+  #   skip_interval: 41  # 40개 예측 후 1개 스킵
+  #   predict_frames: 40  # 한 번에 예측할 프레임 수 

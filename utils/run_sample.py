@@ -1,6 +1,6 @@
 import torch
 import os
-os.environ["CUDA_VISIBLE_DEVICES"] = '7'
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 os.environ["OMP_NUM_THREADS"] = "1"
 os.environ["MKL_NUM_THREADS"] = "1"
 
@@ -32,7 +32,7 @@ def read_Event(path_to_event):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--sample_folder_path', type=str, default='./sample_data')
-    parser.add_argument('--save_output_dir', type=str, default='./output')
+    parser.add_argument('--save_output_dir', type=str, default='./output1')
     parser.add_argument('--ckpt_path', type=str, default='pretrained_model/VFPSIE.pth')
     args = parser.parse_args()
 
@@ -67,24 +67,3 @@ if __name__ == '__main__':
             image_name = image_path_list[i + 1].split('/')[-1]
             path_to_image = os.path.join(path_to_output, image_name)
             cv2.imwrite(path_to_image, np.array(img_pred[0].permute(1, 2, 0).cpu()) * 255.0)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

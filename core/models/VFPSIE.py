@@ -7,7 +7,7 @@ from core.models.submodel import *
 from core.models.SCA import *
 
 class ImageEncoder(nn.Module):
-    def __init__(self, in_channel,init_chs=[24,36,54,72]):
+    def __init__(self, in_channel, init_chs=[24,36,54,72]):
         super(ImageEncoder, self).__init__()
         self.pyramid1 = nn.Sequential(
             conv(in_channel, init_chs[0], 3, 2, 1),
@@ -42,7 +42,7 @@ class ImageEncoder(nn.Module):
 
 
 class EventEncoder(nn.Module):
-    def __init__(self, in_channel,init_chs=[24,36,54,72]):
+    def __init__(self, in_channel, init_chs=[24,36,54,72]):
         super(EventEncoder, self).__init__()
         self.pyramid1 = nn.Sequential(
             conv(in_channel, init_chs[0], 3, 2, 1),

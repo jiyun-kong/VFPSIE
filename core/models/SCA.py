@@ -29,15 +29,20 @@ class Symmetrical_Cross_Modal_Attention(nn.Module):
         self.attn2 = Mutual_Attention(dim, num_heads, bias)
 
     def forward(self, image, event):
-
+ 
         assert image.shape == event.shape, 'the shape of image doesnt equal to event'
 
         b, c, h, w = event.shape
+        
+        # 정규화된 입력 저장
         norm_image = self.norm1_image(image)
         norm_event = self.norm1_event(event)
         
+        
+        # 크로스 어텐션 결과 저장
         enhanced_event = self.attn1(norm_image, norm_event)
-        enhanced_image = self.attn2(norm_event,norm_image)
+        enhanced_image = self.attn2(norm_event, norm_image)
+        
 
         return enhanced_image, enhanced_event
 
