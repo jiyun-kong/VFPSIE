@@ -1,65 +1,58 @@
 # [AAAI 2024] Video Frame Prediction from a Single Image and Events
-<div align='center'>  Juanjuan Zhu*, Zhexiong Wan*, Yuchao Dai† 
-</div>
-<div align='center'> 
-Northwestern Polytechnical University, Xi’an, China
-</div>
-<div align='center'> 
-Shaanxi Key Laboratory of Information Acquisition and Processing
-</div>
 
-## Abstract
-Recently, the task of Video Frame Prediction (VFP), which predicts future video frames from previous ones through extrapolation, has made remarkable progress.  However, the performance of existing VFP methods is still far from satisfactory due to the fixed framerate video used: 1) they have difficulties in handling complex dynamic scenes; 2) they cannot predict future frames with flexible prediction time intervals. 
-The event cameras can record the intensity changes asynchronously with a very high temporal resolution, which provides rich dynamic information about the observed scenes. 
-In this paper, we propose to predict video frames from a single image and the following events, which can not only handle complex dynamic scenes but also predict future frames with flexible prediction time intervals.
-First, we introduce a symmetrical cross-modal attention augmentation module to enhance the complementary information between images and events. 
-Second, we propose to jointly achieve optical flow estimation and frame generation by combining the motion information of events and the semantic information of the image, then inpainting the holes produced by forward warping to obtain an ideal prediction frame.
-Based on these, we propose a lightweight pyramidal coarse-to-fine model that can predict a 720P frame within 25 ms.
-Extensive experiments show that our proposed model significantly outperforms the state-of-the-art frame-based and event-based VFP methods and has the fastest runtime.
-<center>
-  <figure>
-<img src="visualization/model_structure.png" alt="Trajectory">
-  </figure>
-</center>
+> This repository documents personal experiments based on the AAAI 2024 paper:  
+> **"Video Frame Prediction from a Single Image and Events"**  
+> The paper proposes a lightweight, high-speed model that predicts future video frames using a single image and asynchronous event data. It supports flexible prediction intervals and handles complex dynamic scenes effectively.
 
-## Requirements
-* Ubuntu 
-* PyTorch 1.13.1
-* CUDA 11.7
-* python 3.8
+---
 
-build the environment with
-```
+## 📌 Objective
+
+This repo extends the original implementation with the following experimental goals:
+
+- Run **0.25-second frame prediction** based on the framerate of two event datasets: `bs_ergb` and `hs_ergb`
+- Preprocess raw `.npz` event files into `.npy` and `.hdf5` formats aligned with image frames
+- Evaluate model behavior across low/high framerate scenarios using real-world event data
+
+---
+
+## 🗂️ Dataset Overview
+
+| Dataset    | Description |
+|------------|-------------|
+| `bs_ergb`  | Event-based dataset with low framerate |
+| `hs_ergb`  | Event-based dataset with high framerate |
+| Common     | Provided as raw `.npz` files containing asynchronous events (unaligned with images) |
+
+---
+
+## 🧩 Preprocessing Pipeline
+
+### 1. Convert `.npz` → `.npy`
+
+- Raw event data is unaligned with image frames.  
+  To address this, I adapted [`bs_ergb_to_npy.py`](https://github.com/ercanburak/EVREAL/tree/main/tools) from the [EVREAL] project.
+- Custom scripts used:
+  - `utils/bs_ergb_to_npy.py`
+  - `utils/hs_ergb_to_npy.py`
+
+```bash
+python utils/bs_ergb_to_npy.py \
+  --input_dir ./raw_npz_data/bs_ergb \
+  --output_dir ./processed_npy/bs_ergb
+
+
+### 2. Convert `.npy` → `.hdf5`
+
+Converted `.npy` event sequences to `.hdf5` format using `convert_npz.ipynb`.  
+This ensures compatibility with the model’s input loader.
+
+---
+
+## 🛠️ Environment Setup
+
+```bash
 conda create -y -n VFPSIE python=3.8
+conda activate VFPSIE
 pip install torch==1.13.1+cu117 torchvision==0.14.1+cu117 torchaudio==0.13.1 --extra-index-url https://download.pytorch.org/whl/cu117
 pip install -r requirements.txt
-```
-
-## Quick Usage
-Generate a target frame using our model:
-```
-python run_sample.py  --sample_folder_path  ./sample_data --ckpt_path pretrained_model/VFPSIE.pth --save_output_dir ./output 
-```
-
-### Citation
-```bibtex
-@inproceedings{Zhu_VFPSIE_AAAI_2024,
-  title={Video Frame Prediction from a Single Image and Events},
-  author={Zhu, Juanjuan and Wan, Zhexiong and Dai, Yuchao},
-  booktitle={ AAAI Conference on Artificial Intelligence (AAAI) },
-  year={2024},
-} 
-```
-
-## Acknowledgement
-Thanks for the inspiration from the following work:
-* [TimeLens: Event-based Video Frame Interpolation](https://github.com/uzh-rpg/rpg_timelens)
-* [ESIM: an Open Event Camera Simulator](https://github.com/uzh-rpg/rpg_esim)
-* [Video to Events: Recycling Video Datasets for Event Cameras](https://github.com/uzh-rpg/rpg_vid2e)
-* [IFRNet: Intermediate Feature Refine Network for Efficient Frame Interpolation](https://github.com/ltkong218/IFRNet)
-* [Raft: Recurrent all-pairs field transforms for optical flow](https://github.com/princeton-vl/RAFT)
-
-
-
-
-
