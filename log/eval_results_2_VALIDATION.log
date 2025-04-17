@@ -1,0 +1,550 @@
+CUDA is available.
+
+=== Evaluation Results ===
+
+- Evaluating: horse_09
+horse_09_0 - PSNR: 27.99, SSIM: 0.9033, LPIPS: 0.1016
+horse_09_1 - PSNR: 27.24, SSIM: 0.8992, LPIPS: 0.1038
+horse_09_2 - PSNR: 26.69, SSIM: 0.8941, LPIPS: 0.1073
+horse_09_3 - PSNR: 25.83, SSIM: 0.8901, LPIPS: 0.1103
+horse_09_4 - PSNR: 25.36, SSIM: 0.8862, LPIPS: 0.1146
+horse_09_5 - PSNR: 24.54, SSIM: 0.8748, LPIPS: 0.1224
+horse_09_6 - PSNR: 22.15, SSIM: 0.8445, LPIPS: 0.1444
+horse_09_7 - PSNR: 19.92, SSIM: 0.8174, LPIPS: 0.1679
+horse_09_8 - PSNR: 17.41, SSIM: 0.7658, LPIPS: 0.2048
+horse_09_9 - PSNR: 17.01, SSIM: 0.7471, LPIPS: 0.2178
+
+horse_09 Average - PSNR: 23.42, SSIM: 0.8522, LPIPS: 0.1395
+------------------------------------------------------------
+
+- Evaluating: street_crossing_07
+street_crossing_07_0 - PSNR: 15.30, SSIM: 0.5873, LPIPS: 0.3282
+street_crossing_07_1 - PSNR: 16.44, SSIM: 0.6694, LPIPS: 0.1754
+street_crossing_07_2 - PSNR: 17.23, SSIM: 0.7580, LPIPS: 0.1498
+street_crossing_07_3 - PSNR: 17.01, SSIM: 0.7523, LPIPS: 0.1498
+street_crossing_07_4 - PSNR: 15.20, SSIM: 0.5572, LPIPS: 0.2327
+street_crossing_07_5 - PSNR: 17.11, SSIM: 0.6896, LPIPS: 0.1970
+street_crossing_07_6 - PSNR: 13.63, SSIM: 0.4081, LPIPS: 0.3636
+street_crossing_07_7 - PSNR: 12.14, SSIM: 0.2949, LPIPS: 0.4322
+street_crossing_07_8 - PSNR: 13.23, SSIM: 0.3513, LPIPS: 0.3262
+street_crossing_07_9 - PSNR: 11.08, SSIM: 0.2833, LPIPS: 0.5179
+street_crossing_07_10 - PSNR: 13.94, SSIM: 0.3582, LPIPS: 0.3867
+street_crossing_07_11 - PSNR: 11.90, SSIM: 0.2693, LPIPS: 0.4642
+street_crossing_07_12 - PSNR: 12.96, SSIM: 0.3170, LPIPS: 0.3959
+street_crossing_07_13 - PSNR: 12.42, SSIM: 0.3638, LPIPS: 0.3941
+street_crossing_07_14 - PSNR: 12.77, SSIM: 0.3596, LPIPS: 0.4005
+street_crossing_07_15 - PSNR: 11.26, SSIM: 0.3329, LPIPS: 0.4654
+street_crossing_07_16 - PSNR: 11.58, SSIM: 0.3183, LPIPS: 0.4748
+street_crossing_07_17 - PSNR: 11.11, SSIM: 0.3017, LPIPS: 0.5009
+street_crossing_07_18 - PSNR: 12.16, SSIM: 0.3837, LPIPS: 0.4269
+street_crossing_07_19 - PSNR: 11.66, SSIM: 0.3819, LPIPS: 0.4158
+street_crossing_07_20 - PSNR: 12.24, SSIM: 0.4352, LPIPS: 0.3828
+street_crossing_07_21 - PSNR: 14.53, SSIM: 0.5194, LPIPS: 0.3039
+street_crossing_07_22 - PSNR: 15.04, SSIM: 0.6008, LPIPS: 0.2028
+street_crossing_07_23 - PSNR: 13.19, SSIM: 0.4609, LPIPS: 0.3303
+street_crossing_07_24 - PSNR: 14.37, SSIM: 0.5217, LPIPS: 0.2653
+street_crossing_07_25 - PSNR: 14.66, SSIM: 0.5289, LPIPS: 0.2567
+street_crossing_07_26 - PSNR: 15.49, SSIM: 0.6234, LPIPS: 0.2114
+street_crossing_07_27 - PSNR: 11.60, SSIM: 0.3891, LPIPS: 0.4298
+street_crossing_07_28 - PSNR: 12.91, SSIM: 0.4647, LPIPS: 0.3323
+street_crossing_07_29 - PSNR: 13.80, SSIM: 0.4982, LPIPS: 0.2985
+street_crossing_07_30 - PSNR: 15.35, SSIM: 0.6044, LPIPS: 0.2189
+street_crossing_07_31 - PSNR: 15.31, SSIM: 0.5884, LPIPS: 0.2285
+street_crossing_07_32 - PSNR: 14.11, SSIM: 0.4815, LPIPS: 0.2869
+street_crossing_07_33 - PSNR: 15.33, SSIM: 0.5954, LPIPS: 0.2262
+street_crossing_07_34 - PSNR: 15.08, SSIM: 0.5703, LPIPS: 0.2334
+street_crossing_07_35 - PSNR: 13.28, SSIM: 0.4651, LPIPS: 0.3664
+street_crossing_07_36 - PSNR: 14.88, SSIM: 0.5527, LPIPS: 0.2488
+street_crossing_07_37 - PSNR: 14.81, SSIM: 0.5604, LPIPS: 0.2715
+street_crossing_07_38 - PSNR: 13.55, SSIM: 0.4747, LPIPS: 0.3274
+street_crossing_07_39 - PSNR: 16.47, SSIM: 0.7225, LPIPS: 0.1651
+street_crossing_07_40 - PSNR: 17.15, SSIM: 0.8096, LPIPS: 0.1282
+street_crossing_07_41 - PSNR: 13.95, SSIM: 0.5099, LPIPS: 0.3134
+street_crossing_07_42 - PSNR: 12.68, SSIM: 0.4328, LPIPS: 0.3696
+street_crossing_07_43 - PSNR: 13.63, SSIM: 0.4329, LPIPS: 0.3062
+street_crossing_07_44 - PSNR: 14.33, SSIM: 0.4956, LPIPS: 0.2597
+street_crossing_07_45 - PSNR: 15.29, SSIM: 0.6193, LPIPS: 0.2118
+street_crossing_07_46 - PSNR: 16.21, SSIM: 0.6416, LPIPS: 0.2074
+street_crossing_07_47 - PSNR: 15.60, SSIM: 0.6709, LPIPS: 0.1693
+street_crossing_07_48 - PSNR: 15.98, SSIM: 0.7139, LPIPS: 0.1499
+street_crossing_07_49 - PSNR: 15.61, SSIM: 0.6162, LPIPS: 0.2159
+street_crossing_07_50 - PSNR: 14.11, SSIM: 0.5170, LPIPS: 0.2722
+street_crossing_07_51 - PSNR: 13.54, SSIM: 0.4742, LPIPS: 0.3066
+street_crossing_07_52 - PSNR: 14.02, SSIM: 0.5232, LPIPS: 0.2560
+street_crossing_07_53 - PSNR: 15.16, SSIM: 0.6257, LPIPS: 0.2156
+street_crossing_07_54 - PSNR: 14.35, SSIM: 0.5462, LPIPS: 0.2417
+street_crossing_07_55 - PSNR: 15.04, SSIM: 0.5654, LPIPS: 0.2329
+street_crossing_07_56 - PSNR: 17.61, SSIM: 0.8279, LPIPS: 0.1130
+street_crossing_07_57 - PSNR: 16.11, SSIM: 0.6933, LPIPS: 0.1678
+street_crossing_07_58 - PSNR: 16.86, SSIM: 0.7604, LPIPS: 0.1399
+street_crossing_07_59 - PSNR: 17.67, SSIM: 0.8070, LPIPS: 0.1193
+street_crossing_07_60 - PSNR: 20.44, SSIM: 0.8906, LPIPS: 0.0969
+street_crossing_07_61 - PSNR: 15.88, SSIM: 0.6584, LPIPS: 0.1843
+street_crossing_07_62 - PSNR: 16.04, SSIM: 0.6624, LPIPS: 0.1884
+street_crossing_07_63 - PSNR: 16.70, SSIM: 0.6691, LPIPS: 0.1928
+street_crossing_07_64 - PSNR: 18.75, SSIM: 0.7717, LPIPS: 0.1475
+street_crossing_07_65 - PSNR: 16.35, SSIM: 0.7224, LPIPS: 0.1683
+street_crossing_07_66 - PSNR: 15.37, SSIM: 0.6008, LPIPS: 0.2211
+street_crossing_07_67 - PSNR: 15.49, SSIM: 0.6242, LPIPS: 0.2069
+street_crossing_07_68 - PSNR: 18.00, SSIM: 0.7959, LPIPS: 0.1278
+street_crossing_07_69 - PSNR: 18.34, SSIM: 0.7481, LPIPS: 0.1658
+street_crossing_07_70 - PSNR: 14.82, SSIM: 0.5943, LPIPS: 0.2375
+street_crossing_07_71 - PSNR: 15.74, SSIM: 0.6512, LPIPS: 0.1958
+street_crossing_07_72 - PSNR: 16.99, SSIM: 0.7655, LPIPS: 0.1330
+street_crossing_07_73 - PSNR: 16.70, SSIM: 0.7635, LPIPS: 0.1360
+street_crossing_07_74 - PSNR: 17.80, SSIM: 0.8146, LPIPS: 0.1218
+street_crossing_07_75 - PSNR: 16.94, SSIM: 0.6681, LPIPS: 0.2469
+street_crossing_07_76 - PSNR: 15.01, SSIM: 0.5660, LPIPS: 0.2379
+street_crossing_07_77 - PSNR: 14.82, SSIM: 0.5514, LPIPS: 0.2498
+street_crossing_07_78 - PSNR: 15.11, SSIM: 0.5738, LPIPS: 0.2517
+street_crossing_07_79 - PSNR: 13.41, SSIM: 0.5009, LPIPS: 0.3216
+street_crossing_07_80 - PSNR: 14.08, SSIM: 0.5125, LPIPS: 0.2885
+street_crossing_07_81 - PSNR: 14.31, SSIM: 0.5395, LPIPS: 0.2653
+street_crossing_07_82 - PSNR: 15.97, SSIM: 0.6753, LPIPS: 0.1800
+street_crossing_07_83 - PSNR: 17.20, SSIM: 0.7192, LPIPS: 0.1808
+street_crossing_07_84 - PSNR: 14.10, SSIM: 0.5053, LPIPS: 0.2947
+street_crossing_07_85 - PSNR: 15.62, SSIM: 0.6202, LPIPS: 0.2203
+street_crossing_07_86 - PSNR: 16.82, SSIM: 0.6752, LPIPS: 0.1903
+street_crossing_07_87 - PSNR: 15.65, SSIM: 0.6692, LPIPS: 0.1899
+street_crossing_07_88 - PSNR: 14.60, SSIM: 0.5477, LPIPS: 0.2344
+street_crossing_07_89 - PSNR: 15.91, SSIM: 0.6451, LPIPS: 0.1955
+street_crossing_07_90 - PSNR: 15.18, SSIM: 0.6229, LPIPS: 0.1876
+street_crossing_07_91 - PSNR: 15.40, SSIM: 0.6512, LPIPS: 0.1816
+street_crossing_07_92 - PSNR: 19.48, SSIM: 0.8962, LPIPS: 0.0916
+street_crossing_07_93 - PSNR: 16.02, SSIM: 0.6922, LPIPS: 0.1612
+street_crossing_07_94 - PSNR: 18.18, SSIM: 0.8041, LPIPS: 0.1285
+street_crossing_07_95 - PSNR: 17.13, SSIM: 0.7686, LPIPS: 0.1467
+street_crossing_07_96 - PSNR: 13.47, SSIM: 0.4787, LPIPS: 0.3254
+street_crossing_07_97 - PSNR: 12.18, SSIM: 0.4158, LPIPS: 0.3733
+street_crossing_07_98 - PSNR: 12.25, SSIM: 0.3881, LPIPS: 0.3709
+street_crossing_07_99 - PSNR: 14.74, SSIM: 0.5312, LPIPS: 0.2349
+street_crossing_07_100 - PSNR: 14.27, SSIM: 0.4894, LPIPS: 0.2644
+street_crossing_07_101 - PSNR: 13.62, SSIM: 0.4633, LPIPS: 0.2923
+street_crossing_07_102 - PSNR: 14.35, SSIM: 0.4638, LPIPS: 0.2831
+street_crossing_07_103 - PSNR: 16.92, SSIM: 0.7763, LPIPS: 0.1451
+street_crossing_07_104 - PSNR: 15.63, SSIM: 0.6275, LPIPS: 0.1999
+street_crossing_07_105 - PSNR: 15.85, SSIM: 0.6531, LPIPS: 0.1893
+street_crossing_07_106 - PSNR: 19.08, SSIM: 0.8635, LPIPS: 0.1082
+street_crossing_07_107 - PSNR: 16.73, SSIM: 0.7327, LPIPS: 0.1527
+street_crossing_07_108 - PSNR: 17.81, SSIM: 0.8018, LPIPS: 0.1255
+street_crossing_07_109 - PSNR: 15.04, SSIM: 0.5890, LPIPS: 0.2119
+street_crossing_07_110 - PSNR: 16.58, SSIM: 0.7157, LPIPS: 0.1507
+street_crossing_07_111 - PSNR: 16.16, SSIM: 0.6692, LPIPS: 0.1875
+street_crossing_07_112 - PSNR: 15.54, SSIM: 0.6420, LPIPS: 0.1869
+street_crossing_07_113 - PSNR: 14.80, SSIM: 0.5426, LPIPS: 0.2254
+street_crossing_07_114 - PSNR: 17.14, SSIM: 0.8230, LPIPS: 0.1095
+street_crossing_07_115 - PSNR: 16.77, SSIM: 0.7953, LPIPS: 0.1208
+street_crossing_07_116 - PSNR: 17.44, SSIM: 0.8313, LPIPS: 0.1256
+street_crossing_07_117 - PSNR: 17.06, SSIM: 0.7917, LPIPS: 0.1253
+street_crossing_07_118 - PSNR: 21.44, SSIM: 0.9189, LPIPS: 0.0792
+street_crossing_07_119 - PSNR: 16.84, SSIM: 0.7904, LPIPS: 0.1335
+street_crossing_07_120 - PSNR: 16.51, SSIM: 0.6959, LPIPS: 0.1725
+street_crossing_07_121 - PSNR: 15.37, SSIM: 0.6351, LPIPS: 0.2015
+street_crossing_07_122 - PSNR: 17.61, SSIM: 0.7437, LPIPS: 0.1495
+street_crossing_07_123 - PSNR: 15.76, SSIM: 0.6607, LPIPS: 0.1791
+street_crossing_07_124 - PSNR: 13.01, SSIM: 0.4401, LPIPS: 0.3200
+street_crossing_07_125 - PSNR: 16.60, SSIM: 0.6530, LPIPS: 0.2057
+street_crossing_07_126 - PSNR: 14.75, SSIM: 0.5554, LPIPS: 0.2216
+street_crossing_07_127 - PSNR: 13.28, SSIM: 0.4424, LPIPS: 0.3047
+street_crossing_07_128 - PSNR: 14.70, SSIM: 0.5266, LPIPS: 0.2392
+street_crossing_07_129 - PSNR: 16.20, SSIM: 0.7405, LPIPS: 0.1553
+street_crossing_07_130 - PSNR: 14.89, SSIM: 0.5406, LPIPS: 0.2381
+street_crossing_07_131 - PSNR: 13.86, SSIM: 0.4853, LPIPS: 0.2706
+street_crossing_07_132 - PSNR: 14.72, SSIM: 0.5775, LPIPS: 0.2322
+street_crossing_07_133 - PSNR: 12.88, SSIM: 0.4341, LPIPS: 0.3333
+street_crossing_07_134 - PSNR: 15.68, SSIM: 0.6362, LPIPS: 0.2149
+street_crossing_07_135 - PSNR: 14.13, SSIM: 0.5219, LPIPS: 0.2264
+street_crossing_07_136 - PSNR: 14.99, SSIM: 0.6070, LPIPS: 0.1964
+street_crossing_07_137 - PSNR: 16.70, SSIM: 0.7437, LPIPS: 0.1597
+street_crossing_07_138 - PSNR: 17.70, SSIM: 0.8517, LPIPS: 0.1200
+street_crossing_07_139 - PSNR: 16.06, SSIM: 0.7057, LPIPS: 0.1600
+street_crossing_07_140 - PSNR: 14.44, SSIM: 0.5091, LPIPS: 0.2561
+street_crossing_07_141 - PSNR: 15.80, SSIM: 0.7018, LPIPS: 0.1577
+street_crossing_07_142 - PSNR: 16.44, SSIM: 0.7930, LPIPS: 0.1214
+street_crossing_07_143 - PSNR: 16.56, SSIM: 0.7911, LPIPS: 0.1253
+street_crossing_07_144 - PSNR: 16.70, SSIM: 0.7727, LPIPS: 0.1428
+street_crossing_07_145 - PSNR: 15.70, SSIM: 0.6641, LPIPS: 0.1653
+street_crossing_07_146 - PSNR: 15.67, SSIM: 0.7212, LPIPS: 0.1429
+street_crossing_07_147 - PSNR: 15.37, SSIM: 0.6260, LPIPS: 0.1892
+street_crossing_07_148 - PSNR: 15.75, SSIM: 0.6405, LPIPS: 0.1999
+street_crossing_07_149 - PSNR: 16.27, SSIM: 0.7403, LPIPS: 0.1388
+street_crossing_07_150 - PSNR: 17.27, SSIM: 0.7942, LPIPS: 0.1211
+street_crossing_07_151 - PSNR: 15.53, SSIM: 0.6291, LPIPS: 0.2050
+street_crossing_07_152 - PSNR: 15.35, SSIM: 0.5866, LPIPS: 0.2144
+
+street_crossing_07 Average - PSNR: 15.29, SSIM: 0.6064, LPIPS: 0.2311
+------------------------------------------------------------
+
+- Evaluating: horse_19
+horse_19_0 - PSNR: 24.84, SSIM: 0.8191, LPIPS: 0.1741
+horse_19_1 - PSNR: 23.27, SSIM: 0.7885, LPIPS: 0.2028
+horse_19_2 - PSNR: 23.63, SSIM: 0.7694, LPIPS: 0.2200
+horse_19_3 - PSNR: 24.16, SSIM: 0.7897, LPIPS: 0.2115
+horse_19_4 - PSNR: 25.02, SSIM: 0.8299, LPIPS: 0.1712
+horse_19_5 - PSNR: 25.19, SSIM: 0.8399, LPIPS: 0.1569
+horse_19_6 - PSNR: 25.73, SSIM: 0.8522, LPIPS: 0.1423
+horse_19_7 - PSNR: 26.87, SSIM: 0.8725, LPIPS: 0.1247
+
+horse_19 Average - PSNR: 24.84, SSIM: 0.8201, LPIPS: 0.1754
+------------------------------------------------------------
+
+- Evaluating: basket_07
+basket_07_0 - PSNR: 15.26, SSIM: 0.8102, LPIPS: 0.1742
+basket_07_1 - PSNR: 18.43, SSIM: 0.8760, LPIPS: 0.1201
+basket_07_2 - PSNR: 19.35, SSIM: 0.8487, LPIPS: 0.1258
+basket_07_3 - PSNR: 20.43, SSIM: 0.8768, LPIPS: 0.1049
+basket_07_4 - PSNR: 16.53, SSIM: 0.8189, LPIPS: 0.1652
+basket_07_5 - PSNR: 18.72, SSIM: 0.8526, LPIPS: 0.1321
+basket_07_6 - PSNR: 16.65, SSIM: 0.8017, LPIPS: 0.1621
+basket_07_7 - PSNR: 18.60, SSIM: 0.8635, LPIPS: 0.1177
+basket_07_8 - PSNR: 16.39, SSIM: 0.7915, LPIPS: 0.1787
+basket_07_9 - PSNR: 16.37, SSIM: 0.8397, LPIPS: 0.1531
+basket_07_10 - PSNR: 18.23, SSIM: 0.8167, LPIPS: 0.1610
+basket_07_11 - PSNR: 19.56, SSIM: 0.8417, LPIPS: 0.1331
+basket_07_12 - PSNR: 20.02, SSIM: 0.8466, LPIPS: 0.1283
+basket_07_13 - PSNR: 16.45, SSIM: 0.8072, LPIPS: 0.1805
+basket_07_14 - PSNR: 21.43, SSIM: 0.8889, LPIPS: 0.1097
+basket_07_15 - PSNR: 18.94, SSIM: 0.8464, LPIPS: 0.1273
+basket_07_16 - PSNR: 20.46, SSIM: 0.8755, LPIPS: 0.1078
+basket_07_17 - PSNR: 17.08, SSIM: 0.8333, LPIPS: 0.1587
+basket_07_18 - PSNR: 19.43, SSIM: 0.8641, LPIPS: 0.1263
+basket_07_19 - PSNR: 16.89, SSIM: 0.8113, LPIPS: 0.1566
+basket_07_20 - PSNR: 17.59, SSIM: 0.8206, LPIPS: 0.1417
+basket_07_21 - PSNR: 18.29, SSIM: 0.8231, LPIPS: 0.1509
+basket_07_22 - PSNR: 18.20, SSIM: 0.8298, LPIPS: 0.1554
+basket_07_23 - PSNR: 18.73, SSIM: 0.8444, LPIPS: 0.1362
+basket_07_24 - PSNR: 17.83, SSIM: 0.8270, LPIPS: 0.1549
+basket_07_25 - PSNR: 22.01, SSIM: 0.8907, LPIPS: 0.0931
+basket_07_26 - PSNR: 22.04, SSIM: 0.8997, LPIPS: 0.0909
+basket_07_27 - PSNR: 19.97, SSIM: 0.8739, LPIPS: 0.1028
+basket_07_28 - PSNR: 15.76, SSIM: 0.7955, LPIPS: 0.1816
+basket_07_29 - PSNR: 17.13, SSIM: 0.8515, LPIPS: 0.1319
+
+basket_07 Average - PSNR: 18.43, SSIM: 0.8423, LPIPS: 0.1388
+------------------------------------------------------------
+
+- Evaluating: acquarium_07
+acquarium_07_0 - PSNR: 24.15, SSIM: 0.8532, LPIPS: 0.1173
+acquarium_07_1 - PSNR: 23.74, SSIM: 0.8436, LPIPS: 0.1229
+acquarium_07_2 - PSNR: 22.08, SSIM: 0.8304, LPIPS: 0.1433
+acquarium_07_3 - PSNR: 18.40, SSIM: 0.7601, LPIPS: 0.2043
+acquarium_07_4 - PSNR: 20.18, SSIM: 0.7793, LPIPS: 0.1859
+acquarium_07_5 - PSNR: 19.74, SSIM: 0.7667, LPIPS: 0.1918
+acquarium_07_6 - PSNR: 18.66, SSIM: 0.7480, LPIPS: 0.2145
+acquarium_07_7 - PSNR: 19.86, SSIM: 0.7674, LPIPS: 0.1950
+acquarium_07_8 - PSNR: 19.53, SSIM: 0.7684, LPIPS: 0.1977
+
+acquarium_07 Average - PSNR: 20.70, SSIM: 0.7908, LPIPS: 0.1747
+------------------------------------------------------------
+
+- Evaluating: ball_07
+ball_07_0 - PSNR: 17.40, SSIM: 0.6414, LPIPS: 0.2577
+ball_07_1 - PSNR: 19.41, SSIM: 0.6836, LPIPS: 0.2155
+ball_07_2 - PSNR: 16.16, SSIM: 0.6399, LPIPS: 0.2719
+ball_07_3 - PSNR: 19.23, SSIM: 0.6738, LPIPS: 0.2288
+ball_07_4 - PSNR: 18.25, SSIM: 0.6703, LPIPS: 0.2528
+ball_07_5 - PSNR: 19.25, SSIM: 0.6723, LPIPS: 0.2346
+ball_07_6 - PSNR: 18.08, SSIM: 0.6660, LPIPS: 0.2427
+ball_07_7 - PSNR: 16.86, SSIM: 0.6604, LPIPS: 0.2454
+ball_07_8 - PSNR: 19.36, SSIM: 0.6936, LPIPS: 0.2197
+
+ball_07 Average - PSNR: 18.22, SSIM: 0.6668, LPIPS: 0.2410
+------------------------------------------------------------
+
+- Evaluating: may28_pan_01
+may28_pan_01_0 - PSNR: 22.40, SSIM: 0.9074, LPIPS: 0.0754
+may28_pan_01_1 - PSNR: 20.64, SSIM: 0.8916, LPIPS: 0.0847
+may28_pan_01_2 - PSNR: 23.81, SSIM: 0.9174, LPIPS: 0.0662
+may28_pan_01_3 - PSNR: 23.62, SSIM: 0.9270, LPIPS: 0.0589
+may28_pan_01_4 - PSNR: 24.86, SSIM: 0.9357, LPIPS: 0.0536
+may28_pan_01_5 - PSNR: 24.22, SSIM: 0.9298, LPIPS: 0.0600
+may28_pan_01_6 - PSNR: 25.95, SSIM: 0.9435, LPIPS: 0.0505
+may28_pan_01_7 - PSNR: 26.53, SSIM: 0.9499, LPIPS: 0.0479
+may28_pan_01_8 - PSNR: 23.24, SSIM: 0.8497, LPIPS: 0.0934
+may28_pan_01_9 - PSNR: 18.72, SSIM: 0.5806, LPIPS: 0.1912
+may28_pan_01_10 - PSNR: 18.37, SSIM: 0.7651, LPIPS: 0.1719
+may28_pan_01_11 - PSNR: 18.34, SSIM: 0.8221, LPIPS: 0.1656
+may28_pan_01_12 - PSNR: 19.41, SSIM: 0.8438, LPIPS: 0.1419
+may28_pan_01_13 - PSNR: 17.73, SSIM: 0.8180, LPIPS: 0.1688
+may28_pan_01_14 - PSNR: 20.08, SSIM: 0.8626, LPIPS: 0.1280
+may28_pan_01_15 - PSNR: 18.28, SSIM: 0.8414, LPIPS: 0.1492
+may28_pan_01_16 - PSNR: 16.15, SSIM: 0.7935, LPIPS: 0.1964
+may28_pan_01_17 - PSNR: 20.20, SSIM: 0.8762, LPIPS: 0.1212
+may28_pan_01_18 - PSNR: 17.47, SSIM: 0.8335, LPIPS: 0.1515
+may28_pan_01_19 - PSNR: 20.89, SSIM: 0.8842, LPIPS: 0.1070
+may28_pan_01_20 - PSNR: 18.73, SSIM: 0.8554, LPIPS: 0.1347
+may28_pan_01_21 - PSNR: 20.30, SSIM: 0.8708, LPIPS: 0.1260
+
+may28_pan_01 Average - PSNR: 20.91, SSIM: 0.8591, LPIPS: 0.1156
+------------------------------------------------------------
+
+- Evaluating: candies_02
+candies_02_0 - PSNR: 22.07, SSIM: 0.5271, LPIPS: 0.2279
+candies_02_1 - PSNR: 22.14, SSIM: 0.5312, LPIPS: 0.2261
+candies_02_2 - PSNR: 21.28, SSIM: 0.5270, LPIPS: 0.2346
+candies_02_3 - PSNR: 18.58, SSIM: 0.5042, LPIPS: 0.2709
+
+candies_02 Average - PSNR: 21.02, SSIM: 0.5223, LPIPS: 0.2399
+------------------------------------------------------------
+
+- Evaluating: pen_02
+pen_02_0 - PSNR: 18.45, SSIM: 0.4958, LPIPS: 0.2964
+pen_02_1 - PSNR: 16.94, SSIM: 0.4512, LPIPS: 0.3781
+pen_02_2 - PSNR: 18.46, SSIM: 0.4645, LPIPS: 0.3219
+pen_02_3 - PSNR: 19.44, SSIM: 0.4946, LPIPS: 0.2820
+pen_02_4 - PSNR: 16.86, SSIM: 0.4518, LPIPS: 0.3702
+pen_02_5 - PSNR: 18.60, SSIM: 0.4763, LPIPS: 0.3089
+
+pen_02 Average - PSNR: 18.13, SSIM: 0.4724, LPIPS: 0.3263
+------------------------------------------------------------
+
+- Evaluating: football_03
+football_03_0 - PSNR: 30.30, SSIM: 0.9520, LPIPS: 0.0606
+football_03_1 - PSNR: 26.04, SSIM: 0.9320, LPIPS: 0.0813
+football_03_2 - PSNR: 19.32, SSIM: 0.8938, LPIPS: 0.1178
+football_03_3 - PSNR: 20.24, SSIM: 0.8808, LPIPS: 0.1413
+football_03_4 - PSNR: 19.58, SSIM: 0.8856, LPIPS: 0.1284
+football_03_5 - PSNR: 26.53, SSIM: 0.9162, LPIPS: 0.0950
+football_03_6 - PSNR: 24.28, SSIM: 0.9167, LPIPS: 0.0964
+football_03_7 - PSNR: 22.76, SSIM: 0.9031, LPIPS: 0.1077
+football_03_8 - PSNR: 22.72, SSIM: 0.9051, LPIPS: 0.1056
+football_03_9 - PSNR: 28.44, SSIM: 0.9312, LPIPS: 0.0826
+football_03_10 - PSNR: 27.33, SSIM: 0.9268, LPIPS: 0.0851
+football_03_11 - PSNR: 25.57, SSIM: 0.9094, LPIPS: 0.1017
+football_03_12 - PSNR: 23.61, SSIM: 0.9081, LPIPS: 0.1049
+football_03_13 - PSNR: 26.38, SSIM: 0.9293, LPIPS: 0.0839
+football_03_14 - PSNR: 24.91, SSIM: 0.9191, LPIPS: 0.0943
+football_03_15 - PSNR: 24.03, SSIM: 0.9040, LPIPS: 0.1110
+football_03_16 - PSNR: 24.95, SSIM: 0.9155, LPIPS: 0.0993
+football_03_17 - PSNR: 22.77, SSIM: 0.8980, LPIPS: 0.1209
+football_03_18 - PSNR: 19.30, SSIM: 0.8802, LPIPS: 0.1340
+football_03_19 - PSNR: 18.21, SSIM: 0.8697, LPIPS: 0.1393
+football_03_20 - PSNR: 20.13, SSIM: 0.8817, LPIPS: 0.1301
+football_03_21 - PSNR: 19.51, SSIM: 0.8667, LPIPS: 0.1446
+football_03_22 - PSNR: 17.56, SSIM: 0.8747, LPIPS: 0.1324
+football_03_23 - PSNR: 22.93, SSIM: 0.8775, LPIPS: 0.1470
+football_03_24 - PSNR: 19.68, SSIM: 0.8402, LPIPS: 0.1703
+football_03_25 - PSNR: 21.93, SSIM: 0.8789, LPIPS: 0.1328
+football_03_26 - PSNR: 22.71, SSIM: 0.8575, LPIPS: 0.1583
+football_03_27 - PSNR: 23.19, SSIM: 0.8867, LPIPS: 0.1155
+football_03_28 - PSNR: 21.75, SSIM: 0.8717, LPIPS: 0.1455
+football_03_29 - PSNR: 18.93, SSIM: 0.8809, LPIPS: 0.1302
+football_03_30 - PSNR: 25.41, SSIM: 0.9060, LPIPS: 0.1107
+football_03_31 - PSNR: 26.55, SSIM: 0.9208, LPIPS: 0.0888
+football_03_32 - PSNR: 26.85, SSIM: 0.9135, LPIPS: 0.1024
+football_03_33 - PSNR: 24.77, SSIM: 0.9085, LPIPS: 0.1045
+football_03_34 - PSNR: 23.76, SSIM: 0.9055, LPIPS: 0.1036
+
+football_03 Average - PSNR: 23.23, SSIM: 0.8985, LPIPS: 0.1145
+------------------------------------------------------------
+
+- Evaluating: rope_jumping_02
+rope_jumping_02_0 - PSNR: 22.64, SSIM: 0.8781, LPIPS: 0.1336
+rope_jumping_02_1 - PSNR: 23.84, SSIM: 0.8802, LPIPS: 0.1306
+rope_jumping_02_2 - PSNR: 19.50, SSIM: 0.8370, LPIPS: 0.1685
+rope_jumping_02_3 - PSNR: 22.11, SSIM: 0.8668, LPIPS: 0.1464
+rope_jumping_02_4 - PSNR: 21.39, SSIM: 0.8592, LPIPS: 0.1476
+rope_jumping_02_5 - PSNR: 23.38, SSIM: 0.8686, LPIPS: 0.1435
+rope_jumping_02_6 - PSNR: 19.96, SSIM: 0.8418, LPIPS: 0.1653
+rope_jumping_02_7 - PSNR: 21.09, SSIM: 0.8578, LPIPS: 0.1511
+rope_jumping_02_8 - PSNR: 19.93, SSIM: 0.8378, LPIPS: 0.1670
+rope_jumping_02_9 - PSNR: 22.95, SSIM: 0.8762, LPIPS: 0.1365
+rope_jumping_02_10 - PSNR: 20.09, SSIM: 0.8541, LPIPS: 0.1514
+rope_jumping_02_11 - PSNR: 21.44, SSIM: 0.8587, LPIPS: 0.1460
+rope_jumping_02_12 - PSNR: 24.59, SSIM: 0.8870, LPIPS: 0.1179
+rope_jumping_02_13 - PSNR: 25.17, SSIM: 0.8903, LPIPS: 0.1127
+rope_jumping_02_14 - PSNR: 26.21, SSIM: 0.8988, LPIPS: 0.1063
+rope_jumping_02_15 - PSNR: 23.66, SSIM: 0.8862, LPIPS: 0.1149
+rope_jumping_02_16 - PSNR: 23.54, SSIM: 0.8826, LPIPS: 0.1187
+rope_jumping_02_17 - PSNR: 24.51, SSIM: 0.8818, LPIPS: 0.1301
+rope_jumping_02_18 - PSNR: 20.30, SSIM: 0.8428, LPIPS: 0.1679
+rope_jumping_02_19 - PSNR: 22.24, SSIM: 0.8646, LPIPS: 0.1445
+rope_jumping_02_20 - PSNR: 24.30, SSIM: 0.8774, LPIPS: 0.1284
+rope_jumping_02_21 - PSNR: 20.04, SSIM: 0.8348, LPIPS: 0.1684
+rope_jumping_02_22 - PSNR: 22.71, SSIM: 0.8748, LPIPS: 0.1411
+rope_jumping_02_23 - PSNR: 23.49, SSIM: 0.8886, LPIPS: 0.1250
+rope_jumping_02_24 - PSNR: 24.44, SSIM: 0.8742, LPIPS: 0.1339
+rope_jumping_02_25 - PSNR: 20.81, SSIM: 0.8477, LPIPS: 0.1580
+rope_jumping_02_26 - PSNR: 21.96, SSIM: 0.8592, LPIPS: 0.1446
+rope_jumping_02_27 - PSNR: 20.84, SSIM: 0.8465, LPIPS: 0.1595
+rope_jumping_02_28 - PSNR: 21.03, SSIM: 0.8646, LPIPS: 0.1452
+rope_jumping_02_29 - PSNR: 20.31, SSIM: 0.8555, LPIPS: 0.1506
+rope_jumping_02_30 - PSNR: 21.54, SSIM: 0.8687, LPIPS: 0.1376
+rope_jumping_02_31 - PSNR: 26.14, SSIM: 0.9043, LPIPS: 0.1003
+rope_jumping_02_32 - PSNR: 26.26, SSIM: 0.9051, LPIPS: 0.0992
+rope_jumping_02_33 - PSNR: 25.40, SSIM: 0.8867, LPIPS: 0.1142
+
+rope_jumping_02 Average - PSNR: 22.58, SSIM: 0.8688, LPIPS: 0.1384
+------------------------------------------------------------
+
+- Evaluating: juggling_05
+juggling_05_0 - PSNR: 14.56, SSIM: 0.6359, LPIPS: 0.2673
+juggling_05_1 - PSNR: 17.47, SSIM: 0.7248, LPIPS: 0.2151
+juggling_05_2 - PSNR: 20.21, SSIM: 0.7876, LPIPS: 0.1636
+juggling_05_3 - PSNR: 17.74, SSIM: 0.7380, LPIPS: 0.2049
+juggling_05_4 - PSNR: 17.28, SSIM: 0.7231, LPIPS: 0.2180
+juggling_05_5 - PSNR: 19.22, SSIM: 0.7525, LPIPS: 0.1779
+juggling_05_6 - PSNR: 18.08, SSIM: 0.7537, LPIPS: 0.1862
+juggling_05_7 - PSNR: 17.49, SSIM: 0.7520, LPIPS: 0.1922
+juggling_05_8 - PSNR: 16.89, SSIM: 0.7413, LPIPS: 0.1993
+juggling_05_9 - PSNR: 17.20, SSIM: 0.7489, LPIPS: 0.1914
+juggling_05_10 - PSNR: 17.00, SSIM: 0.7473, LPIPS: 0.1956
+juggling_05_11 - PSNR: 17.83, SSIM: 0.7468, LPIPS: 0.1936
+juggling_05_12 - PSNR: 16.27, SSIM: 0.6810, LPIPS: 0.2248
+juggling_05_13 - PSNR: 17.19, SSIM: 0.7312, LPIPS: 0.2002
+juggling_05_14 - PSNR: 17.07, SSIM: 0.7433, LPIPS: 0.1947
+juggling_05_15 - PSNR: 16.81, SSIM: 0.7012, LPIPS: 0.2173
+juggling_05_16 - PSNR: 17.33, SSIM: 0.7073, LPIPS: 0.2058
+juggling_05_17 - PSNR: 16.86, SSIM: 0.6952, LPIPS: 0.2247
+juggling_05_18 - PSNR: 16.99, SSIM: 0.7231, LPIPS: 0.2084
+juggling_05_19 - PSNR: 15.59, SSIM: 0.6415, LPIPS: 0.2415
+juggling_05_20 - PSNR: 17.66, SSIM: 0.7267, LPIPS: 0.1972
+juggling_05_21 - PSNR: 16.68, SSIM: 0.7313, LPIPS: 0.2049
+juggling_05_22 - PSNR: 17.26, SSIM: 0.7207, LPIPS: 0.2103
+juggling_05_23 - PSNR: 16.87, SSIM: 0.7235, LPIPS: 0.2072
+juggling_05_24 - PSNR: 16.86, SSIM: 0.7196, LPIPS: 0.2066
+juggling_05_25 - PSNR: 17.03, SSIM: 0.7390, LPIPS: 0.1977
+juggling_05_26 - PSNR: 16.93, SSIM: 0.7430, LPIPS: 0.1932
+
+juggling_05 Average - PSNR: 17.20, SSIM: 0.7252, LPIPS: 0.2052
+------------------------------------------------------------
+
+- Evaluating: acquarium_06
+acquarium_06_0 - PSNR: 19.49, SSIM: 0.7634, LPIPS: 0.1896
+acquarium_06_1 - PSNR: 17.09, SSIM: 0.6593, LPIPS: 0.2820
+acquarium_06_2 - PSNR: 19.05, SSIM: 0.6896, LPIPS: 0.2332
+acquarium_06_3 - PSNR: 20.32, SSIM: 0.7398, LPIPS: 0.1950
+
+acquarium_06 Average - PSNR: 18.99, SSIM: 0.7130, LPIPS: 0.2250
+------------------------------------------------------------
+
+- Evaluating: eggs_02
+eggs_02_0 - PSNR: 27.80, SSIM: 0.9093, LPIPS: 0.0890
+eggs_02_1 - PSNR: 28.20, SSIM: 0.9130, LPIPS: 0.0843
+eggs_02_2 - PSNR: 25.78, SSIM: 0.8887, LPIPS: 0.1175
+eggs_02_3 - PSNR: 23.85, SSIM: 0.8643, LPIPS: 0.1404
+eggs_02_4 - PSNR: 24.92, SSIM: 0.8425, LPIPS: 0.1651
+eggs_02_5 - PSNR: 20.89, SSIM: 0.8251, LPIPS: 0.1735
+
+eggs_02 Average - PSNR: 25.24, SSIM: 0.8738, LPIPS: 0.1283
+------------------------------------------------------------
+
+- Evaluating: may29_rooftop_handheld_01
+may29_rooftop_handheld_01_0 - PSNR: 12.78, SSIM: 0.3483, LPIPS: 0.4620
+may29_rooftop_handheld_01_1 - PSNR: 12.65, SSIM: 0.2979, LPIPS: 0.4786
+may29_rooftop_handheld_01_2 - PSNR: 12.85, SSIM: 0.2436, LPIPS: 0.5174
+may29_rooftop_handheld_01_3 - PSNR: 14.59, SSIM: 0.2411, LPIPS: 0.4676
+may29_rooftop_handheld_01_4 - PSNR: 13.08, SSIM: 0.2202, LPIPS: 0.4925
+may29_rooftop_handheld_01_5 - PSNR: 12.39, SSIM: 0.1877, LPIPS: 0.5308
+may29_rooftop_handheld_01_6 - PSNR: 13.01, SSIM: 0.2141, LPIPS: 0.5355
+may29_rooftop_handheld_01_7 - PSNR: 13.53, SSIM: 0.2189, LPIPS: 0.4745
+may29_rooftop_handheld_01_8 - PSNR: 12.59, SSIM: 0.1882, LPIPS: 0.5049
+may29_rooftop_handheld_01_9 - PSNR: 12.55, SSIM: 0.1927, LPIPS: 0.4926
+may29_rooftop_handheld_01_10 - PSNR: 13.12, SSIM: 0.1996, LPIPS: 0.4895
+may29_rooftop_handheld_01_11 - PSNR: 12.68, SSIM: 0.1652, LPIPS: 0.5408
+may29_rooftop_handheld_01_12 - PSNR: 14.17, SSIM: 0.2478, LPIPS: 0.4640
+may29_rooftop_handheld_01_13 - PSNR: 12.09, SSIM: 0.1691, LPIPS: 0.5392
+may29_rooftop_handheld_01_14 - PSNR: 12.26, SSIM: 0.2371, LPIPS: 0.5348
+may29_rooftop_handheld_01_15 - PSNR: 12.14, SSIM: 0.2717, LPIPS: 0.5021
+may29_rooftop_handheld_01_16 - PSNR: 13.40, SSIM: 0.3054, LPIPS: 0.4791
+may29_rooftop_handheld_01_17 - PSNR: 12.44, SSIM: 0.2501, LPIPS: 0.5298
+may29_rooftop_handheld_01_18 - PSNR: 11.27, SSIM: 0.2457, LPIPS: 0.5525
+may29_rooftop_handheld_01_19 - PSNR: 16.20, SSIM: 0.3941, LPIPS: 0.3620
+may29_rooftop_handheld_01_20 - PSNR: 11.63, SSIM: 0.2370, LPIPS: 0.5370
+may29_rooftop_handheld_01_21 - PSNR: 14.06, SSIM: 0.2606, LPIPS: 0.4044
+may29_rooftop_handheld_01_22 - PSNR: 12.49, SSIM: 0.2499, LPIPS: 0.4725
+may29_rooftop_handheld_01_23 - PSNR: 12.49, SSIM: 0.3126, LPIPS: 0.4831
+may29_rooftop_handheld_01_24 - PSNR: 13.89, SSIM: 0.3495, LPIPS: 0.4417
+may29_rooftop_handheld_01_25 - PSNR: 12.66, SSIM: 0.3291, LPIPS: 0.4618
+may29_rooftop_handheld_01_26 - PSNR: 12.76, SSIM: 0.3116, LPIPS: 0.4923
+may29_rooftop_handheld_01_27 - PSNR: 11.75, SSIM: 0.1905, LPIPS: 0.5439
+may29_rooftop_handheld_01_28 - PSNR: 12.54, SSIM: 0.1766, LPIPS: 0.4943
+may29_rooftop_handheld_01_29 - PSNR: 13.28, SSIM: 0.1769, LPIPS: 0.4771
+may29_rooftop_handheld_01_30 - PSNR: 12.67, SSIM: 0.1173, LPIPS: 0.5029
+may29_rooftop_handheld_01_31 - PSNR: 13.59, SSIM: 0.1766, LPIPS: 0.4589
+may29_rooftop_handheld_01_32 - PSNR: 12.60, SSIM: 0.1440, LPIPS: 0.5165
+may29_rooftop_handheld_01_33 - PSNR: 12.88, SSIM: 0.1660, LPIPS: 0.4811
+may29_rooftop_handheld_01_34 - PSNR: 13.08, SSIM: 0.1724, LPIPS: 0.4874
+may29_rooftop_handheld_01_35 - PSNR: 11.65, SSIM: 0.0878, LPIPS: 0.5274
+may29_rooftop_handheld_01_36 - PSNR: 12.42, SSIM: 0.1133, LPIPS: 0.5029
+may29_rooftop_handheld_01_37 - PSNR: 12.39, SSIM: 0.0749, LPIPS: 0.5306
+may29_rooftop_handheld_01_38 - PSNR: 9.12, SSIM: 0.0361, LPIPS: 0.6312
+may29_rooftop_handheld_01_39 - PSNR: 10.75, SSIM: 0.2981, LPIPS: 0.5053
+may29_rooftop_handheld_01_40 - PSNR: 9.06, SSIM: 0.2052, LPIPS: 0.5531
+may29_rooftop_handheld_01_41 - PSNR: 11.63, SSIM: 0.1856, LPIPS: 0.5598
+may29_rooftop_handheld_01_42 - PSNR: 11.75, SSIM: 0.1103, LPIPS: 0.5382
+may29_rooftop_handheld_01_43 - PSNR: 11.50, SSIM: 0.0754, LPIPS: 0.5336
+may29_rooftop_handheld_01_44 - PSNR: 9.87, SSIM: 0.0259, LPIPS: 0.5780
+may29_rooftop_handheld_01_45 - PSNR: 9.14, SSIM: 0.0155, LPIPS: 0.5942
+may29_rooftop_handheld_01_46 - PSNR: 9.65, SSIM: 0.0556, LPIPS: 0.5840
+may29_rooftop_handheld_01_47 - PSNR: 10.71, SSIM: 0.0458, LPIPS: 0.5466
+may29_rooftop_handheld_01_48 - PSNR: 10.78, SSIM: 0.0568, LPIPS: 0.5760
+may29_rooftop_handheld_01_49 - PSNR: 10.65, SSIM: 0.0477, LPIPS: 0.5781
+may29_rooftop_handheld_01_50 - PSNR: 11.18, SSIM: 0.0510, LPIPS: 0.5693
+may29_rooftop_handheld_01_51 - PSNR: 11.04, SSIM: 0.0433, LPIPS: 0.5606
+may29_rooftop_handheld_01_52 - PSNR: 10.68, SSIM: 0.0483, LPIPS: 0.5871
+may29_rooftop_handheld_01_53 - PSNR: 11.91, SSIM: 0.0917, LPIPS: 0.5385
+may29_rooftop_handheld_01_54 - PSNR: 11.67, SSIM: 0.0612, LPIPS: 0.5263
+may29_rooftop_handheld_01_55 - PSNR: 10.07, SSIM: 0.0438, LPIPS: 0.5715
+may29_rooftop_handheld_01_56 - PSNR: 9.48, SSIM: 0.0319, LPIPS: 0.5882
+may29_rooftop_handheld_01_57 - PSNR: 8.97, SSIM: 0.0248, LPIPS: 0.5974
+may29_rooftop_handheld_01_58 - PSNR: 9.76, SSIM: 0.0317, LPIPS: 0.6048
+may29_rooftop_handheld_01_59 - PSNR: 8.22, SSIM: 0.0250, LPIPS: 0.6154
+may29_rooftop_handheld_01_60 - PSNR: 9.17, SSIM: 0.0331, LPIPS: 0.5932
+may29_rooftop_handheld_01_61 - PSNR: 9.66, SSIM: 0.0604, LPIPS: 0.5792
+may29_rooftop_handheld_01_62 - PSNR: 10.38, SSIM: 0.1018, LPIPS: 0.5332
+may29_rooftop_handheld_01_63 - PSNR: 9.80, SSIM: 0.1512, LPIPS: 0.5495
+may29_rooftop_handheld_01_64 - PSNR: 11.47, SSIM: 0.2806, LPIPS: 0.5506
+may29_rooftop_handheld_01_65 - PSNR: 14.30, SSIM: 0.1873, LPIPS: 0.4836
+may29_rooftop_handheld_01_66 - PSNR: 13.14, SSIM: 0.1233, LPIPS: 0.5487
+may29_rooftop_handheld_01_67 - PSNR: 15.51, SSIM: 0.1532, LPIPS: 0.4059
+may29_rooftop_handheld_01_68 - PSNR: 17.76, SSIM: 0.3939, LPIPS: 0.2897
+may29_rooftop_handheld_01_69 - PSNR: 18.57, SSIM: 0.5532, LPIPS: 0.2440
+may29_rooftop_handheld_01_70 - PSNR: 18.13, SSIM: 0.4280, LPIPS: 0.2794
+may29_rooftop_handheld_01_71 - PSNR: 18.75, SSIM: 0.5620, LPIPS: 0.2482
+may29_rooftop_handheld_01_72 - PSNR: 19.26, SSIM: 0.6479, LPIPS: 0.2312
+
+may29_rooftop_handheld_01 Average - PSNR: 12.36, SSIM: 0.1887, LPIPS: 0.5046
+------------------------------------------------------------
+
+- Evaluating: basket_06
+basket_06_0 - PSNR: 18.63, SSIM: 0.8163, LPIPS: 0.1507
+basket_06_1 - PSNR: 20.95, SSIM: 0.8627, LPIPS: 0.1069
+basket_06_2 - PSNR: 21.03, SSIM: 0.8640, LPIPS: 0.1213
+basket_06_3 - PSNR: 15.28, SSIM: 0.7771, LPIPS: 0.2083
+basket_06_4 - PSNR: 19.53, SSIM: 0.8553, LPIPS: 0.1359
+basket_06_5 - PSNR: 17.05, SSIM: 0.7862, LPIPS: 0.1813
+basket_06_6 - PSNR: 16.08, SSIM: 0.7901, LPIPS: 0.1674
+basket_06_7 - PSNR: 18.49, SSIM: 0.8226, LPIPS: 0.1545
+basket_06_8 - PSNR: 16.10, SSIM: 0.7772, LPIPS: 0.2108
+basket_06_9 - PSNR: 23.35, SSIM: 0.8854, LPIPS: 0.1217
+
+basket_06 Average - PSNR: 18.65, SSIM: 0.8237, LPIPS: 0.1559
+------------------------------------------------------------
+
+- Evaluating: tomatoes_1000_02
+tomatoes_1000_02_0 - PSNR: 21.72, SSIM: 0.7060, LPIPS: 0.2007
+tomatoes_1000_02_1 - PSNR: 21.37, SSIM: 0.6967, LPIPS: 0.2049
+tomatoes_1000_02_2 - PSNR: 21.66, SSIM: 0.7013, LPIPS: 0.2063
+tomatoes_1000_02_3 - PSNR: 21.57, SSIM: 0.7037, LPIPS: 0.2020
+tomatoes_1000_02_4 - PSNR: 18.71, SSIM: 0.6251, LPIPS: 0.2657
+tomatoes_1000_02_5 - PSNR: 18.28, SSIM: 0.6329, LPIPS: 0.2564
+tomatoes_1000_02_6 - PSNR: 18.63, SSIM: 0.6683, LPIPS: 0.2351
+tomatoes_1000_02_7 - PSNR: 18.68, SSIM: 0.6369, LPIPS: 0.2757
+tomatoes_1000_02_8 - PSNR: 17.34, SSIM: 0.5763, LPIPS: 0.3123
+tomatoes_1000_02_9 - PSNR: 18.61, SSIM: 0.6097, LPIPS: 0.2843
+tomatoes_1000_02_10 - PSNR: 17.79, SSIM: 0.5904, LPIPS: 0.2962
+tomatoes_1000_02_11 - PSNR: 18.56, SSIM: 0.5809, LPIPS: 0.3106
+tomatoes_1000_02_12 - PSNR: 18.27, SSIM: 0.5806, LPIPS: 0.3091
+tomatoes_1000_02_13 - PSNR: 19.00, SSIM: 0.5905, LPIPS: 0.2940
+tomatoes_1000_02_14 - PSNR: 19.34, SSIM: 0.6100, LPIPS: 0.2774
+tomatoes_1000_02_15 - PSNR: 20.29, SSIM: 0.6299, LPIPS: 0.2551
+tomatoes_1000_02_16 - PSNR: 20.79, SSIM: 0.6403, LPIPS: 0.2467
+tomatoes_1000_02_17 - PSNR: 20.48, SSIM: 0.6375, LPIPS: 0.2468
+tomatoes_1000_02_18 - PSNR: 18.56, SSIM: 0.6121, LPIPS: 0.2746
+tomatoes_1000_02_19 - PSNR: 18.99, SSIM: 0.6250, LPIPS: 0.2820
+tomatoes_1000_02_20 - PSNR: 18.52, SSIM: 0.5931, LPIPS: 0.2899
+tomatoes_1000_02_21 - PSNR: 19.54, SSIM: 0.6163, LPIPS: 0.2623
+
+tomatoes_1000_02 Average - PSNR: 19.40, SSIM: 0.6302, LPIPS: 0.2631
+------------------------------------------------------------

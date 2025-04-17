@@ -1,0 +1,291 @@
+CUDA is available.
+
+=== Evaluation Results ===
+
+- Evaluating: spinning_plate
+spinning_plate_0 - PSNR: 34.69, SSIM: 0.9239, LPIPS: 0.1857
+spinning_plate_1 - PSNR: 34.88, SSIM: 0.9250, LPIPS: 0.1846
+spinning_plate_2 - PSNR: 34.73, SSIM: 0.9236, LPIPS: 0.1865
+spinning_plate_3 - PSNR: 27.60, SSIM: 0.8768, LPIPS: 0.2222
+spinning_plate_4 - PSNR: 25.28, SSIM: 0.8540, LPIPS: 0.2473
+spinning_plate_5 - PSNR: 26.41, SSIM: 0.8876, LPIPS: 0.2176
+spinning_plate_6 - PSNR: 30.29, SSIM: 0.9098, LPIPS: 0.1976
+spinning_plate_7 - PSNR: 29.74, SSIM: 0.9098, LPIPS: 0.1983
+spinning_plate_8 - PSNR: 29.92, SSIM: 0.9099, LPIPS: 0.1981
+spinning_plate_9 - PSNR: 29.37, SSIM: 0.9096, LPIPS: 0.1980
+spinning_plate_10 - PSNR: 30.57, SSIM: 0.9113, LPIPS: 0.1969
+spinning_plate_11 - PSNR: 28.79, SSIM: 0.9084, LPIPS: 0.1980
+spinning_plate_12 - PSNR: 30.49, SSIM: 0.9101, LPIPS: 0.1984
+spinning_plate_13 - PSNR: 28.24, SSIM: 0.9080, LPIPS: 0.1993
+spinning_plate_14 - PSNR: 30.72, SSIM: 0.9103, LPIPS: 0.1986
+spinning_plate_15 - PSNR: 28.49, SSIM: 0.9088, LPIPS: 0.1991
+spinning_plate_16 - PSNR: 31.05, SSIM: 0.9120, LPIPS: 0.1972
+spinning_plate_17 - PSNR: 29.54, SSIM: 0.9105, LPIPS: 0.1976
+spinning_plate_18 - PSNR: 30.83, SSIM: 0.9125, LPIPS: 0.1981
+spinning_plate_19 - PSNR: 31.13, SSIM: 0.9128, LPIPS: 0.1976
+spinning_plate_20 - PSNR: 29.31, SSIM: 0.9102, LPIPS: 0.1983
+spinning_plate_21 - PSNR: 31.26, SSIM: 0.9133, LPIPS: 0.1972
+spinning_plate_22 - PSNR: 31.50, SSIM: 0.9137, LPIPS: 0.1966
+spinning_plate_23 - PSNR: 30.98, SSIM: 0.9134, LPIPS: 0.1966
+spinning_plate_24 - PSNR: 30.24, SSIM: 0.9123, LPIPS: 0.1981
+spinning_plate_25 - PSNR: 30.36, SSIM: 0.9129, LPIPS: 0.1970
+spinning_plate_26 - PSNR: 30.63, SSIM: 0.9133, LPIPS: 0.1965
+spinning_plate_27 - PSNR: 31.13, SSIM: 0.9144, LPIPS: 0.1962
+spinning_plate_28 - PSNR: 31.86, SSIM: 0.9156, LPIPS: 0.1956
+spinning_plate_29 - PSNR: 32.07, SSIM: 0.9157, LPIPS: 0.1944
+spinning_plate_30 - PSNR: 32.10, SSIM: 0.9160, LPIPS: 0.1951
+spinning_plate_31 - PSNR: 32.37, SSIM: 0.9170, LPIPS: 0.1941
+spinning_plate_32 - PSNR: 32.84, SSIM: 0.9173, LPIPS: 0.1944
+spinning_plate_33 - PSNR: 32.99, SSIM: 0.9190, LPIPS: 0.1937
+spinning_plate_34 - PSNR: 33.56, SSIM: 0.9191, LPIPS: 0.1928
+spinning_plate_35 - PSNR: 34.96, SSIM: 0.9223, LPIPS: 0.1914
+
+spinning_plate Average - PSNR: 30.86, SSIM: 0.9106, LPIPS: 0.1985
+------------------------------------------------------------
+
+- Evaluating: candle
+candle_0 - PSNR: 15.06, SSIM: 0.6413, LPIPS: 0.4009
+candle_1 - PSNR: 14.91, SSIM: 0.6493, LPIPS: 0.4076
+candle_2 - PSNR: 15.80, SSIM: 0.6647, LPIPS: 0.3665
+candle_3 - PSNR: 13.92, SSIM: 0.6232, LPIPS: 0.4295
+candle_4 - PSNR: 18.59, SSIM: 0.7224, LPIPS: 0.3579
+candle_5 - PSNR: 13.72, SSIM: 0.6271, LPIPS: 0.4217
+candle_6 - PSNR: 13.70, SSIM: 0.6317, LPIPS: 0.4241
+candle_7 - PSNR: 17.71, SSIM: 0.7030, LPIPS: 0.3383
+candle_8 - PSNR: 13.77, SSIM: 0.6182, LPIPS: 0.4201
+candle_9 - PSNR: 13.83, SSIM: 0.6362, LPIPS: 0.4158
+candle_10 - PSNR: 32.81, SSIM: 0.9264, LPIPS: 0.1076
+candle_11 - PSNR: 29.40, SSIM: 0.9297, LPIPS: 0.1018
+candle_12 - PSNR: 27.42, SSIM: 0.9088, LPIPS: 0.1224
+candle_13 - PSNR: 17.15, SSIM: 0.8632, LPIPS: 0.1630
+candle_14 - PSNR: 31.42, SSIM: 0.9404, LPIPS: 0.0966
+candle_15 - PSNR: 23.38, SSIM: 0.9127, LPIPS: 0.1164
+candle_16 - PSNR: 27.60, SSIM: 0.9351, LPIPS: 0.1020
+candle_17 - PSNR: 25.49, SSIM: 0.9197, LPIPS: 0.1148
+
+candle Average - PSNR: 20.32, SSIM: 0.7696, LPIPS: 0.2726
+------------------------------------------------------------
+
+- Evaluating: confetti
+confetti_0 - PSNR: 33.45, SSIM: 0.8829, LPIPS: 0.2217
+confetti_1 - PSNR: 33.45, SSIM: 0.8828, LPIPS: 0.2211
+confetti_2 - PSNR: 33.45, SSIM: 0.8827, LPIPS: 0.2212
+confetti_3 - PSNR: 33.46, SSIM: 0.8826, LPIPS: 0.2221
+confetti_4 - PSNR: 32.95, SSIM: 0.8776, LPIPS: 0.2327
+confetti_5 - PSNR: 32.20, SSIM: 0.8654, LPIPS: 0.2506
+confetti_6 - PSNR: 33.43, SSIM: 0.8825, LPIPS: 0.2219
+confetti_7 - PSNR: 33.44, SSIM: 0.8828, LPIPS: 0.2220
+confetti_8 - PSNR: 33.44, SSIM: 0.8827, LPIPS: 0.2210
+confetti_9 - PSNR: 32.22, SSIM: 0.8704, LPIPS: 0.2452
+confetti_10 - PSNR: 30.07, SSIM: 0.8386, LPIPS: 0.2803
+confetti_11 - PSNR: 28.84, SSIM: 0.8424, LPIPS: 0.2602
+confetti_12 - PSNR: 30.49, SSIM: 0.8654, LPIPS: 0.2311
+confetti_13 - PSNR: 31.59, SSIM: 0.8707, LPIPS: 0.2251
+confetti_14 - PSNR: 32.56, SSIM: 0.8792, LPIPS: 0.2214
+confetti_15 - PSNR: 32.08, SSIM: 0.8749, LPIPS: 0.2235
+
+confetti Average - PSNR: 32.32, SSIM: 0.8727, LPIPS: 0.2326
+------------------------------------------------------------
+
+- Evaluating: fountain_schaffhauserplatz_02
+fountain_schaffhauserplatz_02_0 - PSNR: 17.27, SSIM: 0.4042, LPIPS: 0.4450
+fountain_schaffhauserplatz_02_1 - PSNR: 16.39, SSIM: 0.3492, LPIPS: 0.4651
+fountain_schaffhauserplatz_02_2 - PSNR: 17.56, SSIM: 0.3805, LPIPS: 0.4451
+fountain_schaffhauserplatz_02_3 - PSNR: 16.92, SSIM: 0.3758, LPIPS: 0.4437
+fountain_schaffhauserplatz_02_4 - PSNR: 16.37, SSIM: 0.3655, LPIPS: 0.4607
+fountain_schaffhauserplatz_02_5 - PSNR: 17.15, SSIM: 0.3899, LPIPS: 0.4456
+fountain_schaffhauserplatz_02_6 - PSNR: 17.90, SSIM: 0.3985, LPIPS: 0.4298
+fountain_schaffhauserplatz_02_7 - PSNR: 16.11, SSIM: 0.3667, LPIPS: 0.4592
+fountain_schaffhauserplatz_02_8 - PSNR: 16.05, SSIM: 0.3570, LPIPS: 0.4616
+fountain_schaffhauserplatz_02_9 - PSNR: 17.75, SSIM: 0.3769, LPIPS: 0.4381
+fountain_schaffhauserplatz_02_10 - PSNR: 16.48, SSIM: 0.3755, LPIPS: 0.4580
+fountain_schaffhauserplatz_02_11 - PSNR: 17.46, SSIM: 0.3658, LPIPS: 0.4539
+fountain_schaffhauserplatz_02_12 - PSNR: 20.11, SSIM: 0.4033, LPIPS: 0.4136
+fountain_schaffhauserplatz_02_13 - PSNR: 20.39, SSIM: 0.4098, LPIPS: 0.4137
+fountain_schaffhauserplatz_02_14 - PSNR: 20.11, SSIM: 0.4213, LPIPS: 0.4119
+fountain_schaffhauserplatz_02_15 - PSNR: 19.90, SSIM: 0.4090, LPIPS: 0.4163
+fountain_schaffhauserplatz_02_16 - PSNR: 19.69, SSIM: 0.3909, LPIPS: 0.4184
+fountain_schaffhauserplatz_02_17 - PSNR: 19.99, SSIM: 0.4098, LPIPS: 0.4149
+fountain_schaffhauserplatz_02_18 - PSNR: 20.15, SSIM: 0.4171, LPIPS: 0.4179
+fountain_schaffhauserplatz_02_19 - PSNR: 20.12, SSIM: 0.4054, LPIPS: 0.4129
+fountain_schaffhauserplatz_02_20 - PSNR: 20.14, SSIM: 0.4095, LPIPS: 0.4100
+fountain_schaffhauserplatz_02_21 - PSNR: 20.23, SSIM: 0.4040, LPIPS: 0.4152
+fountain_schaffhauserplatz_02_22 - PSNR: 20.25, SSIM: 0.4038, LPIPS: 0.4137
+fountain_schaffhauserplatz_02_23 - PSNR: 19.90, SSIM: 0.4012, LPIPS: 0.4165
+fountain_schaffhauserplatz_02_24 - PSNR: 20.17, SSIM: 0.4123, LPIPS: 0.4114
+fountain_schaffhauserplatz_02_25 - PSNR: 19.95, SSIM: 0.4087, LPIPS: 0.4176
+fountain_schaffhauserplatz_02_26 - PSNR: 20.21, SSIM: 0.4133, LPIPS: 0.4137
+
+fountain_schaffhauserplatz_02 Average - PSNR: 18.69, SSIM: 0.3935, LPIPS: 0.4305
+------------------------------------------------------------
+
+- Evaluating: water_bomb_floor_01
+water_bomb_floor_01_0 - PSNR: 31.37, SSIM: 0.9891, LPIPS: 0.0295
+water_bomb_floor_01_1 - PSNR: 40.97, SSIM: 0.9916, LPIPS: 0.0278
+water_bomb_floor_01_2 - PSNR: 40.79, SSIM: 0.9914, LPIPS: 0.0282
+water_bomb_floor_01_3 - PSNR: 36.83, SSIM: 0.9871, LPIPS: 0.0319
+water_bomb_floor_01_4 - PSNR: 31.48, SSIM: 0.9713, LPIPS: 0.0409
+water_bomb_floor_01_5 - PSNR: 31.92, SSIM: 0.9776, LPIPS: 0.0386
+water_bomb_floor_01_6 - PSNR: 31.83, SSIM: 0.9705, LPIPS: 0.0421
+water_bomb_floor_01_7 - PSNR: 23.57, SSIM: 0.9156, LPIPS: 0.0817
+water_bomb_floor_01_8 - PSNR: 17.50, SSIM: 0.8490, LPIPS: 0.1389
+water_bomb_floor_01_9 - PSNR: 15.54, SSIM: 0.6958, LPIPS: 0.2344
+water_bomb_floor_01_10 - PSNR: 19.29, SSIM: 0.6116, LPIPS: 0.2482
+water_bomb_floor_01_11 - PSNR: 25.41, SSIM: 0.8234, LPIPS: 0.1606
+water_bomb_floor_01_12 - PSNR: 32.25, SSIM: 0.9499, LPIPS: 0.0811
+water_bomb_floor_01_13 - PSNR: 36.77, SSIM: 0.9758, LPIPS: 0.0534
+water_bomb_floor_01_14 - PSNR: 37.71, SSIM: 0.9803, LPIPS: 0.0492
+
+water_bomb_floor_01 Average - PSNR: 30.22, SSIM: 0.9120, LPIPS: 0.0858
+------------------------------------------------------------
+
+- Evaluating: spinning_umbrella
+spinning_umbrella_0 - PSNR: 23.22, SSIM: 0.7324, LPIPS: 0.2615
+spinning_umbrella_1 - PSNR: 23.19, SSIM: 0.7332, LPIPS: 0.2596
+spinning_umbrella_2 - PSNR: 23.03, SSIM: 0.7322, LPIPS: 0.2599
+spinning_umbrella_3 - PSNR: 22.88, SSIM: 0.7282, LPIPS: 0.2617
+spinning_umbrella_4 - PSNR: 23.16, SSIM: 0.7317, LPIPS: 0.2592
+spinning_umbrella_5 - PSNR: 23.18, SSIM: 0.7303, LPIPS: 0.2634
+spinning_umbrella_6 - PSNR: 23.21, SSIM: 0.7331, LPIPS: 0.2638
+spinning_umbrella_7 - PSNR: 22.87, SSIM: 0.7256, LPIPS: 0.2648
+spinning_umbrella_8 - PSNR: 22.89, SSIM: 0.7237, LPIPS: 0.2664
+spinning_umbrella_9 - PSNR: 22.89, SSIM: 0.7263, LPIPS: 0.2653
+spinning_umbrella_10 - PSNR: 22.99, SSIM: 0.7293, LPIPS: 0.2632
+spinning_umbrella_11 - PSNR: 22.96, SSIM: 0.7268, LPIPS: 0.2666
+spinning_umbrella_12 - PSNR: 23.09, SSIM: 0.7290, LPIPS: 0.2627
+spinning_umbrella_13 - PSNR: 22.87, SSIM: 0.7244, LPIPS: 0.2645
+spinning_umbrella_14 - PSNR: 23.15, SSIM: 0.7371, LPIPS: 0.2554
+spinning_umbrella_15 - PSNR: 23.05, SSIM: 0.7312, LPIPS: 0.2592
+spinning_umbrella_16 - PSNR: 23.18, SSIM: 0.7302, LPIPS: 0.2637
+
+spinning_umbrella Average - PSNR: 23.05, SSIM: 0.7297, LPIPS: 0.2624
+------------------------------------------------------------
+
+- Evaluating: baloon_popping
+baloon_popping_0 - PSNR: 33.82, SSIM: 0.8972, LPIPS: 0.2030
+baloon_popping_1 - PSNR: 33.05, SSIM: 0.8900, LPIPS: 0.2085
+baloon_popping_2 - PSNR: 24.66, SSIM: 0.8451, LPIPS: 0.2703
+baloon_popping_3 - PSNR: 31.38, SSIM: 0.8790, LPIPS: 0.2224
+baloon_popping_4 - PSNR: 33.47, SSIM: 0.8873, LPIPS: 0.2161
+baloon_popping_5 - PSNR: 33.51, SSIM: 0.8881, LPIPS: 0.2149
+
+baloon_popping Average - PSNR: 31.65, SSIM: 0.8811, LPIPS: 0.2225
+------------------------------------------------------------
+
+- Evaluating: fountain_bellevue2
+fountain_bellevue2_0 - PSNR: 14.44, SSIM: 0.7381, LPIPS: 0.1579
+fountain_bellevue2_1 - PSNR: 12.53, SSIM: 0.6847, LPIPS: 0.1998
+fountain_bellevue2_2 - PSNR: 14.27, SSIM: 0.7176, LPIPS: 0.1639
+fountain_bellevue2_3 - PSNR: 12.80, SSIM: 0.6783, LPIPS: 0.2012
+fountain_bellevue2_4 - PSNR: 14.26, SSIM: 0.7262, LPIPS: 0.1591
+fountain_bellevue2_5 - PSNR: 12.83, SSIM: 0.6922, LPIPS: 0.1931
+fountain_bellevue2_6 - PSNR: 13.26, SSIM: 0.6841, LPIPS: 0.1922
+fountain_bellevue2_7 - PSNR: 12.68, SSIM: 0.6601, LPIPS: 0.2043
+fountain_bellevue2_8 - PSNR: 13.27, SSIM: 0.6801, LPIPS: 0.1972
+fountain_bellevue2_9 - PSNR: 13.31, SSIM: 0.6896, LPIPS: 0.1770
+fountain_bellevue2_10 - PSNR: 12.66, SSIM: 0.6576, LPIPS: 0.2178
+fountain_bellevue2_11 - PSNR: 11.81, SSIM: 0.6062, LPIPS: 0.2584
+fountain_bellevue2_12 - PSNR: 12.77, SSIM: 0.6348, LPIPS: 0.2487
+fountain_bellevue2_13 - PSNR: 16.05, SSIM: 0.7225, LPIPS: 0.2197
+fountain_bellevue2_14 - PSNR: 20.82, SSIM: 0.7724, LPIPS: 0.1861
+fountain_bellevue2_15 - PSNR: 20.38, SSIM: 0.7722, LPIPS: 0.1872
+fountain_bellevue2_16 - PSNR: 20.33, SSIM: 0.7662, LPIPS: 0.1899
+fountain_bellevue2_17 - PSNR: 20.09, SSIM: 0.7615, LPIPS: 0.1921
+fountain_bellevue2_18 - PSNR: 20.62, SSIM: 0.7718, LPIPS: 0.1885
+fountain_bellevue2_19 - PSNR: 20.58, SSIM: 0.7600, LPIPS: 0.1890
+fountain_bellevue2_20 - PSNR: 20.07, SSIM: 0.7560, LPIPS: 0.1955
+fountain_bellevue2_21 - PSNR: 20.13, SSIM: 0.7603, LPIPS: 0.1905
+fountain_bellevue2_22 - PSNR: 20.15, SSIM: 0.7655, LPIPS: 0.1904
+fountain_bellevue2_23 - PSNR: 20.01, SSIM: 0.7581, LPIPS: 0.1941
+fountain_bellevue2_24 - PSNR: 19.96, SSIM: 0.7675, LPIPS: 0.1876
+fountain_bellevue2_25 - PSNR: 20.38, SSIM: 0.7750, LPIPS: 0.1849
+fountain_bellevue2_26 - PSNR: 20.05, SSIM: 0.7673, LPIPS: 0.1861
+fountain_bellevue2_27 - PSNR: 19.95, SSIM: 0.7687, LPIPS: 0.1866
+fountain_bellevue2_28 - PSNR: 20.01, SSIM: 0.7641, LPIPS: 0.1873
+fountain_bellevue2_29 - PSNR: 20.23, SSIM: 0.7743, LPIPS: 0.1836
+fountain_bellevue2_30 - PSNR: 20.58, SSIM: 0.7781, LPIPS: 0.1838
+
+fountain_bellevue2 Average - PSNR: 17.14, SSIM: 0.7294, LPIPS: 0.1933
+------------------------------------------------------------
+
+- Evaluating: water_bomb_eth_01
+water_bomb_eth_01_0 - PSNR: 23.10, SSIM: 0.9673, LPIPS: 0.0459
+water_bomb_eth_01_1 - PSNR: 35.53, SSIM: 0.9897, LPIPS: 0.0322
+water_bomb_eth_01_2 - PSNR: 23.14, SSIM: 0.9683, LPIPS: 0.0486
+water_bomb_eth_01_3 - PSNR: 30.89, SSIM: 0.9842, LPIPS: 0.0376
+water_bomb_eth_01_4 - PSNR: 34.85, SSIM: 0.9818, LPIPS: 0.0473
+water_bomb_eth_01_5 - PSNR: 30.29, SSIM: 0.9271, LPIPS: 0.0920
+water_bomb_eth_01_6 - PSNR: 23.44, SSIM: 0.7120, LPIPS: 0.2015
+water_bomb_eth_01_7 - PSNR: 18.20, SSIM: 0.4963, LPIPS: 0.3556
+water_bomb_eth_01_8 - PSNR: 16.94, SSIM: 0.4464, LPIPS: 0.3600
+water_bomb_eth_01_9 - PSNR: 18.77, SSIM: 0.5098, LPIPS: 0.2974
+water_bomb_eth_01_10 - PSNR: 19.90, SSIM: 0.5738, LPIPS: 0.2703
+water_bomb_eth_01_11 - PSNR: 15.99, SSIM: 0.4081, LPIPS: 0.4013
+water_bomb_eth_01_12 - PSNR: 16.61, SSIM: 0.4487, LPIPS: 0.3741
+water_bomb_eth_01_13 - PSNR: 16.86, SSIM: 0.4529, LPIPS: 0.3591
+water_bomb_eth_01_14 - PSNR: 15.14, SSIM: 0.3715, LPIPS: 0.4305
+water_bomb_eth_01_15 - PSNR: 16.57, SSIM: 0.4043, LPIPS: 0.3714
+water_bomb_eth_01_16 - PSNR: 20.08, SSIM: 0.5634, LPIPS: 0.2673
+water_bomb_eth_01_17 - PSNR: 18.61, SSIM: 0.4947, LPIPS: 0.3091
+water_bomb_eth_01_18 - PSNR: 16.03, SSIM: 0.3799, LPIPS: 0.3971
+water_bomb_eth_01_19 - PSNR: 15.46, SSIM: 0.3577, LPIPS: 0.4314
+water_bomb_eth_01_20 - PSNR: 17.51, SSIM: 0.4951, LPIPS: 0.3196
+water_bomb_eth_01_21 - PSNR: 15.38, SSIM: 0.3538, LPIPS: 0.4258
+water_bomb_eth_01_22 - PSNR: 14.57, SSIM: 0.3225, LPIPS: 0.4264
+water_bomb_eth_01_23 - PSNR: 16.76, SSIM: 0.4264, LPIPS: 0.3387
+water_bomb_eth_01_24 - PSNR: 16.55, SSIM: 0.3959, LPIPS: 0.3717
+water_bomb_eth_01_25 - PSNR: 15.29, SSIM: 0.3452, LPIPS: 0.4221
+water_bomb_eth_01_26 - PSNR: 16.51, SSIM: 0.3983, LPIPS: 0.3758
+water_bomb_eth_01_27 - PSNR: 20.01, SSIM: 0.5805, LPIPS: 0.2745
+water_bomb_eth_01_28 - PSNR: 15.84, SSIM: 0.3954, LPIPS: 0.3836
+water_bomb_eth_01_29 - PSNR: 19.51, SSIM: 0.5593, LPIPS: 0.2730
+water_bomb_eth_01_30 - PSNR: 14.50, SSIM: 0.3269, LPIPS: 0.4414
+water_bomb_eth_01_31 - PSNR: 17.86, SSIM: 0.4979, LPIPS: 0.3014
+water_bomb_eth_01_32 - PSNR: 15.76, SSIM: 0.4107, LPIPS: 0.3454
+water_bomb_eth_01_33 - PSNR: 19.23, SSIM: 0.9162, LPIPS: 0.0862
+water_bomb_eth_01_34 - PSNR: 19.85, SSIM: 0.9158, LPIPS: 0.0895
+water_bomb_eth_01_35 - PSNR: 19.18, SSIM: 0.9089, LPIPS: 0.0935
+water_bomb_eth_01_36 - PSNR: 20.76, SSIM: 0.9115, LPIPS: 0.0824
+water_bomb_eth_01_37 - PSNR: 23.89, SSIM: 0.9356, LPIPS: 0.0615
+water_bomb_eth_01_38 - PSNR: 25.61, SSIM: 0.9556, LPIPS: 0.0504
+water_bomb_eth_01_39 - PSNR: 31.89, SSIM: 0.9808, LPIPS: 0.0333
+water_bomb_eth_01_40 - PSNR: 32.56, SSIM: 0.9822, LPIPS: 0.0326
+water_bomb_eth_01_41 - PSNR: 26.28, SSIM: 0.9578, LPIPS: 0.0503
+water_bomb_eth_01_42 - PSNR: 29.09, SSIM: 0.9727, LPIPS: 0.0401
+water_bomb_eth_01_43 - PSNR: 31.71, SSIM: 0.9824, LPIPS: 0.0356
+water_bomb_eth_01_44 - PSNR: 29.57, SSIM: 0.9821, LPIPS: 0.0356
+water_bomb_eth_01_45 - PSNR: 33.54, SSIM: 0.9627, LPIPS: 0.0419
+water_bomb_eth_01_46 - PSNR: 15.68, SSIM: 0.7482, LPIPS: 0.1451
+water_bomb_eth_01_47 - PSNR: 23.01, SSIM: 0.9332, LPIPS: 0.0613
+water_bomb_eth_01_48 - PSNR: 18.01, SSIM: 0.8218, LPIPS: 0.1071
+water_bomb_eth_01_49 - PSNR: 18.30, SSIM: 0.8149, LPIPS: 0.1088
+water_bomb_eth_01_50 - PSNR: 31.37, SSIM: 0.9539, LPIPS: 0.0460
+water_bomb_eth_01_51 - PSNR: 15.14, SSIM: 0.7466, LPIPS: 0.1462
+water_bomb_eth_01_52 - PSNR: 16.01, SSIM: 0.7955, LPIPS: 0.1176
+water_bomb_eth_01_53 - PSNR: 15.32, SSIM: 0.7654, LPIPS: 0.1353
+water_bomb_eth_01_54 - PSNR: 18.05, SSIM: 0.8368, LPIPS: 0.1003
+water_bomb_eth_01_55 - PSNR: 19.44, SSIM: 0.8688, LPIPS: 0.0854
+water_bomb_eth_01_56 - PSNR: 24.33, SSIM: 0.9626, LPIPS: 0.0487
+water_bomb_eth_01_57 - PSNR: 32.50, SSIM: 0.9888, LPIPS: 0.0313
+water_bomb_eth_01_58 - PSNR: 32.07, SSIM: 0.9839, LPIPS: 0.0341
+water_bomb_eth_01_59 - PSNR: 38.22, SSIM: 0.9908, LPIPS: 0.0261
+water_bomb_eth_01_60 - PSNR: 27.76, SSIM: 0.9682, LPIPS: 0.0438
+water_bomb_eth_01_61 - PSNR: 26.86, SSIM: 0.9645, LPIPS: 0.0434
+water_bomb_eth_01_62 - PSNR: 27.02, SSIM: 0.9735, LPIPS: 0.0388
+water_bomb_eth_01_63 - PSNR: 43.67, SSIM: 0.9949, LPIPS: 0.0236
+water_bomb_eth_01_64 - PSNR: 43.91, SSIM: 0.9950, LPIPS: 0.0233
+water_bomb_eth_01_65 - PSNR: 43.96, SSIM: 0.9950, LPIPS: 0.0233
+water_bomb_eth_01_66 - PSNR: 43.96, SSIM: 0.9950, LPIPS: 0.0232
+water_bomb_eth_01_67 - PSNR: 43.97, SSIM: 0.9950, LPIPS: 0.0232
+water_bomb_eth_01_68 - PSNR: 43.05, SSIM: 0.9949, LPIPS: 0.0236
+water_bomb_eth_01_69 - PSNR: 40.48, SSIM: 0.9945, LPIPS: 0.0241
+water_bomb_eth_01_70 - PSNR: 42.57, SSIM: 0.9947, LPIPS: 0.0239
+water_bomb_eth_01_71 - PSNR: 42.81, SSIM: 0.9949, LPIPS: 0.0238
+water_bomb_eth_01_72 - PSNR: 21.78, SSIM: 0.8818, LPIPS: 0.1091
+water_bomb_eth_01_73 - PSNR: 22.33, SSIM: 0.8040, LPIPS: 0.2004
+water_bomb_eth_01_74 - PSNR: 32.54, SSIM: 0.9645, LPIPS: 0.0691
+water_bomb_eth_01_75 - PSNR: 30.18, SSIM: 0.9746, LPIPS: 0.0505
+water_bomb_eth_01_76 - PSNR: 29.99, SSIM: 0.9782, LPIPS: 0.0433
+
+water_bomb_eth_01 Average - PSNR: 24.80, SSIM: 0.7660, LPIPS: 0.1632
+------------------------------------------------------------

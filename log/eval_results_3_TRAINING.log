@@ -1,0 +1,1272 @@
+CUDA is available.
+
+=== Evaluation Results ===
+
+- Evaluating: eggs_01
+eggs_01_0 - PSNR: 17.38, SSIM: 0.8713, LPIPS: 0.0991
+eggs_01_1 - PSNR: 23.46, SSIM: 0.9079, LPIPS: 0.0870
+eggs_01_2 - PSNR: 25.20, SSIM: 0.9092, LPIPS: 0.0998
+eggs_01_3 - PSNR: 23.58, SSIM: 0.9483, LPIPS: 0.0647
+eggs_01_4 - PSNR: 26.68, SSIM: 0.9279, LPIPS: 0.1000
+eggs_01_5 - PSNR: 23.90, SSIM: 0.9078, LPIPS: 0.1172
+
+eggs_01 Average - PSNR: 23.37, SSIM: 0.9121, LPIPS: 0.0946
+------------------------------------------------------------
+
+- Evaluating: ball_02
+ball_02_0 - PSNR: 16.93, SSIM: 0.5779, LPIPS: 0.2727
+ball_02_1 - PSNR: 17.43, SSIM: 0.5560, LPIPS: 0.2788
+ball_02_2 - PSNR: 18.59, SSIM: 0.5770, LPIPS: 0.2398
+ball_02_3 - PSNR: 17.43, SSIM: 0.5601, LPIPS: 0.2487
+ball_02_4 - PSNR: 17.35, SSIM: 0.5573, LPIPS: 0.2612
+ball_02_5 - PSNR: 17.35, SSIM: 0.5556, LPIPS: 0.2571
+ball_02_6 - PSNR: 17.84, SSIM: 0.5648, LPIPS: 0.2624
+ball_02_7 - PSNR: 17.36, SSIM: 0.5568, LPIPS: 0.2786
+ball_02_8 - PSNR: 15.65, SSIM: 0.5229, LPIPS: 0.3154
+ball_02_9 - PSNR: 17.21, SSIM: 0.5821, LPIPS: 0.2437
+
+ball_02 Average - PSNR: 17.31, SSIM: 0.5610, LPIPS: 0.2658
+------------------------------------------------------------
+
+- Evaluating: may29_water_tank_pouring_01
+may29_water_tank_pouring_01_0 - PSNR: 26.81, SSIM: 0.9176, LPIPS: 0.0937
+may29_water_tank_pouring_01_1 - PSNR: 26.58, SSIM: 0.9113, LPIPS: 0.0967
+may29_water_tank_pouring_01_2 - PSNR: 26.28, SSIM: 0.9078, LPIPS: 0.0994
+may29_water_tank_pouring_01_3 - PSNR: 27.11, SSIM: 0.9160, LPIPS: 0.0949
+may29_water_tank_pouring_01_4 - PSNR: 25.75, SSIM: 0.9040, LPIPS: 0.1043
+may29_water_tank_pouring_01_5 - PSNR: 25.52, SSIM: 0.8946, LPIPS: 0.1091
+may29_water_tank_pouring_01_6 - PSNR: 25.62, SSIM: 0.8932, LPIPS: 0.1120
+may29_water_tank_pouring_01_7 - PSNR: 21.34, SSIM: 0.8519, LPIPS: 0.1436
+may29_water_tank_pouring_01_8 - PSNR: 19.43, SSIM: 0.8029, LPIPS: 0.1816
+may29_water_tank_pouring_01_9 - PSNR: 17.24, SSIM: 0.7407, LPIPS: 0.2167
+may29_water_tank_pouring_01_10 - PSNR: 17.31, SSIM: 0.7204, LPIPS: 0.2271
+may29_water_tank_pouring_01_11 - PSNR: 15.79, SSIM: 0.6585, LPIPS: 0.2744
+may29_water_tank_pouring_01_12 - PSNR: 15.60, SSIM: 0.6019, LPIPS: 0.3026
+may29_water_tank_pouring_01_13 - PSNR: 16.17, SSIM: 0.6463, LPIPS: 0.2709
+may29_water_tank_pouring_01_14 - PSNR: 17.02, SSIM: 0.6695, LPIPS: 0.2439
+may29_water_tank_pouring_01_15 - PSNR: 17.75, SSIM: 0.7423, LPIPS: 0.2034
+may29_water_tank_pouring_01_16 - PSNR: 18.10, SSIM: 0.7580, LPIPS: 0.1943
+may29_water_tank_pouring_01_17 - PSNR: 16.68, SSIM: 0.7340, LPIPS: 0.2179
+may29_water_tank_pouring_01_18 - PSNR: 15.41, SSIM: 0.6684, LPIPS: 0.2640
+may29_water_tank_pouring_01_19 - PSNR: 15.02, SSIM: 0.6622, LPIPS: 0.2695
+may29_water_tank_pouring_01_20 - PSNR: 16.07, SSIM: 0.6666, LPIPS: 0.2523
+may29_water_tank_pouring_01_21 - PSNR: 17.72, SSIM: 0.7350, LPIPS: 0.2073
+may29_water_tank_pouring_01_22 - PSNR: 18.69, SSIM: 0.7740, LPIPS: 0.1850
+may29_water_tank_pouring_01_23 - PSNR: 17.63, SSIM: 0.7263, LPIPS: 0.2175
+may29_water_tank_pouring_01_24 - PSNR: 16.15, SSIM: 0.6801, LPIPS: 0.2510
+may29_water_tank_pouring_01_25 - PSNR: 15.36, SSIM: 0.6183, LPIPS: 0.2903
+may29_water_tank_pouring_01_26 - PSNR: 15.20, SSIM: 0.6035, LPIPS: 0.3058
+may29_water_tank_pouring_01_27 - PSNR: 15.12, SSIM: 0.5915, LPIPS: 0.3150
+may29_water_tank_pouring_01_28 - PSNR: 16.71, SSIM: 0.6362, LPIPS: 0.2818
+may29_water_tank_pouring_01_29 - PSNR: 16.20, SSIM: 0.6396, LPIPS: 0.2760
+may29_water_tank_pouring_01_30 - PSNR: 16.87, SSIM: 0.6693, LPIPS: 0.2598
+may29_water_tank_pouring_01_31 - PSNR: 16.32, SSIM: 0.6521, LPIPS: 0.2724
+may29_water_tank_pouring_01_32 - PSNR: 15.87, SSIM: 0.5933, LPIPS: 0.3052
+may29_water_tank_pouring_01_33 - PSNR: 17.14, SSIM: 0.6659, LPIPS: 0.2559
+may29_water_tank_pouring_01_34 - PSNR: 17.66, SSIM: 0.6826, LPIPS: 0.2368
+may29_water_tank_pouring_01_35 - PSNR: 18.14, SSIM: 0.6864, LPIPS: 0.2346
+may29_water_tank_pouring_01_36 - PSNR: 17.69, SSIM: 0.6757, LPIPS: 0.2430
+may29_water_tank_pouring_01_37 - PSNR: 17.64, SSIM: 0.6818, LPIPS: 0.2326
+may29_water_tank_pouring_01_38 - PSNR: 16.32, SSIM: 0.6418, LPIPS: 0.2617
+may29_water_tank_pouring_01_39 - PSNR: 17.17, SSIM: 0.6467, LPIPS: 0.2569
+may29_water_tank_pouring_01_40 - PSNR: 17.74, SSIM: 0.6740, LPIPS: 0.2418
+may29_water_tank_pouring_01_41 - PSNR: 17.99, SSIM: 0.6793, LPIPS: 0.2411
+may29_water_tank_pouring_01_42 - PSNR: 16.99, SSIM: 0.6344, LPIPS: 0.2644
+may29_water_tank_pouring_01_43 - PSNR: 16.68, SSIM: 0.6473, LPIPS: 0.2568
+may29_water_tank_pouring_01_44 - PSNR: 16.59, SSIM: 0.6280, LPIPS: 0.2666
+may29_water_tank_pouring_01_45 - PSNR: 17.64, SSIM: 0.6294, LPIPS: 0.2645
+
+may29_water_tank_pouring_01 Average - PSNR: 18.39, SSIM: 0.7122, LPIPS: 0.2260
+------------------------------------------------------------
+
+- Evaluating: basket_00
+basket_00_0 - PSNR: 13.02, SSIM: 0.7068, LPIPS: 0.2439
+basket_00_1 - PSNR: 17.46, SSIM: 0.8595, LPIPS: 0.1344
+basket_00_2 - PSNR: 19.96, SSIM: 0.8934, LPIPS: 0.1051
+basket_00_3 - PSNR: 22.69, SSIM: 0.9225, LPIPS: 0.0731
+basket_00_4 - PSNR: 22.87, SSIM: 0.9262, LPIPS: 0.0719
+basket_00_5 - PSNR: 20.64, SSIM: 0.9024, LPIPS: 0.0939
+basket_00_6 - PSNR: 18.54, SSIM: 0.8477, LPIPS: 0.1422
+basket_00_7 - PSNR: 16.72, SSIM: 0.8333, LPIPS: 0.1583
+basket_00_8 - PSNR: 20.14, SSIM: 0.8738, LPIPS: 0.1217
+basket_00_9 - PSNR: 16.61, SSIM: 0.8218, LPIPS: 0.1665
+basket_00_10 - PSNR: 18.44, SSIM: 0.8743, LPIPS: 0.1157
+basket_00_11 - PSNR: 20.83, SSIM: 0.8858, LPIPS: 0.0977
+basket_00_12 - PSNR: 21.12, SSIM: 0.8956, LPIPS: 0.0997
+basket_00_13 - PSNR: 18.89, SSIM: 0.8706, LPIPS: 0.1213
+basket_00_14 - PSNR: 20.56, SSIM: 0.8814, LPIPS: 0.1104
+basket_00_15 - PSNR: 19.13, SSIM: 0.8493, LPIPS: 0.1375
+basket_00_16 - PSNR: 16.04, SSIM: 0.8189, LPIPS: 0.1634
+basket_00_17 - PSNR: 15.84, SSIM: 0.8215, LPIPS: 0.1606
+
+basket_00 Average - PSNR: 18.86, SSIM: 0.8603, LPIPS: 0.1287
+------------------------------------------------------------
+
+- Evaluating: may29_rooftop_handheld_06
+may29_rooftop_handheld_06_0 - PSNR: 23.43, SSIM: 0.8466, LPIPS: 0.1286
+may29_rooftop_handheld_06_1 - PSNR: 23.11, SSIM: 0.8279, LPIPS: 0.1391
+may29_rooftop_handheld_06_2 - PSNR: 23.13, SSIM: 0.8609, LPIPS: 0.1317
+may29_rooftop_handheld_06_3 - PSNR: 21.33, SSIM: 0.8383, LPIPS: 0.1383
+may29_rooftop_handheld_06_4 - PSNR: 19.75, SSIM: 0.8601, LPIPS: 0.1347
+may29_rooftop_handheld_06_5 - PSNR: 24.83, SSIM: 0.8804, LPIPS: 0.1175
+may29_rooftop_handheld_06_6 - PSNR: 19.32, SSIM: 0.8481, LPIPS: 0.1401
+may29_rooftop_handheld_06_7 - PSNR: 18.73, SSIM: 0.7886, LPIPS: 0.1684
+may29_rooftop_handheld_06_8 - PSNR: 17.56, SSIM: 0.7683, LPIPS: 0.1845
+may29_rooftop_handheld_06_9 - PSNR: 17.78, SSIM: 0.7546, LPIPS: 0.1915
+may29_rooftop_handheld_06_10 - PSNR: 16.18, SSIM: 0.7267, LPIPS: 0.2342
+may29_rooftop_handheld_06_11 - PSNR: 12.94, SSIM: 0.6257, LPIPS: 0.3159
+may29_rooftop_handheld_06_12 - PSNR: 14.61, SSIM: 0.6928, LPIPS: 0.2453
+may29_rooftop_handheld_06_13 - PSNR: 15.44, SSIM: 0.7063, LPIPS: 0.2452
+may29_rooftop_handheld_06_14 - PSNR: 15.31, SSIM: 0.6881, LPIPS: 0.2532
+may29_rooftop_handheld_06_15 - PSNR: 13.70, SSIM: 0.6018, LPIPS: 0.3136
+may29_rooftop_handheld_06_16 - PSNR: 16.08, SSIM: 0.6809, LPIPS: 0.2603
+may29_rooftop_handheld_06_17 - PSNR: 16.43, SSIM: 0.7396, LPIPS: 0.2037
+may29_rooftop_handheld_06_18 - PSNR: 19.72, SSIM: 0.7968, LPIPS: 0.1659
+may29_rooftop_handheld_06_19 - PSNR: 17.21, SSIM: 0.7267, LPIPS: 0.2168
+may29_rooftop_handheld_06_20 - PSNR: 10.77, SSIM: 0.5519, LPIPS: 0.3711
+may29_rooftop_handheld_06_21 - PSNR: 9.33, SSIM: 0.4405, LPIPS: 0.4874
+may29_rooftop_handheld_06_22 - PSNR: 9.79, SSIM: 0.4388, LPIPS: 0.4549
+may29_rooftop_handheld_06_23 - PSNR: 9.95, SSIM: 0.4160, LPIPS: 0.4909
+may29_rooftop_handheld_06_24 - PSNR: 10.28, SSIM: 0.5136, LPIPS: 0.4307
+may29_rooftop_handheld_06_25 - PSNR: 11.80, SSIM: 0.5697, LPIPS: 0.3776
+may29_rooftop_handheld_06_26 - PSNR: 11.75, SSIM: 0.5322, LPIPS: 0.3933
+may29_rooftop_handheld_06_27 - PSNR: 11.63, SSIM: 0.5716, LPIPS: 0.3327
+may29_rooftop_handheld_06_28 - PSNR: 16.08, SSIM: 0.6947, LPIPS: 0.2386
+may29_rooftop_handheld_06_29 - PSNR: 14.85, SSIM: 0.6627, LPIPS: 0.2676
+may29_rooftop_handheld_06_30 - PSNR: 16.20, SSIM: 0.7157, LPIPS: 0.2306
+may29_rooftop_handheld_06_31 - PSNR: 15.66, SSIM: 0.7137, LPIPS: 0.2194
+may29_rooftop_handheld_06_32 - PSNR: 13.77, SSIM: 0.6285, LPIPS: 0.2854
+may29_rooftop_handheld_06_33 - PSNR: 11.48, SSIM: 0.4767, LPIPS: 0.3931
+may29_rooftop_handheld_06_34 - PSNR: 12.36, SSIM: 0.4901, LPIPS: 0.3893
+may29_rooftop_handheld_06_35 - PSNR: 13.66, SSIM: 0.5436, LPIPS: 0.3398
+may29_rooftop_handheld_06_36 - PSNR: 14.49, SSIM: 0.5440, LPIPS: 0.3387
+may29_rooftop_handheld_06_37 - PSNR: 12.01, SSIM: 0.5105, LPIPS: 0.3630
+may29_rooftop_handheld_06_38 - PSNR: 14.67, SSIM: 0.6575, LPIPS: 0.2570
+may29_rooftop_handheld_06_39 - PSNR: 15.00, SSIM: 0.7002, LPIPS: 0.2394
+may29_rooftop_handheld_06_40 - PSNR: 16.47, SSIM: 0.7000, LPIPS: 0.2280
+may29_rooftop_handheld_06_41 - PSNR: 13.12, SSIM: 0.5407, LPIPS: 0.4198
+may29_rooftop_handheld_06_42 - PSNR: 13.06, SSIM: 0.5967, LPIPS: 0.3099
+may29_rooftop_handheld_06_43 - PSNR: 14.48, SSIM: 0.6043, LPIPS: 0.2803
+may29_rooftop_handheld_06_44 - PSNR: 12.43, SSIM: 0.5154, LPIPS: 0.3644
+may29_rooftop_handheld_06_45 - PSNR: 11.39, SSIM: 0.5241, LPIPS: 0.3920
+may29_rooftop_handheld_06_46 - PSNR: 11.75, SSIM: 0.5771, LPIPS: 0.3644
+may29_rooftop_handheld_06_47 - PSNR: 11.43, SSIM: 0.6115, LPIPS: 0.3423
+may29_rooftop_handheld_06_48 - PSNR: 10.72, SSIM: 0.6112, LPIPS: 0.3547
+may29_rooftop_handheld_06_49 - PSNR: 10.86, SSIM: 0.5704, LPIPS: 0.3639
+may29_rooftop_handheld_06_50 - PSNR: 14.51, SSIM: 0.6142, LPIPS: 0.2970
+may29_rooftop_handheld_06_51 - PSNR: 11.86, SSIM: 0.5703, LPIPS: 0.3592
+may29_rooftop_handheld_06_52 - PSNR: 12.28, SSIM: 0.5622, LPIPS: 0.3363
+may29_rooftop_handheld_06_53 - PSNR: 13.29, SSIM: 0.6096, LPIPS: 0.2906
+may29_rooftop_handheld_06_54 - PSNR: 14.14, SSIM: 0.6174, LPIPS: 0.2782
+may29_rooftop_handheld_06_55 - PSNR: 11.80, SSIM: 0.5763, LPIPS: 0.3234
+may29_rooftop_handheld_06_56 - PSNR: 13.42, SSIM: 0.6307, LPIPS: 0.2826
+
+may29_rooftop_handheld_06 Average - PSNR: 14.72, SSIM: 0.6432, LPIPS: 0.2880
+------------------------------------------------------------
+
+- Evaluating: may29_handheld_02
+may29_handheld_02_0 - PSNR: 14.72, SSIM: 0.4701, LPIPS: 0.4274
+may29_handheld_02_1 - PSNR: 17.65, SSIM: 0.4934, LPIPS: 0.3417
+may29_handheld_02_2 - PSNR: 17.91, SSIM: 0.5284, LPIPS: 0.3285
+may29_handheld_02_3 - PSNR: 17.58, SSIM: 0.5117, LPIPS: 0.3481
+may29_handheld_02_4 - PSNR: 17.06, SSIM: 0.4957, LPIPS: 0.3752
+may29_handheld_02_5 - PSNR: 12.15, SSIM: 0.3940, LPIPS: 0.4910
+may29_handheld_02_6 - PSNR: 15.31, SSIM: 0.4983, LPIPS: 0.4135
+may29_handheld_02_7 - PSNR: 17.47, SSIM: 0.5441, LPIPS: 0.3556
+may29_handheld_02_8 - PSNR: 19.78, SSIM: 0.6214, LPIPS: 0.3006
+may29_handheld_02_9 - PSNR: 18.60, SSIM: 0.5548, LPIPS: 0.3410
+may29_handheld_02_10 - PSNR: 17.58, SSIM: 0.5089, LPIPS: 0.3653
+may29_handheld_02_11 - PSNR: 14.50, SSIM: 0.4242, LPIPS: 0.4562
+may29_handheld_02_12 - PSNR: 16.32, SSIM: 0.4826, LPIPS: 0.3893
+may29_handheld_02_13 - PSNR: 17.17, SSIM: 0.5083, LPIPS: 0.3526
+may29_handheld_02_14 - PSNR: 17.25, SSIM: 0.5187, LPIPS: 0.3434
+may29_handheld_02_15 - PSNR: 14.97, SSIM: 0.4566, LPIPS: 0.4314
+may29_handheld_02_16 - PSNR: 17.88, SSIM: 0.5492, LPIPS: 0.3463
+may29_handheld_02_17 - PSNR: 18.05, SSIM: 0.5158, LPIPS: 0.3286
+may29_handheld_02_18 - PSNR: 17.56, SSIM: 0.5551, LPIPS: 0.3563
+may29_handheld_02_19 - PSNR: 18.27, SSIM: 0.5614, LPIPS: 0.3293
+may29_handheld_02_20 - PSNR: 17.74, SSIM: 0.5324, LPIPS: 0.3471
+may29_handheld_02_21 - PSNR: 18.17, SSIM: 0.5496, LPIPS: 0.3058
+may29_handheld_02_22 - PSNR: 17.71, SSIM: 0.5433, LPIPS: 0.3158
+may29_handheld_02_23 - PSNR: 15.92, SSIM: 0.4894, LPIPS: 0.4025
+may29_handheld_02_24 - PSNR: 18.05, SSIM: 0.5004, LPIPS: 0.3235
+may29_handheld_02_25 - PSNR: 19.35, SSIM: 0.5885, LPIPS: 0.2744
+may29_handheld_02_26 - PSNR: 16.58, SSIM: 0.4518, LPIPS: 0.3850
+
+may29_handheld_02 Average - PSNR: 17.08, SSIM: 0.5129, LPIPS: 0.3620
+------------------------------------------------------------
+
+- Evaluating: horse_06
+horse_06_0 - PSNR: 29.67, SSIM: 0.9537, LPIPS: 0.0503
+horse_06_1 - PSNR: 29.64, SSIM: 0.9534, LPIPS: 0.0501
+horse_06_2 - PSNR: 29.48, SSIM: 0.9529, LPIPS: 0.0505
+horse_06_3 - PSNR: 29.47, SSIM: 0.9524, LPIPS: 0.0510
+horse_06_4 - PSNR: 29.26, SSIM: 0.9518, LPIPS: 0.0507
+horse_06_5 - PSNR: 29.31, SSIM: 0.9520, LPIPS: 0.0512
+horse_06_6 - PSNR: 29.23, SSIM: 0.9526, LPIPS: 0.0512
+horse_06_7 - PSNR: 29.46, SSIM: 0.9534, LPIPS: 0.0507
+horse_06_8 - PSNR: 29.25, SSIM: 0.9524, LPIPS: 0.0514
+horse_06_9 - PSNR: 29.12, SSIM: 0.9526, LPIPS: 0.0509
+horse_06_10 - PSNR: 23.18, SSIM: 0.9230, LPIPS: 0.0764
+horse_06_11 - PSNR: 14.89, SSIM: 0.8055, LPIPS: 0.1650
+horse_06_12 - PSNR: 13.65, SSIM: 0.7371, LPIPS: 0.2154
+horse_06_13 - PSNR: 14.50, SSIM: 0.7401, LPIPS: 0.2004
+
+horse_06 Average - PSNR: 25.72, SSIM: 0.9095, LPIPS: 0.0832
+------------------------------------------------------------
+
+- Evaluating: horse_08
+horse_08_0 - PSNR: 28.54, SSIM: 0.9041, LPIPS: 0.1027
+horse_08_1 - PSNR: 28.71, SSIM: 0.9062, LPIPS: 0.1004
+horse_08_2 - PSNR: 28.67, SSIM: 0.9065, LPIPS: 0.0999
+horse_08_3 - PSNR: 28.65, SSIM: 0.9062, LPIPS: 0.1002
+horse_08_4 - PSNR: 28.64, SSIM: 0.9063, LPIPS: 0.1001
+horse_08_5 - PSNR: 28.60, SSIM: 0.9053, LPIPS: 0.1012
+horse_08_6 - PSNR: 28.48, SSIM: 0.9041, LPIPS: 0.1023
+horse_08_7 - PSNR: 28.35, SSIM: 0.9023, LPIPS: 0.1016
+horse_08_8 - PSNR: 28.18, SSIM: 0.9005, LPIPS: 0.1035
+horse_08_9 - PSNR: 27.34, SSIM: 0.8965, LPIPS: 0.1075
+horse_08_10 - PSNR: 25.75, SSIM: 0.8853, LPIPS: 0.1147
+horse_08_11 - PSNR: 24.47, SSIM: 0.8744, LPIPS: 0.1203
+horse_08_12 - PSNR: 22.56, SSIM: 0.8629, LPIPS: 0.1291
+horse_08_13 - PSNR: 20.92, SSIM: 0.8458, LPIPS: 0.1448
+horse_08_14 - PSNR: 19.31, SSIM: 0.8103, LPIPS: 0.1723
+horse_08_15 - PSNR: 17.37, SSIM: 0.7445, LPIPS: 0.2207
+horse_08_16 - PSNR: 19.99, SSIM: 0.7991, LPIPS: 0.1853
+horse_08_17 - PSNR: 24.12, SSIM: 0.8370, LPIPS: 0.1541
+horse_08_18 - PSNR: 23.42, SSIM: 0.8271, LPIPS: 0.1608
+horse_08_19 - PSNR: 23.43, SSIM: 0.8441, LPIPS: 0.1500
+horse_08_20 - PSNR: 26.81, SSIM: 0.8775, LPIPS: 0.1215
+horse_08_21 - PSNR: 28.57, SSIM: 0.8933, LPIPS: 0.1093
+
+horse_08 Average - PSNR: 25.49, SSIM: 0.8700, LPIPS: 0.1274
+------------------------------------------------------------
+
+- Evaluating: horse_02
+horse_02_0 - PSNR: 23.14, SSIM: 0.8852, LPIPS: 0.1106
+horse_02_1 - PSNR: 24.00, SSIM: 0.8967, LPIPS: 0.1008
+horse_02_2 - PSNR: 26.03, SSIM: 0.9170, LPIPS: 0.0870
+horse_02_3 - PSNR: 27.99, SSIM: 0.9281, LPIPS: 0.0783
+horse_02_4 - PSNR: 28.31, SSIM: 0.9311, LPIPS: 0.0765
+horse_02_5 - PSNR: 28.43, SSIM: 0.9328, LPIPS: 0.0748
+horse_02_6 - PSNR: 28.50, SSIM: 0.9343, LPIPS: 0.0744
+horse_02_7 - PSNR: 28.53, SSIM: 0.9348, LPIPS: 0.0737
+horse_02_8 - PSNR: 28.55, SSIM: 0.9355, LPIPS: 0.0737
+horse_02_9 - PSNR: 28.16, SSIM: 0.9343, LPIPS: 0.0748
+horse_02_10 - PSNR: 27.45, SSIM: 0.9307, LPIPS: 0.0769
+horse_02_11 - PSNR: 27.32, SSIM: 0.9285, LPIPS: 0.0774
+horse_02_12 - PSNR: 27.20, SSIM: 0.9278, LPIPS: 0.0782
+horse_02_13 - PSNR: 27.23, SSIM: 0.9281, LPIPS: 0.0777
+horse_02_14 - PSNR: 27.03, SSIM: 0.9284, LPIPS: 0.0772
+horse_02_15 - PSNR: 27.29, SSIM: 0.9295, LPIPS: 0.0774
+horse_02_16 - PSNR: 27.20, SSIM: 0.9298, LPIPS: 0.0777
+horse_02_17 - PSNR: 27.33, SSIM: 0.9303, LPIPS: 0.0770
+horse_02_18 - PSNR: 27.28, SSIM: 0.9305, LPIPS: 0.0773
+horse_02_19 - PSNR: 27.58, SSIM: 0.9319, LPIPS: 0.0761
+horse_02_20 - PSNR: 24.63, SSIM: 0.9164, LPIPS: 0.0884
+horse_02_21 - PSNR: 18.20, SSIM: 0.8472, LPIPS: 0.1395
+horse_02_22 - PSNR: 19.19, SSIM: 0.8235, LPIPS: 0.1568
+horse_02_23 - PSNR: 18.38, SSIM: 0.8198, LPIPS: 0.1618
+horse_02_24 - PSNR: 19.92, SSIM: 0.8382, LPIPS: 0.1474
+
+horse_02 Average - PSNR: 25.79, SSIM: 0.9108, LPIPS: 0.0916
+------------------------------------------------------------
+
+- Evaluating: acquarium_04
+acquarium_04_0 - PSNR: 28.30, SSIM: 0.9079, LPIPS: 0.0920
+acquarium_04_1 - PSNR: 29.46, SSIM: 0.9094, LPIPS: 0.0891
+acquarium_04_2 - PSNR: 28.21, SSIM: 0.9027, LPIPS: 0.0976
+acquarium_04_3 - PSNR: 22.08, SSIM: 0.8129, LPIPS: 0.1701
+acquarium_04_4 - PSNR: 22.26, SSIM: 0.8126, LPIPS: 0.1673
+acquarium_04_5 - PSNR: 21.83, SSIM: 0.8253, LPIPS: 0.1590
+acquarium_04_6 - PSNR: 22.70, SSIM: 0.8329, LPIPS: 0.1510
+acquarium_04_7 - PSNR: 19.53, SSIM: 0.7945, LPIPS: 0.1886
+acquarium_04_8 - PSNR: 21.03, SSIM: 0.7937, LPIPS: 0.1859
+
+acquarium_04 Average - PSNR: 23.93, SSIM: 0.8435, LPIPS: 0.1445
+------------------------------------------------------------
+
+- Evaluating: horse_riding2
+horse_riding2_0 - PSNR: 29.45, SSIM: 0.8842, LPIPS: 0.0983
+horse_riding2_1 - PSNR: 29.47, SSIM: 0.8846, LPIPS: 0.0981
+horse_riding2_2 - PSNR: 29.26, SSIM: 0.8821, LPIPS: 0.1009
+horse_riding2_3 - PSNR: 26.75, SSIM: 0.8519, LPIPS: 0.1307
+horse_riding2_4 - PSNR: 24.17, SSIM: 0.8303, LPIPS: 0.1540
+horse_riding2_5 - PSNR: 23.40, SSIM: 0.8302, LPIPS: 0.1592
+horse_riding2_6 - PSNR: 25.55, SSIM: 0.8469, LPIPS: 0.1408
+horse_riding2_7 - PSNR: 25.90, SSIM: 0.8522, LPIPS: 0.1322
+horse_riding2_8 - PSNR: 27.49, SSIM: 0.8593, LPIPS: 0.1216
+horse_riding2_9 - PSNR: 27.36, SSIM: 0.8601, LPIPS: 0.1181
+horse_riding2_10 - PSNR: 27.91, SSIM: 0.8577, LPIPS: 0.1157
+horse_riding2_11 - PSNR: 28.80, SSIM: 0.8722, LPIPS: 0.1065
+horse_riding2_12 - PSNR: 29.17, SSIM: 0.8798, LPIPS: 0.1006
+horse_riding2_13 - PSNR: 29.24, SSIM: 0.8803, LPIPS: 0.1002
+horse_riding2_14 - PSNR: 29.32, SSIM: 0.8810, LPIPS: 0.1004
+
+horse_riding2 Average - PSNR: 27.55, SSIM: 0.8635, LPIPS: 0.1185
+------------------------------------------------------------
+
+- Evaluating: horse_x05
+horse_x05_0 - PSNR: 23.61, SSIM: 0.9295, LPIPS: 0.0723
+horse_x05_1 - PSNR: 16.71, SSIM: 0.8354, LPIPS: 0.1446
+horse_x05_2 - PSNR: 15.21, SSIM: 0.7808, LPIPS: 0.1859
+horse_x05_3 - PSNR: 15.64, SSIM: 0.7587, LPIPS: 0.1966
+horse_x05_4 - PSNR: 17.49, SSIM: 0.8260, LPIPS: 0.1437
+horse_x05_5 - PSNR: 27.25, SSIM: 0.9042, LPIPS: 0.0843
+
+horse_x05 Average - PSNR: 19.32, SSIM: 0.8391, LPIPS: 0.1379
+------------------------------------------------------------
+
+- Evaluating: may29_rooftop_handheld_02
+may29_rooftop_handheld_02_0 - PSNR: 10.23, SSIM: 0.1457, LPIPS: 0.5666
+may29_rooftop_handheld_02_1 - PSNR: 11.27, SSIM: 0.1331, LPIPS: 0.5269
+may29_rooftop_handheld_02_2 - PSNR: 11.80, SSIM: 0.0478, LPIPS: 0.5380
+may29_rooftop_handheld_02_3 - PSNR: 12.28, SSIM: 0.0725, LPIPS: 0.5121
+may29_rooftop_handheld_02_4 - PSNR: 10.37, SSIM: 0.0626, LPIPS: 0.5517
+may29_rooftop_handheld_02_5 - PSNR: 11.25, SSIM: 0.0681, LPIPS: 0.5478
+may29_rooftop_handheld_02_6 - PSNR: 9.75, SSIM: 0.0267, LPIPS: 0.5714
+may29_rooftop_handheld_02_7 - PSNR: 8.77, SSIM: 0.0112, LPIPS: 0.5869
+may29_rooftop_handheld_02_8 - PSNR: 10.12, SSIM: 0.0641, LPIPS: 0.5753
+may29_rooftop_handheld_02_9 - PSNR: 10.61, SSIM: 0.0857, LPIPS: 0.5723
+may29_rooftop_handheld_02_10 - PSNR: 11.39, SSIM: 0.0876, LPIPS: 0.5431
+may29_rooftop_handheld_02_11 - PSNR: 10.40, SSIM: 0.0856, LPIPS: 0.5855
+may29_rooftop_handheld_02_12 - PSNR: 9.01, SSIM: 0.0722, LPIPS: 0.6077
+may29_rooftop_handheld_02_13 - PSNR: 11.90, SSIM: 0.1284, LPIPS: 0.5324
+may29_rooftop_handheld_02_14 - PSNR: 12.39, SSIM: 0.1116, LPIPS: 0.5331
+may29_rooftop_handheld_02_15 - PSNR: 11.16, SSIM: 0.0852, LPIPS: 0.5503
+may29_rooftop_handheld_02_16 - PSNR: 11.63, SSIM: 0.1062, LPIPS: 0.5407
+may29_rooftop_handheld_02_17 - PSNR: 11.56, SSIM: 0.1025, LPIPS: 0.5444
+may29_rooftop_handheld_02_18 - PSNR: 10.86, SSIM: 0.0764, LPIPS: 0.5584
+may29_rooftop_handheld_02_19 - PSNR: 11.27, SSIM: 0.0905, LPIPS: 0.5609
+may29_rooftop_handheld_02_20 - PSNR: 11.58, SSIM: 0.1095, LPIPS: 0.5466
+may29_rooftop_handheld_02_21 - PSNR: 11.40, SSIM: 0.0997, LPIPS: 0.5473
+may29_rooftop_handheld_02_22 - PSNR: 10.75, SSIM: 0.0659, LPIPS: 0.5717
+may29_rooftop_handheld_02_23 - PSNR: 10.42, SSIM: 0.0826, LPIPS: 0.5707
+may29_rooftop_handheld_02_24 - PSNR: 10.05, SSIM: 0.1036, LPIPS: 0.5900
+may29_rooftop_handheld_02_25 - PSNR: 12.35, SSIM: 0.1943, LPIPS: 0.5521
+may29_rooftop_handheld_02_26 - PSNR: 11.54, SSIM: 0.1689, LPIPS: 0.5760
+may29_rooftop_handheld_02_27 - PSNR: 11.95, SSIM: 0.1545, LPIPS: 0.5442
+may29_rooftop_handheld_02_28 - PSNR: 11.41, SSIM: 0.1224, LPIPS: 0.5461
+may29_rooftop_handheld_02_29 - PSNR: 8.99, SSIM: 0.1094, LPIPS: 0.5795
+may29_rooftop_handheld_02_30 - PSNR: 10.90, SSIM: 0.2258, LPIPS: 0.5593
+may29_rooftop_handheld_02_31 - PSNR: 8.44, SSIM: 0.1109, LPIPS: 0.6145
+may29_rooftop_handheld_02_32 - PSNR: 9.38, SSIM: 0.0947, LPIPS: 0.5872
+may29_rooftop_handheld_02_33 - PSNR: 9.85, SSIM: 0.1008, LPIPS: 0.5717
+may29_rooftop_handheld_02_34 - PSNR: 9.37, SSIM: 0.0734, LPIPS: 0.5952
+may29_rooftop_handheld_02_35 - PSNR: 7.94, SSIM: 0.0590, LPIPS: 0.6137
+may29_rooftop_handheld_02_36 - PSNR: 8.14, SSIM: 0.1015, LPIPS: 0.6436
+may29_rooftop_handheld_02_37 - PSNR: 8.79, SSIM: 0.0407, LPIPS: 0.6106
+may29_rooftop_handheld_02_38 - PSNR: 7.98, SSIM: 0.0348, LPIPS: 0.5803
+may29_rooftop_handheld_02_39 - PSNR: 9.47, SSIM: 0.0495, LPIPS: 0.5684
+may29_rooftop_handheld_02_40 - PSNR: 11.45, SSIM: 0.0373, LPIPS: 0.5110
+may29_rooftop_handheld_02_41 - PSNR: 12.47, SSIM: 0.0410, LPIPS: 0.5136
+may29_rooftop_handheld_02_42 - PSNR: 12.68, SSIM: 0.0518, LPIPS: 0.5325
+may29_rooftop_handheld_02_43 - PSNR: 12.30, SSIM: 0.0774, LPIPS: 0.5105
+may29_rooftop_handheld_02_44 - PSNR: 13.34, SSIM: 0.1128, LPIPS: 0.4862
+may29_rooftop_handheld_02_45 - PSNR: 12.02, SSIM: 0.0925, LPIPS: 0.4995
+may29_rooftop_handheld_02_46 - PSNR: 11.47, SSIM: 0.1161, LPIPS: 0.4935
+may29_rooftop_handheld_02_47 - PSNR: 11.29, SSIM: 0.1707, LPIPS: 0.5039
+may29_rooftop_handheld_02_48 - PSNR: 12.34, SSIM: 0.2170, LPIPS: 0.4615
+may29_rooftop_handheld_02_49 - PSNR: 12.21, SSIM: 0.2064, LPIPS: 0.4695
+may29_rooftop_handheld_02_50 - PSNR: 12.66, SSIM: 0.1671, LPIPS: 0.4247
+may29_rooftop_handheld_02_51 - PSNR: 14.15, SSIM: 0.2897, LPIPS: 0.3364
+may29_rooftop_handheld_02_52 - PSNR: 14.77, SSIM: 0.3489, LPIPS: 0.2846
+
+may29_rooftop_handheld_02 Average - PSNR: 10.98, SSIM: 0.1074, LPIPS: 0.5415
+------------------------------------------------------------
+
+- Evaluating: basket_04
+basket_04_0 - PSNR: 24.36, SSIM: 0.9089, LPIPS: 0.0754
+basket_04_1 - PSNR: 17.65, SSIM: 0.8068, LPIPS: 0.1651
+basket_04_2 - PSNR: 17.12, SSIM: 0.8666, LPIPS: 0.1246
+basket_04_3 - PSNR: 19.26, SSIM: 0.8583, LPIPS: 0.1330
+basket_04_4 - PSNR: 21.32, SSIM: 0.8670, LPIPS: 0.1077
+basket_04_5 - PSNR: 20.75, SSIM: 0.8470, LPIPS: 0.1323
+basket_04_6 - PSNR: 18.47, SSIM: 0.8434, LPIPS: 0.1496
+basket_04_7 - PSNR: 18.60, SSIM: 0.8299, LPIPS: 0.1537
+basket_04_8 - PSNR: 16.77, SSIM: 0.7815, LPIPS: 0.1962
+basket_04_9 - PSNR: 16.88, SSIM: 0.8021, LPIPS: 0.1687
+basket_04_10 - PSNR: 18.22, SSIM: 0.8170, LPIPS: 0.1557
+basket_04_11 - PSNR: 16.72, SSIM: 0.7952, LPIPS: 0.1727
+basket_04_12 - PSNR: 16.48, SSIM: 0.8155, LPIPS: 0.1604
+basket_04_13 - PSNR: 18.41, SSIM: 0.8068, LPIPS: 0.1660
+basket_04_14 - PSNR: 18.05, SSIM: 0.8170, LPIPS: 0.1519
+basket_04_15 - PSNR: 19.22, SSIM: 0.8410, LPIPS: 0.1271
+basket_04_16 - PSNR: 18.54, SSIM: 0.8495, LPIPS: 0.1417
+basket_04_17 - PSNR: 19.50, SSIM: 0.8631, LPIPS: 0.1277
+basket_04_18 - PSNR: 21.82, SSIM: 0.8747, LPIPS: 0.1125
+basket_04_19 - PSNR: 22.03, SSIM: 0.8813, LPIPS: 0.1007
+basket_04_20 - PSNR: 18.12, SSIM: 0.8252, LPIPS: 0.1560
+basket_04_21 - PSNR: 17.60, SSIM: 0.8586, LPIPS: 0.1298
+basket_04_22 - PSNR: 18.72, SSIM: 0.8559, LPIPS: 0.1368
+basket_04_23 - PSNR: 17.65, SSIM: 0.8183, LPIPS: 0.1496
+basket_04_24 - PSNR: 20.82, SSIM: 0.8663, LPIPS: 0.1117
+basket_04_25 - PSNR: 22.06, SSIM: 0.8852, LPIPS: 0.1005
+basket_04_26 - PSNR: 17.91, SSIM: 0.8242, LPIPS: 0.1545
+basket_04_27 - PSNR: 18.80, SSIM: 0.8833, LPIPS: 0.1103
+basket_04_28 - PSNR: 20.99, SSIM: 0.8715, LPIPS: 0.1134
+basket_04_29 - PSNR: 17.37, SSIM: 0.8358, LPIPS: 0.1496
+
+basket_04 Average - PSNR: 19.01, SSIM: 0.8432, LPIPS: 0.1378
+------------------------------------------------------------
+
+- Evaluating: may29_rooftop_handheld_05
+may29_rooftop_handheld_05_0 - PSNR: 13.43, SSIM: 0.3004, LPIPS: 0.5176
+may29_rooftop_handheld_05_1 - PSNR: 11.67, SSIM: 0.1865, LPIPS: 0.5530
+may29_rooftop_handheld_05_2 - PSNR: 11.00, SSIM: 0.2039, LPIPS: 0.5379
+may29_rooftop_handheld_05_3 - PSNR: 10.68, SSIM: 0.1673, LPIPS: 0.5699
+may29_rooftop_handheld_05_4 - PSNR: 12.08, SSIM: 0.2337, LPIPS: 0.5363
+may29_rooftop_handheld_05_5 - PSNR: 10.19, SSIM: 0.1307, LPIPS: 0.5787
+may29_rooftop_handheld_05_6 - PSNR: 11.53, SSIM: 0.1979, LPIPS: 0.5586
+may29_rooftop_handheld_05_7 - PSNR: 11.70, SSIM: 0.2216, LPIPS: 0.5117
+may29_rooftop_handheld_05_8 - PSNR: 11.37, SSIM: 0.2010, LPIPS: 0.5170
+may29_rooftop_handheld_05_9 - PSNR: 10.84, SSIM: 0.1841, LPIPS: 0.5496
+may29_rooftop_handheld_05_10 - PSNR: 10.76, SSIM: 0.1789, LPIPS: 0.5697
+may29_rooftop_handheld_05_11 - PSNR: 10.01, SSIM: 0.1459, LPIPS: 0.5796
+may29_rooftop_handheld_05_12 - PSNR: 10.13, SSIM: 0.1209, LPIPS: 0.5889
+may29_rooftop_handheld_05_13 - PSNR: 9.36, SSIM: 0.0920, LPIPS: 0.5914
+may29_rooftop_handheld_05_14 - PSNR: 8.61, SSIM: 0.1008, LPIPS: 0.5982
+may29_rooftop_handheld_05_15 - PSNR: 7.50, SSIM: 0.0670, LPIPS: 0.5989
+may29_rooftop_handheld_05_16 - PSNR: 9.27, SSIM: 0.0789, LPIPS: 0.5739
+may29_rooftop_handheld_05_17 - PSNR: 11.99, SSIM: 0.1400, LPIPS: 0.5127
+may29_rooftop_handheld_05_18 - PSNR: 10.81, SSIM: 0.1537, LPIPS: 0.5377
+may29_rooftop_handheld_05_19 - PSNR: 7.96, SSIM: 0.1718, LPIPS: 0.5618
+may29_rooftop_handheld_05_20 - PSNR: 8.68, SSIM: 0.1502, LPIPS: 0.5545
+may29_rooftop_handheld_05_21 - PSNR: 8.89, SSIM: 0.1327, LPIPS: 0.5418
+may29_rooftop_handheld_05_22 - PSNR: 9.10, SSIM: 0.1524, LPIPS: 0.5546
+may29_rooftop_handheld_05_23 - PSNR: 8.66, SSIM: 0.0902, LPIPS: 0.5780
+may29_rooftop_handheld_05_24 - PSNR: 7.71, SSIM: 0.0455, LPIPS: 0.6279
+may29_rooftop_handheld_05_25 - PSNR: 10.87, SSIM: 0.1212, LPIPS: 0.5511
+may29_rooftop_handheld_05_26 - PSNR: 8.16, SSIM: 0.1160, LPIPS: 0.5854
+may29_rooftop_handheld_05_27 - PSNR: 9.74, SSIM: 0.1787, LPIPS: 0.5301
+may29_rooftop_handheld_05_28 - PSNR: 10.84, SSIM: 0.1604, LPIPS: 0.5182
+may29_rooftop_handheld_05_29 - PSNR: 13.08, SSIM: 0.1895, LPIPS: 0.5013
+may29_rooftop_handheld_05_30 - PSNR: 14.88, SSIM: 0.3079, LPIPS: 0.3468
+may29_rooftop_handheld_05_31 - PSNR: 19.43, SSIM: 0.5737, LPIPS: 0.2144
+may29_rooftop_handheld_05_32 - PSNR: 23.37, SSIM: 0.7747, LPIPS: 0.1462
+
+may29_rooftop_handheld_05 Average - PSNR: 11.04, SSIM: 0.1900, LPIPS: 0.5271
+------------------------------------------------------------
+
+- Evaluating: basket_03
+basket_03_0 - PSNR: 19.24, SSIM: 0.8318, LPIPS: 0.1612
+basket_03_1 - PSNR: 23.32, SSIM: 0.8865, LPIPS: 0.1152
+basket_03_2 - PSNR: 24.43, SSIM: 0.9078, LPIPS: 0.0919
+basket_03_3 - PSNR: 23.84, SSIM: 0.8909, LPIPS: 0.0950
+basket_03_4 - PSNR: 20.49, SSIM: 0.8544, LPIPS: 0.1378
+basket_03_5 - PSNR: 19.99, SSIM: 0.8894, LPIPS: 0.1160
+basket_03_6 - PSNR: 22.15, SSIM: 0.8782, LPIPS: 0.1183
+basket_03_7 - PSNR: 24.05, SSIM: 0.9005, LPIPS: 0.0922
+basket_03_8 - PSNR: 24.73, SSIM: 0.8976, LPIPS: 0.0935
+basket_03_9 - PSNR: 20.71, SSIM: 0.8660, LPIPS: 0.1447
+basket_03_10 - PSNR: 20.12, SSIM: 0.8480, LPIPS: 0.1437
+basket_03_11 - PSNR: 23.07, SSIM: 0.8912, LPIPS: 0.1067
+basket_03_12 - PSNR: 21.84, SSIM: 0.8682, LPIPS: 0.1115
+basket_03_13 - PSNR: 20.15, SSIM: 0.8663, LPIPS: 0.1425
+basket_03_14 - PSNR: 22.71, SSIM: 0.8919, LPIPS: 0.1118
+basket_03_15 - PSNR: 20.68, SSIM: 0.8505, LPIPS: 0.1434
+basket_03_16 - PSNR: 22.88, SSIM: 0.8866, LPIPS: 0.1048
+basket_03_17 - PSNR: 25.62, SSIM: 0.9075, LPIPS: 0.0917
+basket_03_18 - PSNR: 20.84, SSIM: 0.8714, LPIPS: 0.1407
+basket_03_19 - PSNR: 24.09, SSIM: 0.9113, LPIPS: 0.1017
+basket_03_20 - PSNR: 21.88, SSIM: 0.8634, LPIPS: 0.1284
+basket_03_21 - PSNR: 25.60, SSIM: 0.9002, LPIPS: 0.0914
+basket_03_22 - PSNR: 27.75, SSIM: 0.9177, LPIPS: 0.0816
+basket_03_23 - PSNR: 23.36, SSIM: 0.8724, LPIPS: 0.1259
+basket_03_24 - PSNR: 21.32, SSIM: 0.8901, LPIPS: 0.1197
+basket_03_25 - PSNR: 21.09, SSIM: 0.8675, LPIPS: 0.1325
+basket_03_26 - PSNR: 27.82, SSIM: 0.9180, LPIPS: 0.0852
+basket_03_27 - PSNR: 26.97, SSIM: 0.9065, LPIPS: 0.0910
+basket_03_28 - PSNR: 22.84, SSIM: 0.8788, LPIPS: 0.1227
+basket_03_29 - PSNR: 21.80, SSIM: 0.8859, LPIPS: 0.1259
+
+basket_03 Average - PSNR: 22.85, SSIM: 0.8832, LPIPS: 0.1156
+------------------------------------------------------------
+
+- Evaluating: eggs_05
+eggs_05_0 - PSNR: 26.18, SSIM: 0.8956, LPIPS: 0.1034
+eggs_05_1 - PSNR: 26.13, SSIM: 0.8955, LPIPS: 0.1034
+eggs_05_2 - PSNR: 26.46, SSIM: 0.9001, LPIPS: 0.1000
+
+eggs_05 Average - PSNR: 26.26, SSIM: 0.8971, LPIPS: 0.1023
+------------------------------------------------------------
+
+- Evaluating: may29_handheld_01
+may29_handheld_01_0 - PSNR: 11.65, SSIM: 0.3698, LPIPS: 0.4446
+may29_handheld_01_1 - PSNR: 13.11, SSIM: 0.4099, LPIPS: 0.4332
+may29_handheld_01_2 - PSNR: 12.18, SSIM: 0.3962, LPIPS: 0.4719
+may29_handheld_01_3 - PSNR: 11.32, SSIM: 0.3691, LPIPS: 0.4759
+may29_handheld_01_4 - PSNR: 13.56, SSIM: 0.3462, LPIPS: 0.4300
+may29_handheld_01_5 - PSNR: 14.76, SSIM: 0.3860, LPIPS: 0.4382
+may29_handheld_01_6 - PSNR: 16.50, SSIM: 0.4449, LPIPS: 0.3929
+may29_handheld_01_7 - PSNR: 19.26, SSIM: 0.5934, LPIPS: 0.2748
+may29_handheld_01_8 - PSNR: 15.11, SSIM: 0.4547, LPIPS: 0.4355
+may29_handheld_01_9 - PSNR: 16.75, SSIM: 0.4650, LPIPS: 0.3581
+may29_handheld_01_10 - PSNR: 16.31, SSIM: 0.4554, LPIPS: 0.3950
+may29_handheld_01_11 - PSNR: 15.47, SSIM: 0.4438, LPIPS: 0.4673
+may29_handheld_01_12 - PSNR: 14.03, SSIM: 0.4498, LPIPS: 0.4659
+may29_handheld_01_13 - PSNR: 12.48, SSIM: 0.3530, LPIPS: 0.4771
+may29_handheld_01_14 - PSNR: 14.00, SSIM: 0.4004, LPIPS: 0.3986
+may29_handheld_01_15 - PSNR: 12.88, SSIM: 0.3748, LPIPS: 0.4782
+may29_handheld_01_16 - PSNR: 12.96, SSIM: 0.3533, LPIPS: 0.4632
+may29_handheld_01_17 - PSNR: 15.31, SSIM: 0.4204, LPIPS: 0.4048
+may29_handheld_01_18 - PSNR: 14.96, SSIM: 0.4244, LPIPS: 0.3877
+may29_handheld_01_19 - PSNR: 16.19, SSIM: 0.4920, LPIPS: 0.3880
+may29_handheld_01_20 - PSNR: 8.96, SSIM: 0.3029, LPIPS: 0.5871
+may29_handheld_01_21 - PSNR: 12.60, SSIM: 0.4217, LPIPS: 0.4514
+may29_handheld_01_22 - PSNR: 12.81, SSIM: 0.3839, LPIPS: 0.4804
+may29_handheld_01_23 - PSNR: 16.29, SSIM: 0.4731, LPIPS: 0.4221
+may29_handheld_01_24 - PSNR: 17.37, SSIM: 0.5017, LPIPS: 0.3467
+may29_handheld_01_25 - PSNR: 14.94, SSIM: 0.4194, LPIPS: 0.4801
+may29_handheld_01_26 - PSNR: 15.99, SSIM: 0.3827, LPIPS: 0.3810
+may29_handheld_01_27 - PSNR: 18.48, SSIM: 0.5406, LPIPS: 0.2984
+may29_handheld_01_28 - PSNR: 17.43, SSIM: 0.4924, LPIPS: 0.3270
+may29_handheld_01_29 - PSNR: 15.55, SSIM: 0.4086, LPIPS: 0.3991
+may29_handheld_01_30 - PSNR: 15.99, SSIM: 0.4259, LPIPS: 0.3688
+may29_handheld_01_31 - PSNR: 14.49, SSIM: 0.4141, LPIPS: 0.4474
+may29_handheld_01_32 - PSNR: 13.85, SSIM: 0.4089, LPIPS: 0.4822
+may29_handheld_01_33 - PSNR: 14.77, SSIM: 0.4572, LPIPS: 0.4392
+may29_handheld_01_34 - PSNR: 14.78, SSIM: 0.4814, LPIPS: 0.4194
+may29_handheld_01_35 - PSNR: 15.49, SSIM: 0.4189, LPIPS: 0.4154
+may29_handheld_01_36 - PSNR: 14.85, SSIM: 0.4604, LPIPS: 0.4533
+may29_handheld_01_37 - PSNR: 13.45, SSIM: 0.3470, LPIPS: 0.5301
+may29_handheld_01_38 - PSNR: 14.04, SSIM: 0.3939, LPIPS: 0.4755
+may29_handheld_01_39 - PSNR: 17.32, SSIM: 0.4999, LPIPS: 0.3458
+may29_handheld_01_40 - PSNR: 17.14, SSIM: 0.5299, LPIPS: 0.3358
+may29_handheld_01_41 - PSNR: 15.00, SSIM: 0.4819, LPIPS: 0.4261
+may29_handheld_01_42 - PSNR: 13.24, SSIM: 0.4081, LPIPS: 0.4725
+
+may29_handheld_01 Average - PSNR: 14.74, SSIM: 0.4292, LPIPS: 0.4248
+------------------------------------------------------------
+
+- Evaluating: may28_tennis_baloon_01
+may28_tennis_baloon_01_0 - PSNR: 21.82, SSIM: 0.9382, LPIPS: 0.0637
+may28_tennis_baloon_01_1 - PSNR: 20.86, SSIM: 0.9246, LPIPS: 0.0681
+may28_tennis_baloon_01_2 - PSNR: 15.90, SSIM: 0.8174, LPIPS: 0.1663
+may28_tennis_baloon_01_3 - PSNR: 17.55, SSIM: 0.7855, LPIPS: 0.1770
+may28_tennis_baloon_01_4 - PSNR: 17.69, SSIM: 0.7961, LPIPS: 0.1813
+may28_tennis_baloon_01_5 - PSNR: 14.39, SSIM: 0.7512, LPIPS: 0.2160
+may28_tennis_baloon_01_6 - PSNR: 22.54, SSIM: 0.9231, LPIPS: 0.0631
+may28_tennis_baloon_01_7 - PSNR: 25.86, SSIM: 0.9511, LPIPS: 0.0468
+may28_tennis_baloon_01_8 - PSNR: 24.51, SSIM: 0.9356, LPIPS: 0.0557
+may28_tennis_baloon_01_9 - PSNR: 22.91, SSIM: 0.8854, LPIPS: 0.0803
+may28_tennis_baloon_01_10 - PSNR: 14.80, SSIM: 0.3750, LPIPS: 0.2655
+may28_tennis_baloon_01_11 - PSNR: 15.52, SSIM: 0.7353, LPIPS: 0.2179
+may28_tennis_baloon_01_12 - PSNR: 16.26, SSIM: 0.7831, LPIPS: 0.1927
+
+may28_tennis_baloon_01 Average - PSNR: 19.28, SSIM: 0.8155, LPIPS: 0.1380
+------------------------------------------------------------
+
+- Evaluating: acquarium_03
+acquarium_03_0 - PSNR: 25.58, SSIM: 0.8877, LPIPS: 0.0968
+acquarium_03_1 - PSNR: 27.12, SSIM: 0.8895, LPIPS: 0.0940
+acquarium_03_2 - PSNR: 26.95, SSIM: 0.8890, LPIPS: 0.0941
+acquarium_03_3 - PSNR: 26.16, SSIM: 0.8901, LPIPS: 0.0952
+acquarium_03_4 - PSNR: 24.07, SSIM: 0.8862, LPIPS: 0.1006
+acquarium_03_5 - PSNR: 24.25, SSIM: 0.8726, LPIPS: 0.1113
+acquarium_03_6 - PSNR: 20.04, SSIM: 0.8191, LPIPS: 0.1615
+acquarium_03_7 - PSNR: 21.93, SSIM: 0.7999, LPIPS: 0.1663
+acquarium_03_8 - PSNR: 21.91, SSIM: 0.7974, LPIPS: 0.1610
+acquarium_03_9 - PSNR: 20.17, SSIM: 0.7782, LPIPS: 0.1818
+acquarium_03_10 - PSNR: 21.05, SSIM: 0.7796, LPIPS: 0.1788
+acquarium_03_11 - PSNR: 21.40, SSIM: 0.7969, LPIPS: 0.1647
+acquarium_03_12 - PSNR: 21.58, SSIM: 0.8001, LPIPS: 0.1627
+acquarium_03_13 - PSNR: 22.08, SSIM: 0.8105, LPIPS: 0.1572
+acquarium_03_14 - PSNR: 21.80, SSIM: 0.8047, LPIPS: 0.1627
+
+acquarium_03 Average - PSNR: 23.07, SSIM: 0.8334, LPIPS: 0.1392
+------------------------------------------------------------
+
+- Evaluating: horse_05
+horse_05_0 - PSNR: 29.39, SSIM: 0.9539, LPIPS: 0.0503
+horse_05_1 - PSNR: 29.32, SSIM: 0.9518, LPIPS: 0.0515
+horse_05_2 - PSNR: 29.05, SSIM: 0.9489, LPIPS: 0.0540
+horse_05_3 - PSNR: 28.18, SSIM: 0.9413, LPIPS: 0.0592
+horse_05_4 - PSNR: 27.46, SSIM: 0.9300, LPIPS: 0.0659
+horse_05_5 - PSNR: 28.80, SSIM: 0.9474, LPIPS: 0.0553
+horse_05_6 - PSNR: 28.89, SSIM: 0.9473, LPIPS: 0.0551
+horse_05_7 - PSNR: 28.58, SSIM: 0.9440, LPIPS: 0.0579
+horse_05_8 - PSNR: 29.07, SSIM: 0.9507, LPIPS: 0.0535
+
+horse_05 Average - PSNR: 28.75, SSIM: 0.9462, LPIPS: 0.0558
+------------------------------------------------------------
+
+- Evaluating: may28_pan_color_02
+may28_pan_color_02_0 - PSNR: 28.56, SSIM: 0.9486, LPIPS: 0.0543
+may28_pan_color_02_1 - PSNR: 28.63, SSIM: 0.9435, LPIPS: 0.0602
+may28_pan_color_02_2 - PSNR: 28.29, SSIM: 0.9487, LPIPS: 0.0548
+may28_pan_color_02_3 - PSNR: 25.53, SSIM: 0.9131, LPIPS: 0.0778
+may28_pan_color_02_4 - PSNR: 25.77, SSIM: 0.9183, LPIPS: 0.0790
+may28_pan_color_02_5 - PSNR: 27.43, SSIM: 0.9257, LPIPS: 0.0737
+may28_pan_color_02_6 - PSNR: 27.27, SSIM: 0.9236, LPIPS: 0.0747
+may28_pan_color_02_7 - PSNR: 24.97, SSIM: 0.9218, LPIPS: 0.0789
+may28_pan_color_02_8 - PSNR: 21.47, SSIM: 0.8790, LPIPS: 0.1032
+may28_pan_color_02_9 - PSNR: 20.69, SSIM: 0.8332, LPIPS: 0.1273
+may28_pan_color_02_10 - PSNR: 19.29, SSIM: 0.8494, LPIPS: 0.1452
+may28_pan_color_02_11 - PSNR: 20.20, SSIM: 0.8553, LPIPS: 0.1408
+may28_pan_color_02_12 - PSNR: 20.58, SSIM: 0.8689, LPIPS: 0.1276
+may28_pan_color_02_13 - PSNR: 20.17, SSIM: 0.8622, LPIPS: 0.1346
+may28_pan_color_02_14 - PSNR: 20.97, SSIM: 0.8772, LPIPS: 0.1168
+may28_pan_color_02_15 - PSNR: 20.32, SSIM: 0.8711, LPIPS: 0.1268
+may28_pan_color_02_16 - PSNR: 20.30, SSIM: 0.8727, LPIPS: 0.1222
+may28_pan_color_02_17 - PSNR: 20.33, SSIM: 0.8766, LPIPS: 0.1189
+
+may28_pan_color_02 Average - PSNR: 23.38, SSIM: 0.8938, LPIPS: 0.1009
+------------------------------------------------------------
+
+- Evaluating: may29_handheld_03
+may29_handheld_03_0 - PSNR: 14.19, SSIM: 0.4382, LPIPS: 0.4565
+may29_handheld_03_1 - PSNR: 17.34, SSIM: 0.5345, LPIPS: 0.3122
+may29_handheld_03_2 - PSNR: 16.36, SSIM: 0.4966, LPIPS: 0.3810
+may29_handheld_03_3 - PSNR: 14.01, SSIM: 0.4357, LPIPS: 0.4770
+may29_handheld_03_4 - PSNR: 16.07, SSIM: 0.4690, LPIPS: 0.3734
+may29_handheld_03_5 - PSNR: 13.39, SSIM: 0.3705, LPIPS: 0.4992
+may29_handheld_03_6 - PSNR: 16.52, SSIM: 0.5083, LPIPS: 0.3519
+may29_handheld_03_7 - PSNR: 16.28, SSIM: 0.4850, LPIPS: 0.3336
+may29_handheld_03_8 - PSNR: 16.31, SSIM: 0.4974, LPIPS: 0.3505
+may29_handheld_03_9 - PSNR: 16.40, SSIM: 0.4992, LPIPS: 0.3734
+may29_handheld_03_10 - PSNR: 15.28, SSIM: 0.4883, LPIPS: 0.4268
+may29_handheld_03_11 - PSNR: 16.17, SSIM: 0.5080, LPIPS: 0.3795
+may29_handheld_03_12 - PSNR: 18.06, SSIM: 0.5768, LPIPS: 0.3313
+may29_handheld_03_13 - PSNR: 15.56, SSIM: 0.4980, LPIPS: 0.4125
+may29_handheld_03_14 - PSNR: 17.33, SSIM: 0.5539, LPIPS: 0.3255
+may29_handheld_03_15 - PSNR: 16.00, SSIM: 0.5317, LPIPS: 0.3103
+may29_handheld_03_16 - PSNR: 14.47, SSIM: 0.4947, LPIPS: 0.3847
+may29_handheld_03_17 - PSNR: 17.99, SSIM: 0.6308, LPIPS: 0.2747
+may29_handheld_03_18 - PSNR: 15.15, SSIM: 0.5121, LPIPS: 0.4055
+may29_handheld_03_19 - PSNR: 15.24, SSIM: 0.5266, LPIPS: 0.3903
+may29_handheld_03_20 - PSNR: 17.74, SSIM: 0.6098, LPIPS: 0.3036
+may29_handheld_03_21 - PSNR: 17.46, SSIM: 0.5731, LPIPS: 0.3459
+may29_handheld_03_22 - PSNR: 15.54, SSIM: 0.5143, LPIPS: 0.4268
+may29_handheld_03_23 - PSNR: 17.24, SSIM: 0.5452, LPIPS: 0.3594
+may29_handheld_03_24 - PSNR: 16.47, SSIM: 0.5046, LPIPS: 0.3863
+may29_handheld_03_25 - PSNR: 17.48, SSIM: 0.5350, LPIPS: 0.3205
+may29_handheld_03_26 - PSNR: 17.12, SSIM: 0.5230, LPIPS: 0.3571
+may29_handheld_03_27 - PSNR: 15.48, SSIM: 0.4638, LPIPS: 0.4012
+may29_handheld_03_28 - PSNR: 16.48, SSIM: 0.5040, LPIPS: 0.3532
+may29_handheld_03_29 - PSNR: 14.98, SSIM: 0.4553, LPIPS: 0.4200
+may29_handheld_03_30 - PSNR: 14.37, SSIM: 0.4277, LPIPS: 0.4165
+may29_handheld_03_31 - PSNR: 15.01, SSIM: 0.4551, LPIPS: 0.4003
+may29_handheld_03_32 - PSNR: 16.50, SSIM: 0.5102, LPIPS: 0.3596
+may29_handheld_03_33 - PSNR: 16.12, SSIM: 0.5051, LPIPS: 0.3970
+may29_handheld_03_34 - PSNR: 18.90, SSIM: 0.5862, LPIPS: 0.2392
+may29_handheld_03_35 - PSNR: 16.61, SSIM: 0.5174, LPIPS: 0.3667
+may29_handheld_03_36 - PSNR: 17.60, SSIM: 0.5493, LPIPS: 0.3256
+may29_handheld_03_37 - PSNR: 16.20, SSIM: 0.4734, LPIPS: 0.3737
+may29_handheld_03_38 - PSNR: 14.15, SSIM: 0.4280, LPIPS: 0.4495
+may29_handheld_03_39 - PSNR: 15.19, SSIM: 0.4339, LPIPS: 0.4167
+may29_handheld_03_40 - PSNR: 14.52, SSIM: 0.4280, LPIPS: 0.4200
+may29_handheld_03_41 - PSNR: 17.39, SSIM: 0.4958, LPIPS: 0.3237
+may29_handheld_03_42 - PSNR: 17.81, SSIM: 0.5312, LPIPS: 0.3146
+may29_handheld_03_43 - PSNR: 14.81, SSIM: 0.4567, LPIPS: 0.4264
+may29_handheld_03_44 - PSNR: 15.75, SSIM: 0.4667, LPIPS: 0.3756
+may29_handheld_03_45 - PSNR: 15.49, SSIM: 0.4531, LPIPS: 0.3965
+may29_handheld_03_46 - PSNR: 15.34, SSIM: 0.4457, LPIPS: 0.4272
+may29_handheld_03_47 - PSNR: 18.16, SSIM: 0.5485, LPIPS: 0.2958
+may29_handheld_03_48 - PSNR: 17.55, SSIM: 0.5144, LPIPS: 0.3200
+may29_handheld_03_49 - PSNR: 18.68, SSIM: 0.5585, LPIPS: 0.2768
+may29_handheld_03_50 - PSNR: 17.43, SSIM: 0.5477, LPIPS: 0.3243
+may29_handheld_03_51 - PSNR: 18.26, SSIM: 0.5508, LPIPS: 0.2950
+may29_handheld_03_52 - PSNR: 18.89, SSIM: 0.5873, LPIPS: 0.2654
+may29_handheld_03_53 - PSNR: 17.13, SSIM: 0.4915, LPIPS: 0.3341
+may29_handheld_03_54 - PSNR: 16.53, SSIM: 0.4873, LPIPS: 0.3687
+may29_handheld_03_55 - PSNR: 18.35, SSIM: 0.5686, LPIPS: 0.2902
+
+may29_handheld_03 Average - PSNR: 16.37, SSIM: 0.5054, LPIPS: 0.3647
+------------------------------------------------------------
+
+- Evaluating: elastic_bands_03
+elastic_bands_03_0 - PSNR: 22.77, SSIM: 0.8925, LPIPS: 0.1097
+elastic_bands_03_1 - PSNR: 21.40, SSIM: 0.8840, LPIPS: 0.1201
+elastic_bands_03_2 - PSNR: 20.61, SSIM: 0.8552, LPIPS: 0.1346
+elastic_bands_03_3 - PSNR: 17.21, SSIM: 0.7376, LPIPS: 0.2153
+elastic_bands_03_4 - PSNR: 17.24, SSIM: 0.7433, LPIPS: 0.2238
+elastic_bands_03_5 - PSNR: 16.91, SSIM: 0.7650, LPIPS: 0.1801
+elastic_bands_03_6 - PSNR: 16.21, SSIM: 0.7322, LPIPS: 0.2105
+elastic_bands_03_7 - PSNR: 16.41, SSIM: 0.7239, LPIPS: 0.2203
+elastic_bands_03_8 - PSNR: 16.85, SSIM: 0.7559, LPIPS: 0.1754
+elastic_bands_03_9 - PSNR: 17.78, SSIM: 0.7862, LPIPS: 0.1854
+elastic_bands_03_10 - PSNR: 15.49, SSIM: 0.6991, LPIPS: 0.2505
+elastic_bands_03_11 - PSNR: 16.31, SSIM: 0.7388, LPIPS: 0.2294
+elastic_bands_03_12 - PSNR: 16.97, SSIM: 0.7813, LPIPS: 0.1660
+elastic_bands_03_13 - PSNR: 16.90, SSIM: 0.7544, LPIPS: 0.2064
+elastic_bands_03_14 - PSNR: 17.20, SSIM: 0.7697, LPIPS: 0.1964
+elastic_bands_03_15 - PSNR: 14.38, SSIM: 0.6223, LPIPS: 0.2980
+elastic_bands_03_16 - PSNR: 15.74, SSIM: 0.7228, LPIPS: 0.2153
+elastic_bands_03_17 - PSNR: 15.80, SSIM: 0.7179, LPIPS: 0.2250
+elastic_bands_03_18 - PSNR: 15.53, SSIM: 0.6844, LPIPS: 0.2249
+elastic_bands_03_19 - PSNR: 15.45, SSIM: 0.6505, LPIPS: 0.2329
+elastic_bands_03_20 - PSNR: 15.89, SSIM: 0.7019, LPIPS: 0.1887
+elastic_bands_03_21 - PSNR: 15.57, SSIM: 0.7230, LPIPS: 0.2205
+elastic_bands_03_22 - PSNR: 15.98, SSIM: 0.6934, LPIPS: 0.2323
+elastic_bands_03_23 - PSNR: 18.11, SSIM: 0.7927, LPIPS: 0.1683
+elastic_bands_03_24 - PSNR: 18.43, SSIM: 0.7983, LPIPS: 0.2010
+elastic_bands_03_25 - PSNR: 18.39, SSIM: 0.7815, LPIPS: 0.1916
+elastic_bands_03_26 - PSNR: 18.11, SSIM: 0.8187, LPIPS: 0.1661
+elastic_bands_03_27 - PSNR: 16.52, SSIM: 0.7276, LPIPS: 0.2024
+elastic_bands_03_28 - PSNR: 16.08, SSIM: 0.6971, LPIPS: 0.2385
+elastic_bands_03_29 - PSNR: 15.32, SSIM: 0.6576, LPIPS: 0.2582
+elastic_bands_03_30 - PSNR: 15.10, SSIM: 0.6694, LPIPS: 0.2312
+elastic_bands_03_31 - PSNR: 16.07, SSIM: 0.7138, LPIPS: 0.2202
+elastic_bands_03_32 - PSNR: 14.73, SSIM: 0.6499, LPIPS: 0.2603
+elastic_bands_03_33 - PSNR: 17.75, SSIM: 0.7581, LPIPS: 0.1802
+
+elastic_bands_03 Average - PSNR: 16.92, SSIM: 0.7412, LPIPS: 0.2053
+------------------------------------------------------------
+
+- Evaluating: horse_07
+horse_07_0 - PSNR: 28.49, SSIM: 0.9122, LPIPS: 0.0957
+horse_07_1 - PSNR: 28.55, SSIM: 0.9110, LPIPS: 0.0955
+horse_07_2 - PSNR: 28.64, SSIM: 0.9121, LPIPS: 0.0972
+horse_07_3 - PSNR: 28.73, SSIM: 0.9128, LPIPS: 0.0953
+horse_07_4 - PSNR: 28.85, SSIM: 0.9133, LPIPS: 0.0950
+horse_07_5 - PSNR: 28.87, SSIM: 0.9141, LPIPS: 0.0950
+horse_07_6 - PSNR: 28.76, SSIM: 0.9131, LPIPS: 0.0972
+horse_07_7 - PSNR: 28.70, SSIM: 0.9126, LPIPS: 0.0946
+horse_07_8 - PSNR: 28.64, SSIM: 0.9123, LPIPS: 0.0948
+horse_07_9 - PSNR: 28.68, SSIM: 0.9130, LPIPS: 0.0946
+horse_07_10 - PSNR: 28.70, SSIM: 0.9133, LPIPS: 0.0947
+horse_07_11 - PSNR: 28.82, SSIM: 0.9137, LPIPS: 0.0953
+horse_07_12 - PSNR: 28.98, SSIM: 0.9141, LPIPS: 0.0949
+horse_07_13 - PSNR: 28.92, SSIM: 0.9138, LPIPS: 0.0946
+horse_07_14 - PSNR: 28.95, SSIM: 0.9133, LPIPS: 0.0946
+horse_07_15 - PSNR: 28.97, SSIM: 0.9144, LPIPS: 0.0942
+horse_07_16 - PSNR: 28.87, SSIM: 0.9125, LPIPS: 0.1004
+horse_07_17 - PSNR: 29.00, SSIM: 0.9151, LPIPS: 0.0937
+horse_07_18 - PSNR: 28.89, SSIM: 0.9135, LPIPS: 0.0951
+horse_07_19 - PSNR: 28.91, SSIM: 0.9137, LPIPS: 0.0947
+horse_07_20 - PSNR: 28.78, SSIM: 0.9123, LPIPS: 0.0951
+horse_07_21 - PSNR: 28.75, SSIM: 0.9121, LPIPS: 0.0953
+horse_07_22 - PSNR: 28.69, SSIM: 0.9111, LPIPS: 0.0957
+horse_07_23 - PSNR: 28.48, SSIM: 0.9102, LPIPS: 0.0968
+horse_07_24 - PSNR: 27.87, SSIM: 0.9069, LPIPS: 0.1014
+horse_07_25 - PSNR: 26.88, SSIM: 0.9010, LPIPS: 0.1045
+horse_07_26 - PSNR: 25.50, SSIM: 0.8936, LPIPS: 0.1086
+horse_07_27 - PSNR: 24.75, SSIM: 0.8865, LPIPS: 0.1137
+horse_07_28 - PSNR: 23.27, SSIM: 0.8716, LPIPS: 0.1249
+horse_07_29 - PSNR: 21.18, SSIM: 0.8466, LPIPS: 0.1446
+horse_07_30 - PSNR: 19.71, SSIM: 0.8178, LPIPS: 0.1714
+horse_07_31 - PSNR: 17.86, SSIM: 0.7709, LPIPS: 0.2029
+horse_07_32 - PSNR: 17.41, SSIM: 0.7824, LPIPS: 0.1959
+
+horse_07 Average - PSNR: 27.12, SSIM: 0.8966, LPIPS: 0.1078
+------------------------------------------------------------
+
+- Evaluating: acquarium_01
+acquarium_01_0 - PSNR: 24.15, SSIM: 0.8562, LPIPS: 0.1432
+acquarium_01_1 - PSNR: 21.57, SSIM: 0.8136, LPIPS: 0.1831
+acquarium_01_2 - PSNR: 21.68, SSIM: 0.8014, LPIPS: 0.1849
+acquarium_01_3 - PSNR: 23.80, SSIM: 0.8272, LPIPS: 0.1586
+acquarium_01_4 - PSNR: 22.40, SSIM: 0.8261, LPIPS: 0.1670
+acquarium_01_5 - PSNR: 21.86, SSIM: 0.8163, LPIPS: 0.1784
+acquarium_01_6 - PSNR: 21.10, SSIM: 0.8039, LPIPS: 0.1933
+acquarium_01_7 - PSNR: 22.20, SSIM: 0.8232, LPIPS: 0.1684
+acquarium_01_8 - PSNR: 24.05, SSIM: 0.8371, LPIPS: 0.1529
+acquarium_01_9 - PSNR: 21.84, SSIM: 0.8241, LPIPS: 0.1723
+
+acquarium_01 Average - PSNR: 22.47, SSIM: 0.8229, LPIPS: 0.1702
+------------------------------------------------------------
+
+- Evaluating: ball_03
+ball_03_0 - PSNR: 19.76, SSIM: 0.6485, LPIPS: 0.2319
+ball_03_1 - PSNR: 19.77, SSIM: 0.6430, LPIPS: 0.2329
+ball_03_2 - PSNR: 19.91, SSIM: 0.6517, LPIPS: 0.2190
+ball_03_3 - PSNR: 19.70, SSIM: 0.6552, LPIPS: 0.2195
+ball_03_4 - PSNR: 19.61, SSIM: 0.6470, LPIPS: 0.2300
+ball_03_5 - PSNR: 19.82, SSIM: 0.6398, LPIPS: 0.2267
+ball_03_6 - PSNR: 18.40, SSIM: 0.6260, LPIPS: 0.2491
+ball_03_7 - PSNR: 18.75, SSIM: 0.6286, LPIPS: 0.2439
+ball_03_8 - PSNR: 19.66, SSIM: 0.6408, LPIPS: 0.2335
+ball_03_9 - PSNR: 19.11, SSIM: 0.6287, LPIPS: 0.2429
+ball_03_10 - PSNR: 19.39, SSIM: 0.6298, LPIPS: 0.2323
+ball_03_11 - PSNR: 19.12, SSIM: 0.6255, LPIPS: 0.2457
+ball_03_12 - PSNR: 17.74, SSIM: 0.5991, LPIPS: 0.2818
+ball_03_13 - PSNR: 14.17, SSIM: 0.5429, LPIPS: 0.3455
+ball_03_14 - PSNR: 19.62, SSIM: 0.6684, LPIPS: 0.2207
+ball_03_15 - PSNR: 19.75, SSIM: 0.6626, LPIPS: 0.2269
+ball_03_16 - PSNR: 14.12, SSIM: 0.5622, LPIPS: 0.3314
+ball_03_17 - PSNR: 16.64, SSIM: 0.5977, LPIPS: 0.2785
+ball_03_18 - PSNR: 16.44, SSIM: 0.6167, LPIPS: 0.2699
+ball_03_19 - PSNR: 17.59, SSIM: 0.6370, LPIPS: 0.2375
+ball_03_20 - PSNR: 17.87, SSIM: 0.6343, LPIPS: 0.2530
+ball_03_21 - PSNR: 17.72, SSIM: 0.6099, LPIPS: 0.2699
+ball_03_22 - PSNR: 15.86, SSIM: 0.6124, LPIPS: 0.2642
+ball_03_23 - PSNR: 18.30, SSIM: 0.6318, LPIPS: 0.2431
+ball_03_24 - PSNR: 17.46, SSIM: 0.6242, LPIPS: 0.2597
+ball_03_25 - PSNR: 15.93, SSIM: 0.6297, LPIPS: 0.2557
+ball_03_26 - PSNR: 18.50, SSIM: 0.6346, LPIPS: 0.2428
+ball_03_27 - PSNR: 17.34, SSIM: 0.6089, LPIPS: 0.2665
+ball_03_28 - PSNR: 17.05, SSIM: 0.6129, LPIPS: 0.2744
+ball_03_29 - PSNR: 17.55, SSIM: 0.6203, LPIPS: 0.2659
+ball_03_30 - PSNR: 17.72, SSIM: 0.6284, LPIPS: 0.2506
+ball_03_31 - PSNR: 19.01, SSIM: 0.6420, LPIPS: 0.2323
+ball_03_32 - PSNR: 16.53, SSIM: 0.6028, LPIPS: 0.2795
+ball_03_33 - PSNR: 16.04, SSIM: 0.5955, LPIPS: 0.2996
+
+ball_03 Average - PSNR: 18.00, SSIM: 0.6247, LPIPS: 0.2546
+------------------------------------------------------------
+
+- Evaluating: fire_01
+fire_01_0 - PSNR: 30.54, SSIM: 0.9359, LPIPS: 0.0931
+fire_01_1 - PSNR: 29.42, SSIM: 0.9336, LPIPS: 0.0947
+fire_01_2 - PSNR: 30.32, SSIM: 0.9347, LPIPS: 0.0947
+fire_01_3 - PSNR: 28.98, SSIM: 0.9312, LPIPS: 0.0980
+fire_01_4 - PSNR: 26.61, SSIM: 0.9091, LPIPS: 0.1272
+fire_01_5 - PSNR: 26.91, SSIM: 0.9133, LPIPS: 0.1121
+fire_01_6 - PSNR: 26.09, SSIM: 0.8943, LPIPS: 0.1242
+fire_01_7 - PSNR: 23.66, SSIM: 0.8650, LPIPS: 0.1464
+fire_01_8 - PSNR: 23.15, SSIM: 0.8463, LPIPS: 0.1741
+fire_01_9 - PSNR: 21.07, SSIM: 0.8254, LPIPS: 0.1960
+fire_01_10 - PSNR: 20.73, SSIM: 0.8053, LPIPS: 0.1993
+fire_01_11 - PSNR: 19.48, SSIM: 0.7726, LPIPS: 0.2252
+fire_01_12 - PSNR: 18.36, SSIM: 0.7501, LPIPS: 0.2378
+fire_01_13 - PSNR: 18.98, SSIM: 0.7629, LPIPS: 0.2344
+fire_01_14 - PSNR: 19.33, SSIM: 0.7675, LPIPS: 0.2245
+fire_01_15 - PSNR: 17.82, SSIM: 0.7277, LPIPS: 0.2620
+fire_01_16 - PSNR: 17.82, SSIM: 0.7134, LPIPS: 0.2848
+fire_01_17 - PSNR: 17.24, SSIM: 0.7178, LPIPS: 0.2873
+fire_01_18 - PSNR: 17.79, SSIM: 0.7192, LPIPS: 0.2796
+fire_01_19 - PSNR: 17.27, SSIM: 0.7033, LPIPS: 0.3010
+fire_01_20 - PSNR: 17.37, SSIM: 0.7001, LPIPS: 0.2936
+fire_01_21 - PSNR: 16.59, SSIM: 0.6903, LPIPS: 0.3029
+fire_01_22 - PSNR: 16.93, SSIM: 0.6907, LPIPS: 0.3024
+fire_01_23 - PSNR: 16.64, SSIM: 0.6709, LPIPS: 0.3217
+fire_01_24 - PSNR: 17.41, SSIM: 0.6857, LPIPS: 0.2941
+fire_01_25 - PSNR: 17.34, SSIM: 0.7072, LPIPS: 0.2818
+fire_01_26 - PSNR: 18.00, SSIM: 0.7402, LPIPS: 0.2473
+fire_01_27 - PSNR: 18.88, SSIM: 0.7737, LPIPS: 0.2171
+fire_01_28 - PSNR: 20.37, SSIM: 0.7988, LPIPS: 0.1897
+fire_01_29 - PSNR: 19.71, SSIM: 0.7969, LPIPS: 0.2051
+fire_01_30 - PSNR: 20.32, SSIM: 0.8244, LPIPS: 0.1798
+fire_01_31 - PSNR: 20.82, SSIM: 0.8337, LPIPS: 0.1812
+fire_01_32 - PSNR: 21.35, SSIM: 0.8393, LPIPS: 0.1722
+fire_01_33 - PSNR: 21.49, SSIM: 0.8461, LPIPS: 0.1671
+
+fire_01 Average - PSNR: 21.02, SSIM: 0.7949, LPIPS: 0.2104
+------------------------------------------------------------
+
+- Evaluating: may29_rooftop_handheld_07
+may29_rooftop_handheld_07_0 - PSNR: 13.71, SSIM: 0.5635, LPIPS: 0.3795
+may29_rooftop_handheld_07_1 - PSNR: 14.93, SSIM: 0.6175, LPIPS: 0.3223
+may29_rooftop_handheld_07_2 - PSNR: 13.86, SSIM: 0.5865, LPIPS: 0.3288
+may29_rooftop_handheld_07_3 - PSNR: 13.38, SSIM: 0.5726, LPIPS: 0.3649
+may29_rooftop_handheld_07_4 - PSNR: 12.57, SSIM: 0.5469, LPIPS: 0.4361
+may29_rooftop_handheld_07_5 - PSNR: 12.22, SSIM: 0.4511, LPIPS: 0.4806
+may29_rooftop_handheld_07_6 - PSNR: 13.44, SSIM: 0.4856, LPIPS: 0.4347
+may29_rooftop_handheld_07_7 - PSNR: 11.68, SSIM: 0.4739, LPIPS: 0.4342
+may29_rooftop_handheld_07_8 - PSNR: 14.75, SSIM: 0.6172, LPIPS: 0.3181
+may29_rooftop_handheld_07_9 - PSNR: 14.73, SSIM: 0.6805, LPIPS: 0.2597
+may29_rooftop_handheld_07_10 - PSNR: 14.21, SSIM: 0.6803, LPIPS: 0.2479
+may29_rooftop_handheld_07_11 - PSNR: 19.29, SSIM: 0.7511, LPIPS: 0.2006
+may29_rooftop_handheld_07_12 - PSNR: 18.43, SSIM: 0.7530, LPIPS: 0.2063
+may29_rooftop_handheld_07_13 - PSNR: 14.87, SSIM: 0.6750, LPIPS: 0.2621
+may29_rooftop_handheld_07_14 - PSNR: 12.44, SSIM: 0.5629, LPIPS: 0.3372
+may29_rooftop_handheld_07_15 - PSNR: 11.07, SSIM: 0.5630, LPIPS: 0.3369
+
+may29_rooftop_handheld_07 Average - PSNR: 14.10, SSIM: 0.5988, LPIPS: 0.3344
+------------------------------------------------------------
+
+- Evaluating: basket_01
+basket_01_0 - PSNR: 18.81, SSIM: 0.8642, LPIPS: 0.1226
+basket_01_1 - PSNR: 20.75, SSIM: 0.9015, LPIPS: 0.0936
+basket_01_2 - PSNR: 23.39, SSIM: 0.9060, LPIPS: 0.0918
+basket_01_3 - PSNR: 19.01, SSIM: 0.8705, LPIPS: 0.1222
+basket_01_4 - PSNR: 17.36, SSIM: 0.8302, LPIPS: 0.1638
+basket_01_5 - PSNR: 18.19, SSIM: 0.8507, LPIPS: 0.1417
+basket_01_6 - PSNR: 18.64, SSIM: 0.8659, LPIPS: 0.1301
+basket_01_7 - PSNR: 18.19, SSIM: 0.8509, LPIPS: 0.1376
+basket_01_8 - PSNR: 25.59, SSIM: 0.9368, LPIPS: 0.0654
+basket_01_9 - PSNR: 21.64, SSIM: 0.8935, LPIPS: 0.1001
+basket_01_10 - PSNR: 21.04, SSIM: 0.8858, LPIPS: 0.1068
+basket_01_11 - PSNR: 22.19, SSIM: 0.8931, LPIPS: 0.1019
+basket_01_12 - PSNR: 20.52, SSIM: 0.8867, LPIPS: 0.1075
+basket_01_13 - PSNR: 25.67, SSIM: 0.9307, LPIPS: 0.0676
+basket_01_14 - PSNR: 21.31, SSIM: 0.8846, LPIPS: 0.1154
+basket_01_15 - PSNR: 21.87, SSIM: 0.8846, LPIPS: 0.1126
+basket_01_16 - PSNR: 20.95, SSIM: 0.8477, LPIPS: 0.1403
+basket_01_17 - PSNR: 21.27, SSIM: 0.8842, LPIPS: 0.1141
+basket_01_18 - PSNR: 22.97, SSIM: 0.9063, LPIPS: 0.0873
+basket_01_19 - PSNR: 25.82, SSIM: 0.9374, LPIPS: 0.0644
+basket_01_20 - PSNR: 23.81, SSIM: 0.9055, LPIPS: 0.0925
+basket_01_21 - PSNR: 21.40, SSIM: 0.8702, LPIPS: 0.1224
+basket_01_22 - PSNR: 19.69, SSIM: 0.8649, LPIPS: 0.1278
+basket_01_23 - PSNR: 18.59, SSIM: 0.8584, LPIPS: 0.1353
+basket_01_24 - PSNR: 21.46, SSIM: 0.8846, LPIPS: 0.1109
+basket_01_25 - PSNR: 23.19, SSIM: 0.9073, LPIPS: 0.0938
+basket_01_26 - PSNR: 22.28, SSIM: 0.8777, LPIPS: 0.1224
+
+basket_01 Average - PSNR: 21.32, SSIM: 0.8844, LPIPS: 0.1108
+------------------------------------------------------------
+
+- Evaluating: ball_04
+ball_04_0 - PSNR: 24.43, SSIM: 0.8088, LPIPS: 0.1360
+ball_04_1 - PSNR: 19.96, SSIM: 0.7550, LPIPS: 0.1957
+ball_04_2 - PSNR: 20.47, SSIM: 0.7502, LPIPS: 0.1924
+ball_04_3 - PSNR: 19.14, SSIM: 0.7342, LPIPS: 0.2048
+ball_04_4 - PSNR: 19.23, SSIM: 0.7430, LPIPS: 0.2104
+ball_04_5 - PSNR: 20.24, SSIM: 0.7357, LPIPS: 0.2066
+ball_04_6 - PSNR: 18.76, SSIM: 0.7173, LPIPS: 0.2298
+ball_04_7 - PSNR: 21.01, SSIM: 0.7519, LPIPS: 0.1815
+ball_04_8 - PSNR: 21.74, SSIM: 0.7682, LPIPS: 0.1663
+ball_04_9 - PSNR: 18.66, SSIM: 0.7262, LPIPS: 0.2225
+ball_04_10 - PSNR: 18.88, SSIM: 0.7185, LPIPS: 0.2284
+ball_04_11 - PSNR: 19.39, SSIM: 0.7287, LPIPS: 0.2119
+ball_04_12 - PSNR: 19.49, SSIM: 0.7346, LPIPS: 0.1985
+ball_04_13 - PSNR: 22.18, SSIM: 0.7757, LPIPS: 0.1643
+ball_04_14 - PSNR: 19.07, SSIM: 0.7406, LPIPS: 0.2118
+ball_04_15 - PSNR: 18.89, SSIM: 0.7202, LPIPS: 0.2289
+ball_04_16 - PSNR: 17.21, SSIM: 0.6865, LPIPS: 0.2523
+ball_04_17 - PSNR: 19.74, SSIM: 0.7226, LPIPS: 0.2106
+ball_04_18 - PSNR: 18.21, SSIM: 0.7140, LPIPS: 0.2279
+ball_04_19 - PSNR: 19.03, SSIM: 0.7366, LPIPS: 0.2132
+ball_04_20 - PSNR: 20.03, SSIM: 0.7503, LPIPS: 0.1907
+ball_04_21 - PSNR: 20.90, SSIM: 0.7486, LPIPS: 0.1859
+ball_04_22 - PSNR: 19.44, SSIM: 0.7264, LPIPS: 0.2168
+ball_04_23 - PSNR: 16.61, SSIM: 0.6903, LPIPS: 0.2491
+ball_04_24 - PSNR: 19.31, SSIM: 0.7334, LPIPS: 0.2036
+ball_04_25 - PSNR: 25.30, SSIM: 0.8113, LPIPS: 0.1370
+ball_04_26 - PSNR: 22.30, SSIM: 0.7777, LPIPS: 0.1697
+ball_04_27 - PSNR: 17.99, SSIM: 0.7163, LPIPS: 0.2282
+ball_04_28 - PSNR: 18.31, SSIM: 0.7050, LPIPS: 0.2320
+ball_04_29 - PSNR: 21.68, SSIM: 0.7437, LPIPS: 0.1832
+ball_04_30 - PSNR: 20.58, SSIM: 0.7327, LPIPS: 0.2028
+ball_04_31 - PSNR: 19.47, SSIM: 0.7186, LPIPS: 0.2224
+ball_04_32 - PSNR: 19.23, SSIM: 0.7167, LPIPS: 0.2036
+ball_04_33 - PSNR: 20.91, SSIM: 0.7448, LPIPS: 0.1885
+
+ball_04 Average - PSNR: 19.93, SSIM: 0.7378, LPIPS: 0.2031
+------------------------------------------------------------
+
+- Evaluating: horse_x14
+horse_x14_0 - PSNR: 19.91, SSIM: 0.7458, LPIPS: 0.1724
+horse_x14_1 - PSNR: 18.73, SSIM: 0.7350, LPIPS: 0.1812
+horse_x14_2 - PSNR: 18.16, SSIM: 0.7040, LPIPS: 0.1987
+horse_x14_3 - PSNR: 18.74, SSIM: 0.6876, LPIPS: 0.2102
+horse_x14_4 - PSNR: 18.94, SSIM: 0.7013, LPIPS: 0.1983
+horse_x14_5 - PSNR: 20.55, SSIM: 0.7437, LPIPS: 0.1601
+
+horse_x14 Average - PSNR: 19.17, SSIM: 0.7196, LPIPS: 0.1868
+------------------------------------------------------------
+
+- Evaluating: football_01
+football_01_0 - PSNR: 32.11, SSIM: 0.9685, LPIPS: 0.0441
+football_01_1 - PSNR: 28.65, SSIM: 0.9454, LPIPS: 0.0635
+football_01_2 - PSNR: 27.17, SSIM: 0.9315, LPIPS: 0.0774
+football_01_3 - PSNR: 26.24, SSIM: 0.9203, LPIPS: 0.0857
+football_01_4 - PSNR: 24.81, SSIM: 0.9063, LPIPS: 0.1001
+football_01_5 - PSNR: 25.13, SSIM: 0.9261, LPIPS: 0.0833
+football_01_6 - PSNR: 22.63, SSIM: 0.8969, LPIPS: 0.1083
+football_01_7 - PSNR: 24.93, SSIM: 0.9073, LPIPS: 0.0975
+football_01_8 - PSNR: 26.67, SSIM: 0.9312, LPIPS: 0.0816
+football_01_9 - PSNR: 26.06, SSIM: 0.9235, LPIPS: 0.0859
+football_01_10 - PSNR: 23.45, SSIM: 0.9078, LPIPS: 0.1019
+football_01_11 - PSNR: 22.93, SSIM: 0.9105, LPIPS: 0.1004
+football_01_12 - PSNR: 21.75, SSIM: 0.8944, LPIPS: 0.1218
+football_01_13 - PSNR: 19.80, SSIM: 0.8624, LPIPS: 0.1482
+football_01_14 - PSNR: 20.70, SSIM: 0.8582, LPIPS: 0.1468
+football_01_15 - PSNR: 18.14, SSIM: 0.8564, LPIPS: 0.1617
+football_01_16 - PSNR: 20.70, SSIM: 0.8758, LPIPS: 0.1302
+football_01_17 - PSNR: 23.16, SSIM: 0.8860, LPIPS: 0.1257
+football_01_18 - PSNR: 25.66, SSIM: 0.9041, LPIPS: 0.1046
+football_01_19 - PSNR: 26.26, SSIM: 0.9209, LPIPS: 0.0861
+football_01_20 - PSNR: 25.82, SSIM: 0.9164, LPIPS: 0.0897
+football_01_21 - PSNR: 26.17, SSIM: 0.9040, LPIPS: 0.1094
+football_01_22 - PSNR: 27.81, SSIM: 0.9251, LPIPS: 0.0853
+football_01_23 - PSNR: 24.94, SSIM: 0.8988, LPIPS: 0.1100
+football_01_24 - PSNR: 26.15, SSIM: 0.9094, LPIPS: 0.0924
+football_01_25 - PSNR: 22.91, SSIM: 0.9103, LPIPS: 0.0944
+football_01_26 - PSNR: 20.19, SSIM: 0.8902, LPIPS: 0.1200
+football_01_27 - PSNR: 21.84, SSIM: 0.9012, LPIPS: 0.1095
+football_01_28 - PSNR: 26.04, SSIM: 0.9306, LPIPS: 0.0817
+football_01_29 - PSNR: 24.13, SSIM: 0.9333, LPIPS: 0.0756
+
+football_01 Average - PSNR: 24.43, SSIM: 0.9084, LPIPS: 0.1008
+------------------------------------------------------------
+
+- Evaluating: may29_handheld_04
+may29_handheld_04_0 - PSNR: 16.31, SSIM: 0.5001, LPIPS: 0.3864
+may29_handheld_04_1 - PSNR: 15.42, SSIM: 0.4725, LPIPS: 0.4193
+may29_handheld_04_2 - PSNR: 18.08, SSIM: 0.6168, LPIPS: 0.2674
+may29_handheld_04_3 - PSNR: 15.67, SSIM: 0.5264, LPIPS: 0.4049
+may29_handheld_04_4 - PSNR: 14.87, SSIM: 0.5385, LPIPS: 0.4060
+may29_handheld_04_5 - PSNR: 14.64, SSIM: 0.4919, LPIPS: 0.4397
+may29_handheld_04_6 - PSNR: 16.65, SSIM: 0.5825, LPIPS: 0.3187
+may29_handheld_04_7 - PSNR: 16.52, SSIM: 0.5590, LPIPS: 0.3583
+may29_handheld_04_8 - PSNR: 17.13, SSIM: 0.5848, LPIPS: 0.3255
+may29_handheld_04_9 - PSNR: 16.99, SSIM: 0.5693, LPIPS: 0.3352
+may29_handheld_04_10 - PSNR: 16.45, SSIM: 0.5629, LPIPS: 0.3653
+may29_handheld_04_11 - PSNR: 17.86, SSIM: 0.5849, LPIPS: 0.3218
+may29_handheld_04_12 - PSNR: 15.44, SSIM: 0.5148, LPIPS: 0.4011
+may29_handheld_04_13 - PSNR: 14.74, SSIM: 0.5059, LPIPS: 0.4023
+may29_handheld_04_14 - PSNR: 19.02, SSIM: 0.6404, LPIPS: 0.2810
+may29_handheld_04_15 - PSNR: 16.07, SSIM: 0.5135, LPIPS: 0.3856
+may29_handheld_04_16 - PSNR: 16.02, SSIM: 0.5269, LPIPS: 0.3409
+may29_handheld_04_17 - PSNR: 15.39, SSIM: 0.5091, LPIPS: 0.3908
+may29_handheld_04_18 - PSNR: 16.03, SSIM: 0.5264, LPIPS: 0.3698
+may29_handheld_04_19 - PSNR: 15.11, SSIM: 0.5182, LPIPS: 0.3982
+
+may29_handheld_04 Average - PSNR: 16.22, SSIM: 0.5422, LPIPS: 0.3659
+------------------------------------------------------------
+
+- Evaluating: horse_riding4
+horse_riding4_0 - PSNR: 28.88, SSIM: 0.8732, LPIPS: 0.1094
+horse_riding4_1 - PSNR: 28.41, SSIM: 0.8636, LPIPS: 0.1198
+horse_riding4_2 - PSNR: 27.87, SSIM: 0.8544, LPIPS: 0.1278
+horse_riding4_3 - PSNR: 26.54, SSIM: 0.8522, LPIPS: 0.1322
+horse_riding4_4 - PSNR: 26.81, SSIM: 0.8463, LPIPS: 0.1378
+horse_riding4_5 - PSNR: 25.83, SSIM: 0.8524, LPIPS: 0.1363
+horse_riding4_6 - PSNR: 25.96, SSIM: 0.8458, LPIPS: 0.1409
+horse_riding4_7 - PSNR: 25.71, SSIM: 0.8444, LPIPS: 0.1428
+horse_riding4_8 - PSNR: 26.96, SSIM: 0.8555, LPIPS: 0.1296
+
+horse_riding4 Average - PSNR: 27.00, SSIM: 0.8542, LPIPS: 0.1308
+------------------------------------------------------------
+
+- Evaluating: acquarium_02
+acquarium_02_0 - PSNR: 24.45, SSIM: 0.8587, LPIPS: 0.1324
+acquarium_02_1 - PSNR: 22.71, SSIM: 0.8463, LPIPS: 0.1468
+acquarium_02_2 - PSNR: 21.26, SSIM: 0.8033, LPIPS: 0.1823
+acquarium_02_3 - PSNR: 20.76, SSIM: 0.8236, LPIPS: 0.1676
+acquarium_02_4 - PSNR: 23.18, SSIM: 0.8402, LPIPS: 0.1431
+acquarium_02_5 - PSNR: 23.33, SSIM: 0.8392, LPIPS: 0.1448
+acquarium_02_6 - PSNR: 23.55, SSIM: 0.8441, LPIPS: 0.1409
+acquarium_02_7 - PSNR: 19.57, SSIM: 0.8234, LPIPS: 0.1631
+acquarium_02_8 - PSNR: 22.49, SSIM: 0.8372, LPIPS: 0.1551
+
+acquarium_02 Average - PSNR: 22.37, SSIM: 0.8351, LPIPS: 0.1529
+------------------------------------------------------------
+
+- Evaluating: horse_04
+horse_04_0 - PSNR: 27.53, SSIM: 0.9391, LPIPS: 0.0630
+horse_04_1 - PSNR: 19.34, SSIM: 0.8660, LPIPS: 0.1158
+horse_04_2 - PSNR: 16.46, SSIM: 0.8038, LPIPS: 0.1620
+horse_04_3 - PSNR: 16.91, SSIM: 0.8146, LPIPS: 0.1550
+horse_04_4 - PSNR: 17.06, SSIM: 0.8143, LPIPS: 0.1520
+
+horse_04 Average - PSNR: 19.46, SSIM: 0.8476, LPIPS: 0.1295
+------------------------------------------------------------
+
+- Evaluating: basket_02
+basket_02_0 - PSNR: 19.60, SSIM: 0.8433, LPIPS: 0.1627
+basket_02_1 - PSNR: 23.23, SSIM: 0.8814, LPIPS: 0.1285
+basket_02_2 - PSNR: 23.87, SSIM: 0.8925, LPIPS: 0.1199
+basket_02_3 - PSNR: 19.58, SSIM: 0.8739, LPIPS: 0.1320
+basket_02_4 - PSNR: 24.30, SSIM: 0.8913, LPIPS: 0.1236
+basket_02_5 - PSNR: 21.78, SSIM: 0.8879, LPIPS: 0.1259
+basket_02_6 - PSNR: 19.23, SSIM: 0.8693, LPIPS: 0.1347
+basket_02_7 - PSNR: 16.18, SSIM: 0.8400, LPIPS: 0.1602
+basket_02_8 - PSNR: 23.24, SSIM: 0.8922, LPIPS: 0.1107
+basket_02_9 - PSNR: 19.94, SSIM: 0.8698, LPIPS: 0.1290
+basket_02_10 - PSNR: 22.80, SSIM: 0.8832, LPIPS: 0.1252
+basket_02_11 - PSNR: 21.75, SSIM: 0.8792, LPIPS: 0.1215
+basket_02_12 - PSNR: 20.67, SSIM: 0.8823, LPIPS: 0.1209
+basket_02_13 - PSNR: 23.95, SSIM: 0.8940, LPIPS: 0.1037
+basket_02_14 - PSNR: 24.45, SSIM: 0.8980, LPIPS: 0.1045
+basket_02_15 - PSNR: 24.54, SSIM: 0.8908, LPIPS: 0.1169
+basket_02_16 - PSNR: 22.54, SSIM: 0.8801, LPIPS: 0.1358
+basket_02_17 - PSNR: 20.25, SSIM: 0.8621, LPIPS: 0.1494
+basket_02_18 - PSNR: 20.51, SSIM: 0.8821, LPIPS: 0.1306
+basket_02_19 - PSNR: 19.87, SSIM: 0.8809, LPIPS: 0.1268
+basket_02_20 - PSNR: 21.97, SSIM: 0.9026, LPIPS: 0.1025
+basket_02_21 - PSNR: 20.36, SSIM: 0.8582, LPIPS: 0.1395
+
+basket_02 Average - PSNR: 21.57, SSIM: 0.8789, LPIPS: 0.1275
+------------------------------------------------------------
+
+- Evaluating: ball_00
+ball_00_0 - PSNR: 15.53, SSIM: 0.6195, LPIPS: 0.2673
+ball_00_1 - PSNR: 17.85, SSIM: 0.6922, LPIPS: 0.2260
+ball_00_2 - PSNR: 17.71, SSIM: 0.6744, LPIPS: 0.2434
+ball_00_3 - PSNR: 18.91, SSIM: 0.6932, LPIPS: 0.2202
+ball_00_4 - PSNR: 17.45, SSIM: 0.6842, LPIPS: 0.2473
+ball_00_5 - PSNR: 17.58, SSIM: 0.6621, LPIPS: 0.2536
+ball_00_6 - PSNR: 16.07, SSIM: 0.6262, LPIPS: 0.2859
+ball_00_7 - PSNR: 17.67, SSIM: 0.6828, LPIPS: 0.2344
+ball_00_8 - PSNR: 18.52, SSIM: 0.6844, LPIPS: 0.2215
+
+ball_00 Average - PSNR: 17.48, SSIM: 0.6688, LPIPS: 0.2444
+------------------------------------------------------------
+
+- Evaluating: horse_17
+horse_17_0 - PSNR: 22.45, SSIM: 0.8460, LPIPS: 0.1461
+horse_17_1 - PSNR: 21.73, SSIM: 0.8355, LPIPS: 0.1531
+horse_17_2 - PSNR: 21.52, SSIM: 0.8313, LPIPS: 0.1591
+horse_17_3 - PSNR: 20.43, SSIM: 0.8177, LPIPS: 0.1697
+horse_17_4 - PSNR: 20.75, SSIM: 0.7993, LPIPS: 0.1842
+horse_17_5 - PSNR: 21.33, SSIM: 0.7790, LPIPS: 0.2016
+horse_17_6 - PSNR: 20.97, SSIM: 0.7579, LPIPS: 0.2146
+horse_17_7 - PSNR: 21.45, SSIM: 0.7731, LPIPS: 0.2053
+horse_17_8 - PSNR: 19.32, SSIM: 0.7579, LPIPS: 0.2122
+horse_17_9 - PSNR: 18.97, SSIM: 0.7247, LPIPS: 0.2340
+horse_17_10 - PSNR: 17.52, SSIM: 0.6404, LPIPS: 0.3015
+horse_17_11 - PSNR: 19.13, SSIM: 0.6036, LPIPS: 0.3002
+horse_17_12 - PSNR: 22.30, SSIM: 0.6647, LPIPS: 0.2393
+
+horse_17 Average - PSNR: 20.61, SSIM: 0.7562, LPIPS: 0.2093
+------------------------------------------------------------
+
+- Evaluating: eggs_03
+eggs_03_0 - PSNR: 25.40, SSIM: 0.8942, LPIPS: 0.1361
+eggs_03_1 - PSNR: 27.92, SSIM: 0.8975, LPIPS: 0.1425
+eggs_03_2 - PSNR: 28.70, SSIM: 0.9441, LPIPS: 0.0813
+eggs_03_3 - PSNR: 25.84, SSIM: 0.9276, LPIPS: 0.1006
+
+eggs_03 Average - PSNR: 26.96, SSIM: 0.9159, LPIPS: 0.1151
+------------------------------------------------------------
+
+- Evaluating: basket_05
+basket_05_0 - PSNR: 20.66, SSIM: 0.9075, LPIPS: 0.0853
+basket_05_1 - PSNR: 22.23, SSIM: 0.9066, LPIPS: 0.0898
+basket_05_2 - PSNR: 18.62, SSIM: 0.8553, LPIPS: 0.1362
+basket_05_3 - PSNR: 16.02, SSIM: 0.8234, LPIPS: 0.1601
+basket_05_4 - PSNR: 17.20, SSIM: 0.8464, LPIPS: 0.1362
+basket_05_5 - PSNR: 15.74, SSIM: 0.8263, LPIPS: 0.1516
+basket_05_6 - PSNR: 18.89, SSIM: 0.8696, LPIPS: 0.1198
+basket_05_7 - PSNR: 19.33, SSIM: 0.8730, LPIPS: 0.1168
+basket_05_8 - PSNR: 20.50, SSIM: 0.8789, LPIPS: 0.1108
+basket_05_9 - PSNR: 17.20, SSIM: 0.8449, LPIPS: 0.1401
+basket_05_10 - PSNR: 18.68, SSIM: 0.8572, LPIPS: 0.1276
+basket_05_11 - PSNR: 18.76, SSIM: 0.8566, LPIPS: 0.1323
+basket_05_12 - PSNR: 18.72, SSIM: 0.8664, LPIPS: 0.1156
+basket_05_13 - PSNR: 18.57, SSIM: 0.8682, LPIPS: 0.1256
+basket_05_14 - PSNR: 19.78, SSIM: 0.8804, LPIPS: 0.1124
+basket_05_15 - PSNR: 18.70, SSIM: 0.8619, LPIPS: 0.1268
+basket_05_16 - PSNR: 16.93, SSIM: 0.8302, LPIPS: 0.1518
+basket_05_17 - PSNR: 18.19, SSIM: 0.8391, LPIPS: 0.1431
+basket_05_18 - PSNR: 17.24, SSIM: 0.8229, LPIPS: 0.1655
+basket_05_19 - PSNR: 18.47, SSIM: 0.8540, LPIPS: 0.1327
+basket_05_20 - PSNR: 18.89, SSIM: 0.8663, LPIPS: 0.1256
+basket_05_21 - PSNR: 18.06, SSIM: 0.8561, LPIPS: 0.1367
+basket_05_22 - PSNR: 14.32, SSIM: 0.7990, LPIPS: 0.1746
+basket_05_23 - PSNR: 18.29, SSIM: 0.8644, LPIPS: 0.1229
+basket_05_24 - PSNR: 16.84, SSIM: 0.8508, LPIPS: 0.1264
+basket_05_25 - PSNR: 15.16, SSIM: 0.8327, LPIPS: 0.1401
+basket_05_26 - PSNR: 15.84, SSIM: 0.8419, LPIPS: 0.1372
+
+basket_05 Average - PSNR: 18.07, SSIM: 0.8548, LPIPS: 0.1313
+------------------------------------------------------------
+
+- Evaluating: may29_rooftop_handheld_03
+may29_rooftop_handheld_03_0 - PSNR: 12.59, SSIM: 0.1821, LPIPS: 0.5256
+may29_rooftop_handheld_03_1 - PSNR: 12.82, SSIM: 0.2041, LPIPS: 0.5259
+may29_rooftop_handheld_03_2 - PSNR: 12.29, SSIM: 0.1530, LPIPS: 0.5289
+may29_rooftop_handheld_03_3 - PSNR: 13.33, SSIM: 0.1596, LPIPS: 0.5131
+may29_rooftop_handheld_03_4 - PSNR: 13.31, SSIM: 0.1578, LPIPS: 0.4949
+may29_rooftop_handheld_03_5 - PSNR: 13.56, SSIM: 0.2323, LPIPS: 0.4794
+may29_rooftop_handheld_03_6 - PSNR: 11.69, SSIM: 0.1715, LPIPS: 0.5416
+may29_rooftop_handheld_03_7 - PSNR: 13.51, SSIM: 0.2154, LPIPS: 0.4531
+may29_rooftop_handheld_03_8 - PSNR: 12.91, SSIM: 0.1641, LPIPS: 0.4660
+may29_rooftop_handheld_03_9 - PSNR: 12.52, SSIM: 0.1837, LPIPS: 0.5050
+may29_rooftop_handheld_03_10 - PSNR: 12.51, SSIM: 0.1658, LPIPS: 0.5122
+may29_rooftop_handheld_03_11 - PSNR: 12.39, SSIM: 0.1741, LPIPS: 0.5048
+may29_rooftop_handheld_03_12 - PSNR: 12.51, SSIM: 0.1927, LPIPS: 0.5145
+may29_rooftop_handheld_03_13 - PSNR: 13.74, SSIM: 0.2593, LPIPS: 0.4587
+may29_rooftop_handheld_03_14 - PSNR: 12.59, SSIM: 0.2243, LPIPS: 0.4993
+may29_rooftop_handheld_03_15 - PSNR: 13.69, SSIM: 0.2842, LPIPS: 0.4625
+may29_rooftop_handheld_03_16 - PSNR: 12.04, SSIM: 0.2194, LPIPS: 0.5289
+may29_rooftop_handheld_03_17 - PSNR: 12.65, SSIM: 0.2100, LPIPS: 0.5197
+may29_rooftop_handheld_03_18 - PSNR: 12.38, SSIM: 0.1856, LPIPS: 0.5259
+may29_rooftop_handheld_03_19 - PSNR: 12.92, SSIM: 0.2305, LPIPS: 0.5175
+may29_rooftop_handheld_03_20 - PSNR: 12.29, SSIM: 0.1763, LPIPS: 0.5452
+may29_rooftop_handheld_03_21 - PSNR: 13.43, SSIM: 0.2167, LPIPS: 0.4897
+may29_rooftop_handheld_03_22 - PSNR: 13.34, SSIM: 0.2387, LPIPS: 0.4758
+may29_rooftop_handheld_03_23 - PSNR: 13.89, SSIM: 0.2747, LPIPS: 0.4676
+may29_rooftop_handheld_03_24 - PSNR: 12.26, SSIM: 0.2558, LPIPS: 0.5328
+may29_rooftop_handheld_03_25 - PSNR: 13.00, SSIM: 0.2801, LPIPS: 0.5312
+may29_rooftop_handheld_03_26 - PSNR: 12.92, SSIM: 0.2449, LPIPS: 0.5018
+may29_rooftop_handheld_03_27 - PSNR: 13.39, SSIM: 0.2185, LPIPS: 0.4755
+may29_rooftop_handheld_03_28 - PSNR: 13.29, SSIM: 0.2329, LPIPS: 0.5146
+may29_rooftop_handheld_03_29 - PSNR: 13.88, SSIM: 0.2450, LPIPS: 0.5040
+may29_rooftop_handheld_03_30 - PSNR: 16.40, SSIM: 0.2603, LPIPS: 0.4511
+may29_rooftop_handheld_03_31 - PSNR: 13.52, SSIM: 0.2322, LPIPS: 0.5418
+may29_rooftop_handheld_03_32 - PSNR: 13.11, SSIM: 0.2166, LPIPS: 0.5348
+may29_rooftop_handheld_03_33 - PSNR: 10.25, SSIM: 0.1116, LPIPS: 0.5797
+may29_rooftop_handheld_03_34 - PSNR: 9.18, SSIM: 0.1403, LPIPS: 0.5971
+may29_rooftop_handheld_03_35 - PSNR: 11.41, SSIM: 0.2921, LPIPS: 0.5298
+may29_rooftop_handheld_03_36 - PSNR: 10.98, SSIM: 0.2951, LPIPS: 0.5186
+may29_rooftop_handheld_03_37 - PSNR: 11.35, SSIM: 0.2692, LPIPS: 0.5499
+may29_rooftop_handheld_03_38 - PSNR: 10.76, SSIM: 0.1391, LPIPS: 0.6019
+may29_rooftop_handheld_03_39 - PSNR: 10.60, SSIM: 0.1440, LPIPS: 0.5655
+may29_rooftop_handheld_03_40 - PSNR: 11.52, SSIM: 0.1372, LPIPS: 0.5216
+may29_rooftop_handheld_03_41 - PSNR: 12.68, SSIM: 0.1421, LPIPS: 0.5018
+may29_rooftop_handheld_03_42 - PSNR: 13.07, SSIM: 0.1312, LPIPS: 0.4975
+may29_rooftop_handheld_03_43 - PSNR: 12.95, SSIM: 0.1211, LPIPS: 0.5153
+may29_rooftop_handheld_03_44 - PSNR: 12.35, SSIM: 0.1103, LPIPS: 0.5097
+
+may29_rooftop_handheld_03 Average - PSNR: 12.62, SSIM: 0.2021, LPIPS: 0.5140
+------------------------------------------------------------
+
+- Evaluating: horse_03
+horse_03_0 - PSNR: 25.67, SSIM: 0.9220, LPIPS: 0.0845
+horse_03_1 - PSNR: 25.69, SSIM: 0.9222, LPIPS: 0.0842
+horse_03_2 - PSNR: 25.69, SSIM: 0.9221, LPIPS: 0.0846
+horse_03_3 - PSNR: 25.73, SSIM: 0.9224, LPIPS: 0.0846
+horse_03_4 - PSNR: 25.74, SSIM: 0.9226, LPIPS: 0.0842
+horse_03_5 - PSNR: 25.80, SSIM: 0.9230, LPIPS: 0.0842
+horse_03_6 - PSNR: 25.86, SSIM: 0.9234, LPIPS: 0.0839
+horse_03_7 - PSNR: 25.88, SSIM: 0.9239, LPIPS: 0.0828
+horse_03_8 - PSNR: 25.94, SSIM: 0.9242, LPIPS: 0.0827
+horse_03_9 - PSNR: 26.01, SSIM: 0.9249, LPIPS: 0.0832
+horse_03_10 - PSNR: 26.10, SSIM: 0.9261, LPIPS: 0.0823
+horse_03_11 - PSNR: 26.04, SSIM: 0.9265, LPIPS: 0.0818
+horse_03_12 - PSNR: 26.00, SSIM: 0.9262, LPIPS: 0.0822
+horse_03_13 - PSNR: 25.98, SSIM: 0.9260, LPIPS: 0.0825
+horse_03_14 - PSNR: 24.53, SSIM: 0.9210, LPIPS: 0.0861
+horse_03_15 - PSNR: 18.18, SSIM: 0.8554, LPIPS: 0.1341
+horse_03_16 - PSNR: 17.71, SSIM: 0.8189, LPIPS: 0.1609
+horse_03_17 - PSNR: 16.86, SSIM: 0.8076, LPIPS: 0.1732
+horse_03_18 - PSNR: 17.93, SSIM: 0.8200, LPIPS: 0.1624
+horse_03_19 - PSNR: 19.01, SSIM: 0.8298, LPIPS: 0.1532
+horse_03_20 - PSNR: 21.25, SSIM: 0.8704, LPIPS: 0.1232
+
+horse_03 Average - PSNR: 23.70, SSIM: 0.8980, LPIPS: 0.1029
+------------------------------------------------------------
+
+- Evaluating: acquarium_05
+acquarium_05_0 - PSNR: 23.58, SSIM: 0.8215, LPIPS: 0.1723
+acquarium_05_1 - PSNR: 24.72, SSIM: 0.8235, LPIPS: 0.1643
+acquarium_05_2 - PSNR: 26.32, SSIM: 0.8537, LPIPS: 0.1403
+acquarium_05_3 - PSNR: 22.40, SSIM: 0.8225, LPIPS: 0.1748
+acquarium_05_4 - PSNR: 22.93, SSIM: 0.8108, LPIPS: 0.1759
+acquarium_05_5 - PSNR: 22.00, SSIM: 0.8101, LPIPS: 0.1810
+acquarium_05_6 - PSNR: 20.45, SSIM: 0.8404, LPIPS: 0.1501
+acquarium_05_7 - PSNR: 25.06, SSIM: 0.8569, LPIPS: 0.1428
+acquarium_05_8 - PSNR: 22.52, SSIM: 0.7892, LPIPS: 0.1895
+
+acquarium_05 Average - PSNR: 23.33, SSIM: 0.8254, LPIPS: 0.1657
+------------------------------------------------------------
+
+- Evaluating: football_02
+football_02_0 - PSNR: 30.05, SSIM: 0.9465, LPIPS: 0.0633
+football_02_1 - PSNR: 29.54, SSIM: 0.9363, LPIPS: 0.0804
+football_02_2 - PSNR: 27.48, SSIM: 0.9260, LPIPS: 0.0859
+football_02_3 - PSNR: 27.95, SSIM: 0.9248, LPIPS: 0.0850
+football_02_4 - PSNR: 24.98, SSIM: 0.9058, LPIPS: 0.1052
+football_02_5 - PSNR: 26.86, SSIM: 0.9224, LPIPS: 0.0885
+football_02_6 - PSNR: 27.66, SSIM: 0.9276, LPIPS: 0.0853
+football_02_7 - PSNR: 26.22, SSIM: 0.9107, LPIPS: 0.1003
+football_02_8 - PSNR: 26.49, SSIM: 0.9164, LPIPS: 0.0964
+football_02_9 - PSNR: 25.78, SSIM: 0.9145, LPIPS: 0.0999
+football_02_10 - PSNR: 26.33, SSIM: 0.9094, LPIPS: 0.1009
+football_02_11 - PSNR: 27.66, SSIM: 0.9237, LPIPS: 0.0916
+football_02_12 - PSNR: 27.29, SSIM: 0.9217, LPIPS: 0.0908
+football_02_13 - PSNR: 24.69, SSIM: 0.9071, LPIPS: 0.1040
+football_02_14 - PSNR: 25.67, SSIM: 0.9179, LPIPS: 0.0921
+football_02_15 - PSNR: 23.83, SSIM: 0.8939, LPIPS: 0.1215
+football_02_16 - PSNR: 20.67, SSIM: 0.8651, LPIPS: 0.1524
+football_02_17 - PSNR: 21.02, SSIM: 0.8889, LPIPS: 0.1246
+football_02_18 - PSNR: 20.46, SSIM: 0.8854, LPIPS: 0.1202
+football_02_19 - PSNR: 26.12, SSIM: 0.9275, LPIPS: 0.0835
+football_02_20 - PSNR: 25.18, SSIM: 0.9105, LPIPS: 0.1003
+football_02_21 - PSNR: 20.80, SSIM: 0.8825, LPIPS: 0.1282
+football_02_22 - PSNR: 23.21, SSIM: 0.9053, LPIPS: 0.1050
+football_02_23 - PSNR: 28.88, SSIM: 0.9334, LPIPS: 0.0780
+football_02_24 - PSNR: 26.66, SSIM: 0.9348, LPIPS: 0.0725
+football_02_25 - PSNR: 25.89, SSIM: 0.9296, LPIPS: 0.0746
+football_02_26 - PSNR: 26.13, SSIM: 0.9299, LPIPS: 0.0800
+football_02_27 - PSNR: 25.80, SSIM: 0.9147, LPIPS: 0.0978
+football_02_28 - PSNR: 23.94, SSIM: 0.9080, LPIPS: 0.1048
+football_02_29 - PSNR: 26.74, SSIM: 0.9183, LPIPS: 0.0909
+
+football_02 Average - PSNR: 25.67, SSIM: 0.9146, LPIPS: 0.0968
+------------------------------------------------------------
